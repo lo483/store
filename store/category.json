@@ -1,0 +1,241 @@
+{
+  "success": true,
+  "data": [
+    {
+      "cat_name": "Application",
+      "cat_uname": "APPLICATION"
+    },
+    {
+      "cat_name": "Art&Design",
+      "cat_uname": "ART_AND_DESIGN"
+    },
+    {
+      "cat_name": "Auto&Vehicles",
+      "cat_uname": "AUTO_AND_VEHICLES"
+    },
+    {
+      "cat_name": "Beauty",
+      "cat_uname": "BEAUTY"
+    },
+    {
+      "cat_name": "Books&Reference",
+      "cat_uname": "BOOKS_AND_REFERENCE"
+    },
+    {
+      "cat_name": "Business",
+      "cat_uname": "BUSINESS"
+    },
+    {
+      "cat_name": "Comics",
+      "cat_uname": "COMICS"
+    },
+    {
+      "cat_name": "Communication",
+      "cat_uname": "COMMUNICATION"
+    },
+    {
+      "cat_name": "Dating",
+      "cat_uname": "DATING"
+    },
+    {
+      "cat_name": "Education",
+      "cat_uname": "EDUCATION"
+    },
+    {
+      "cat_name": "Entertainment",
+      "cat_uname": "ENTERTAINMENT"
+    },
+    {
+      "cat_name": "Events",
+      "cat_uname": "EVENTS"
+    },
+    {
+      "cat_name": "Finance",
+      "cat_uname": "FINANCE"
+    },
+    {
+      "cat_name": "Food&Drink",
+      "cat_uname": "FOOD_AND_DRINK"
+    },
+    {
+      "cat_name": "Health&Fitness",
+      "cat_uname": "HEALTH_AND_FITNESS"
+    },
+    {
+      "cat_name": "House&Home",
+      "cat_uname": "HOUSE_AND_HOME"
+    },
+    {
+      "cat_name": "Libraries&Demo",
+      "cat_uname": "LIBRARIES_AND_DEMO"
+    },
+    {
+      "cat_name": "Lifestyle",
+      "cat_uname": "LIFESTYLE"
+    },
+    {
+      "cat_name": "Maps&Navigation",
+      "cat_uname": "MAPS_AND_NAVIGATION"
+    },
+    {
+      "cat_name": "Medical",
+      "cat_uname": "MEDICAL"
+    },
+    {
+      "cat_name": "Music&Audio",
+      "cat_uname": "MUSIC_AND_AUDIO"
+    },
+    {
+      "cat_name": "News&Magazines",
+      "cat_uname": "NEWS_AND_MAGAZINES"
+    },
+    {
+      "cat_name": "Parenting",
+      "cat_uname": "PARENTING"
+    },
+    {
+      "cat_name": "Personalization",
+      "cat_uname": "PERSONALIZATION"
+    },
+    {
+      "cat_name": "Photography",
+      "cat_uname": "PHOTOGRAPHY"
+    },
+    {
+      "cat_name": "Productivity",
+      "cat_uname": "PRODUCTIVITY"
+    },
+    {
+      "cat_name": "Shopping",
+      "cat_uname": "SHOPPING"
+    },
+    {
+      "cat_name": "Social",
+      "cat_uname": "SOCIAL"
+    },
+    {
+      "cat_name": "Sports",
+      "cat_uname": "SPORTS"
+    },
+    {
+      "cat_name": "Tools",
+      "cat_uname": "TOOLS"
+    },
+    {
+      "cat_name": "Travel&Local",
+      "cat_uname": "TRAVEL_AND_LOCAL"
+    },
+    {
+      "cat_name": "VideoPlayers&Editors",
+      "cat_uname": "VIDEO_PLAYERS"
+    },
+    {
+      "cat_name": "WearOSbyGoogle",
+      "cat_uname": "ANDROID_WEAR"
+    },
+    {
+      "cat_name": "Weather",
+      "cat_uname": "WEATHER"
+    },
+    {
+      "cat_name": "Games",
+      "cat_uname": "GAME"
+    },
+    {
+      "cat_name": "Action",
+      "cat_uname": "GAME_ACTION"
+    },
+    {
+      "cat_name": "Adventure",
+      "cat_uname": "GAME_ADVENTURE"
+    },
+    {
+      "cat_name": "Arcade",
+      "cat_uname": "GAME_ARCADE"
+    },
+    {
+      "cat_name": "Board",
+      "cat_uname": "GAME_BOARD"
+    },
+    {
+      "cat_name": "Card",
+      "cat_uname": "GAME_CARD"
+    },
+    {
+      "cat_name": "Casino",
+      "cat_uname": "GAME_CASINO"
+    },
+    {
+      "cat_name": "Casual",
+      "cat_uname": "GAME_CASUAL"
+    },
+    {
+      "cat_name": "Educational",
+      "cat_uname": "GAME_EDUCATIONAL"
+    },
+    {
+      "cat_name": "Music",
+      "cat_uname": "GAME_MUSIC"
+    },
+    {
+      "cat_name": "Puzzle",
+      "cat_uname": "GAME_PUZZLE"
+    },
+    {
+      "cat_name": "Racing",
+      "cat_uname": "GAME_RACING"
+    },
+    {
+      "cat_name": "RolePlaying",
+      "cat_uname": "GAME_ROLE_PLAYING"
+    },
+    {
+      "cat_name": "Simulation",
+      "cat_uname": "GAME_SIMULATION"
+    },
+    {
+      "cat_name": "Sports",
+      "cat_uname": "GAME_SPORTS"
+    },
+    {
+      "cat_name": "Strategy",
+      "cat_uname": "GAME_STRATEGY"
+    },
+    {
+      "cat_name": "Trivia",
+      "cat_uname": "GAME_TRIVIA"
+    },
+    {
+      "cat_name": "Word",
+      "cat_uname": "GAME_WORD"
+    },
+    {
+      "cat_name": "Family",
+      "cat_uname": "FAMILY"
+    },
+    {
+      "cat_name": "Action&Adventure",
+      "cat_uname": "FAMILY_ACTION"
+    },
+    {
+      "cat_name": "BrainGames",
+      "cat_uname": "FAMILY_BRAINGAMES"
+    },
+    {
+      "cat_name": "Creativity",
+      "cat_uname": "FAMILY_CREATE"
+    },
+    {
+      "cat_name": "Education",
+      "cat_uname": "FAMILY_EDUCATION"
+    },
+    {
+      "cat_name": "Music&Video",
+      "cat_uname": "FAMILY_MUSICVIDEO"
+    },
+    {
+      "cat_name": "PretendPlay",
+      "cat_uname": "FAMILY_PRETEND"
+    }
+  ]
+}
