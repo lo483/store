@@ -3,7 +3,7 @@
   "results": [
     {
       "title": "ZOOM Cloud Meetings",
-      "appId": "us.zoom.videomeetings",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/us.zoom.videomeetings",
       "url": "https://play.google.com/store/apps/details?id=us.zoom.videomeetings",
       "icon": "https://play-lh.googleusercontent.com/JgU6AIREDMsGLmrFSJ8OwLb-JJVw_jwqdwEZWUHemAj0V5Dl7i7GOpmranv2GsCKobM",
       "developer": "zoom.us",
@@ -17,7 +17,7 @@
     },
     {
       "title": "discovery+ | Stream TV Shows",
-      "appId": "com.discovery.discoveryplus.mobile",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.discovery.discoveryplus.mobile",
       "url": "https://play.google.com/store/apps/details?id=com.discovery.discoveryplus.mobile",
       "icon": "https://play-lh.googleusercontent.com/XOYXQfbkJA9HMEGryVjl3sJnCSgvHWb9J4VQCO5qhGRj0Ue8bgw0kzuXTCAWSA41cZE",
       "developer": "Discovery Communications LLC",
@@ -31,7 +31,7 @@
     },
     {
       "title": "TikTok",
-      "appId": "com.zhiliaoapp.musically",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.zhiliaoapp.musically",
       "url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
       "icon": "https://play-lh.googleusercontent.com/z5nin1RdQ4UZhv6fa1FNG7VE33imGqPgC4kKZIUjgf_up7E-Pj3AaojlMPwNNXaeGA",
       "developer": "TikTok Pte. Ltd.",
@@ -45,7 +45,7 @@
     },
     {
       "title": "Signal Private Messenger",
-      "appId": "org.thoughtcrime.securesms",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/org.thoughtcrime.securesms",
       "url": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms",
       "icon": "https://play-lh.googleusercontent.com/jCln_XT8Ruzp7loH1S6yM-ZzzpLP1kZ3CCdXVEo0tP2w5HNtWQds6lo6aLxLIjiW_X8",
       "developer": "Signal Foundation",
@@ -59,7 +59,7 @@
     },
     {
       "title": "Google Pay: A safe & helpful way to manage money",
-      "appId": "com.google.android.apps.nbu.paisa.user",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.google.android.apps.nbu.paisa.user",
       "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user",
       "icon": "https://play-lh.googleusercontent.com/HArtbyi53u0jnqhnnxkQnMx9dHOERNcprZyKnInd2nrfM7Wd9ivMNTiz7IJP6-mSpwk",
       "developer": "Google LLC",
@@ -71,7 +71,7 @@
     },
     {
       "title": "Cash App",
-      "appId": "com.squareup.cash",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.squareup.cash",
       "url": "https://play.google.com/store/apps/details?id=com.squareup.cash",
       "icon": "https://play-lh.googleusercontent.com/6RcPDQwPihY591Axu7e6mHhMZ22Q-dqeI5z9GkJiu4Hc-Xha77E6uoeplstYuv5RcnE",
       "developer": "Square, Inc.",
@@ -85,7 +85,7 @@
     },
     {
       "title": "News Break: Local Breaking Stories & US Headlines",
-      "appId": "com.particlenews.newsbreak",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.particlenews.newsbreak",
       "url": "https://play.google.com/store/apps/details?id=com.particlenews.newsbreak",
       "icon": "https://play-lh.googleusercontent.com/mbFWEwNzPfKW_-ow_kxjpqgaUVd2djgvM7SJcS3gcHhx7Ycx_zTF9PpZcQr0Lwi8YJcE",
       "developer": "Particle Media Inc.",
@@ -99,7 +99,7 @@
     },
     {
       "title": "Disney+",
-      "appId": "com.disney.disneyplus",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.disney.disneyplus",
       "url": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
       "icon": "https://play-lh.googleusercontent.com/xoGGYH2LgLibLDBoxMg-ZE16b-RNfITw_OgXBWRAPin2FZY4FGB9QKBYApR-0rSCkQ",
       "developer": "Disney",
@@ -113,7 +113,7 @@
     },
     {
       "title": "Telegram",
-      "appId": "org.telegram.messenger",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/org.telegram.messenger",
       "url": "https://play.google.com/store/apps/details?id=org.telegram.messenger",
       "icon": "https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q",
       "developer": "Telegram FZ-LLC",
@@ -127,7 +127,7 @@
     },
     {
       "title": "DoorDash - Food Delivery",
-      "appId": "com.dd.doordash",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.dd.doordash",
       "url": "https://play.google.com/store/apps/details?id=com.dd.doordash",
       "icon": "https://play-lh.googleusercontent.com/Fvled-zLfL8ER0EBNIk-FnunJCcH2u_T6rdITclOFdU2jpEopdMstZOHP-PtuhP_5coZ",
       "developer": "DoorDash",
@@ -141,7 +141,7 @@
     },
     {
       "title": "HBO Max: Stream and Watch TV, Movies, and More",
-      "appId": "com.hbo.hbonow",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.hbo.hbonow",
       "url": "https://play.google.com/store/apps/details?id=com.hbo.hbonow",
       "icon": "https://play-lh.googleusercontent.com/mTLXQm3MIjZO_U3LIJ2EKacnIKo_1wmThe-UZsj3kkXAqHtbd35JvUZ8YR96zIkJdQ",
       "developer": "WarnerMedia Direct, LLC",
@@ -155,7 +155,7 @@
     },
     {
       "title": "Coinbase – Buy & Sell Bitcoin. Crypto Wallet",
-      "appId": "com.coinbase.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.coinbase.android",
       "url": "https://play.google.com/store/apps/details?id=com.coinbase.android",
       "icon": "https://play-lh.googleusercontent.com/dt49Bn5iCPBlSwsjxQJIZ2y92v-MWNNa1a1L4AOYIiUs-sOQW5vyFw9c64DbfZOrzw",
       "developer": "Coinbase Android",
@@ -169,7 +169,7 @@
     },
     {
       "title": "WhatsApp Messenger",
-      "appId": "com.whatsapp",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.whatsapp",
       "url": "https://play.google.com/store/apps/details?id=com.whatsapp",
       "icon": "https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN",
       "developer": "WhatsApp Inc.",
@@ -183,7 +183,7 @@
     },
     {
       "title": "Shop: package & order tracker",
-      "appId": "com.shopify.arrive",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.shopify.arrive",
       "url": "https://play.google.com/store/apps/details?id=com.shopify.arrive",
       "icon": "https://play-lh.googleusercontent.com/fHr2pe1B7n_dvrFX3e-P-BFrsiMJ-nPh4_wn4Yj2vwlINS_Lb4CwK8qKGK8upu5to-RK",
       "developer": "Shopify Inc.",
@@ -197,7 +197,7 @@
     },
     {
       "title": "Microsoft Teams",
-      "appId": "com.microsoft.teams",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.microsoft.teams",
       "url": "https://play.google.com/store/apps/details?id=com.microsoft.teams",
       "icon": "https://play-lh.googleusercontent.com/jKU64njy8urP89V1O63eJxMtvWjDGETPlHVIhDv9WZAYzsSxRWyWZkUlBJZj_HbkHA",
       "developer": "Microsoft Corporation",
@@ -211,7 +211,7 @@
     },
     {
       "title": "Robinhood - Investment & Trading, Commission-free",
-      "appId": "com.robinhood.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.robinhood.android",
       "url": "https://play.google.com/store/apps/details?id=com.robinhood.android",
       "icon": "https://play-lh.googleusercontent.com/9ORr_F5ji8mNCbudihKiRS20ZJ4sQ4ACvOucKJ6UziAu9DFaF6iGx_JmTS_XsnSPZw",
       "developer": "Robinhood",
@@ -225,7 +225,7 @@
     },
     {
       "title": "PayPal Mobile Cash: Send and Request Money Fast",
-      "appId": "com.paypal.android.p2pmobile",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.paypal.android.p2pmobile",
       "url": "https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile",
       "icon": "https://play-lh.googleusercontent.com/Y2_nyEd0zJftXnlhQrWoweEvAy4RzbpDah_65JGQDKo9zCcBxHVpajYgXWFZcXdKS_o",
       "developer": "PayPal Mobile",
@@ -239,7 +239,7 @@
     },
     {
       "title": "Instagram",
-      "appId": "com.instagram.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.instagram.android",
       "url": "https://play.google.com/store/apps/details?id=com.instagram.android",
       "icon": "https://play-lh.googleusercontent.com/h9jWMwqb-h9hjP4THqrJ50eIwPekjv7QPmTpA85gFQ10PjV02CoGAcYLLptqd19Sa1iJ",
       "developer": "Instagram",
@@ -253,7 +253,7 @@
     },
     {
       "title": "Opera News: Breaking Local & US Headlines",
-      "appId": "com.opera.app.news",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.opera.app.news",
       "url": "https://play.google.com/store/apps/details?id=com.opera.app.news",
       "icon": "https://play-lh.googleusercontent.com/k4P3OMHi8g3ofGEYxSWtF95D5Wnumc9VZ_d2FScWr74-K-9XzERHFmDAVwJ3GK2P0rk",
       "developer": "Opera",
@@ -267,7 +267,7 @@
     },
     {
       "title": "MyChart",
-      "appId": "epic.mychart.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/epic.mychart.android",
       "url": "https://play.google.com/store/apps/details?id=epic.mychart.android",
       "icon": "https://play-lh.googleusercontent.com/YPtBGr6THchfNi4KIo9P4A5TePEia_daTtMtsqwsURjYqngsLCRV1-NUah09z0kcBXs",
       "developer": "Epic Systems Corporation",
@@ -281,7 +281,7 @@
     },
     {
       "title": "Discord - Talk, Video Chat & Hang Out with Friends",
-      "appId": "com.discord",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.discord",
       "url": "https://play.google.com/store/apps/details?id=com.discord",
       "icon": "https://play-lh.googleusercontent.com/_4zBNFjA8S9yjNB_ONwqBvxTvyXYdC7Nh1jYZ2x6YEcldBr2fyijdjM2J5EoVdTpnkA",
       "developer": "Discord Inc.",
@@ -295,7 +295,7 @@
     },
     {
       "title": "Twitter",
-      "appId": "com.twitter.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.twitter.android",
       "url": "https://play.google.com/store/apps/details?id=com.twitter.android",
       "icon": "https://play-lh.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk",
       "developer": "Twitter, Inc.",
@@ -309,7 +309,7 @@
     },
     {
       "title": "Likee - Let You Shine",
-      "appId": "video.like",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/video.like",
       "url": "https://play.google.com/store/apps/details?id=video.like",
       "icon": "https://play-lh.googleusercontent.com/7hAq25yPmjdVuPeEpC8DQnHGsgo-BuNXhRVlSt0IYOXpKj8puu0PCDFsZHlJWkdN8kU",
       "developer": "BIGO TECHNOLOGY PTE. LTD.",
@@ -323,7 +323,7 @@
     },
     {
       "title": "Amazon Shopping - Search, Find, Ship, and Save",
-      "appId": "com.amazon.mShop.android.shopping",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.amazon.mShop.android.shopping",
       "url": "https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping",
       "icon": "https://play-lh.googleusercontent.com/hgY6vh39bAeGCT4-wwycXZT1oL8Ko7zL97DlcqVGXy7HrB_yjb_hkQ599yZzCx0Trg",
       "developer": "Amazon Mobile LLC",
@@ -337,7 +337,7 @@
     },
     {
       "title": "Tubi - Free Movies & TV Shows",
-      "appId": "com.tubitv",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.tubitv",
       "url": "https://play.google.com/store/apps/details?id=com.tubitv",
       "icon": "https://play-lh.googleusercontent.com/ena1ihXTWUe9ZZr-nUiaE0V7weXPx45cxxpyzk1RQ0zmXTLnI1aI8XSKlKy8af9XUSM",
       "developer": "Tubi TV",
@@ -351,7 +351,7 @@
     },
     {
       "title": "Google Meet - Secure Video Meetings",
-      "appId": "com.google.android.apps.meetings",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.google.android.apps.meetings",
       "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.meetings",
       "icon": "https://play-lh.googleusercontent.com/GBYSf20osBl2CRHbjGOyaOG5kQ3G4xbRau-dzScU9ozuXQJtnUZPkR3IqEDOo5OiVgU",
       "developer": "Google LLC",
@@ -365,7 +365,7 @@
     },
     {
       "title": "Snapchat",
-      "appId": "com.snapchat.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.snapchat.android",
       "url": "https://play.google.com/store/apps/details?id=com.snapchat.android",
       "icon": "https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo",
       "developer": "Snap Inc",
@@ -379,7 +379,7 @@
     },
     {
       "title": "Netflix",
-      "appId": "com.netflix.mediaclient",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.netflix.mediaclient",
       "url": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient",
       "icon": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI",
       "developer": "Netflix, Inc.",
@@ -393,7 +393,7 @@
     },
     {
       "title": "Peacock TV – Stream TV, Movies, Live Sports & More",
-      "appId": "com.peacocktv.peacockandroid",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.peacocktv.peacockandroid",
       "url": "https://play.google.com/store/apps/details?id=com.peacocktv.peacockandroid",
       "icon": "https://play-lh.googleusercontent.com/IdHOrlnq_yC9w5NGHollnGnunojuEW1_-8g32VaETN3kkXkTOTi001XN2TBykRC3Tg",
       "developer": "Peacock TV LLC",
@@ -407,7 +407,7 @@
     },
     {
       "title": "Wish - Shopping Made Fun",
-      "appId": "com.contextlogic.wish",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.contextlogic.wish",
       "url": "https://play.google.com/store/apps/details?id=com.contextlogic.wish",
       "icon": "https://play-lh.googleusercontent.com/GmR6jFq7tooOB3ocGmNQLoIPAGuGDZzyYtlz4PIWXDCRDvnqBSmqNpaZmaKdAOFZM2aW",
       "developer": "Wish Inc.",
@@ -421,7 +421,7 @@
     },
     {
       "title": "Walmart Shopping & Grocery",
-      "appId": "com.walmart.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.walmart.android",
       "url": "https://play.google.com/store/apps/details?id=com.walmart.android",
       "icon": "https://play-lh.googleusercontent.com/nckECUuaqv8rJllZ3CIvOJxxBnqe0TISPy_X-9B3U8nM4rst1Nr0eixKZlXW5fKyiTsf",
       "developer": "Walmart",
@@ -435,7 +435,7 @@
     },
     {
       "title": "CNN Breaking US & World News",
-      "appId": "com.cnn.mobile.android.phone",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.cnn.mobile.android.phone",
       "url": "https://play.google.com/store/apps/details?id=com.cnn.mobile.android.phone",
       "icon": "https://play-lh.googleusercontent.com/m05SBF4omSJbBy-EnPClGH_yAVvgAn6wr6KQwdtXhn6ATylzMYYJb6WaW-pNbtmqg5I",
       "developer": "CNN",
@@ -449,7 +449,7 @@
     },
     {
       "title": "Newsmax TV & Web",
-      "appId": "com.fli.android.newsmaxapp",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.fli.android.newsmaxapp",
       "url": "https://play.google.com/store/apps/details?id=com.fli.android.newsmaxapp",
       "icon": "https://play-lh.googleusercontent.com/Ioj9DIixiVBqgz_oDs_BCXOP3E8YR_CAJYVwzTWqrFZfVoetDv75y5O7zQjdtTPIYi8c",
       "developer": "Newsmax Media",
@@ -463,7 +463,7 @@
     },
     {
       "title": "Messenger – Text and Video Chat for Free",
-      "appId": "com.facebook.orca",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.facebook.orca",
       "url": "https://play.google.com/store/apps/details?id=com.facebook.orca",
       "icon": "https://play-lh.googleusercontent.com/ldcQMpP7OaVmglCF6kGas9cY_K0PsJzSSosx2saw9KF1m3RHaEXpH_9mwBWaYnkmctk",
       "developer": "Facebook",
@@ -477,7 +477,7 @@
     },
     {
       "title": "Venmo",
-      "appId": "com.venmo",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.venmo",
       "url": "https://play.google.com/store/apps/details?id=com.venmo",
       "icon": "https://play-lh.googleusercontent.com/YAKMX5YFcuE8_NogkbM7gkqrhBY6CUefbpULAVnNZLSitbo9S3Dw2FIYNqhW0d5G94Y",
       "developer": "PayPal, Inc.",
@@ -491,7 +491,7 @@
     },
     {
       "title": "Parlor - Social Talking App",
-      "appId": "me.parlor",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/me.parlor",
       "url": "https://play.google.com/store/apps/details?id=me.parlor",
       "icon": "https://play-lh.googleusercontent.com/ulGwrbkyOm58piyDJvnJCnQ87gQT8SlMjY0bfMpjuBX7t0LnDWSsJFCBHso6RTCOeTQ",
       "developer": "Parlor",
@@ -505,7 +505,7 @@
     },
     {
       "title": "Hulu: Stream all your favorite TV shows and movies",
-      "appId": "com.hulu.plus",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.hulu.plus",
       "url": "https://play.google.com/store/apps/details?id=com.hulu.plus",
       "icon": "https://play-lh.googleusercontent.com/yaoCLYMiku0a1Clhpm7EF8ARMza8EnmWSa1MYoeXysIo304UvLxRwPpSsO4S_orZYnw",
       "developer": "Hulu",
@@ -519,7 +519,7 @@
     },
     {
       "title": "Reface: Face swap videos and memes with your photo",
-      "appId": "video.reface.app",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/video.reface.app",
       "url": "https://play.google.com/store/apps/details?id=video.reface.app",
       "icon": "https://play-lh.googleusercontent.com/C75pm0OwfckbJAueHn2psJXr43vF9CypVOHydVgRHA8JHXEFJbO479DIBpfUo1mc2Q",
       "developer": "NEOCORTEXT, INC.",
@@ -533,7 +533,7 @@
     },
     {
       "title": "DuckDuckGo Privacy Browser",
-      "appId": "com.duckduckgo.mobile.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.duckduckgo.mobile.android",
       "url": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android",
       "icon": "https://play-lh.googleusercontent.com/vvjvZn0l16nn8j1KfCAbHlBn7wm6la_55pfxGOW9Wg0ut6C51wKVb3DWJTqSJc-eCnA",
       "developer": "DuckDuckGo",
@@ -547,7 +547,7 @@
     },
     {
       "title": "AmongChat - Voice Chat for Among Us Friends",
-      "appId": "walkie.talkie.among.us.friends",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/walkie.talkie.among.us.friends",
       "url": "https://play.google.com/store/apps/details?id=walkie.talkie.among.us.friends",
       "icon": "https://play-lh.googleusercontent.com/7DYwHHL3pUBTRX8O5zJhx67o625IwQobEBPb35kJEu6YLbqD2HWsaXf_X5-wg7SOF9U",
       "developer": "Find Friends, Play Games among us, Live Voice Chat",
@@ -561,7 +561,7 @@
     },
     {
       "title": "IRS2Go",
-      "appId": "gov.irs",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/gov.irs",
       "url": "https://play.google.com/store/apps/details?id=gov.irs",
       "icon": "https://play-lh.googleusercontent.com/Vw1lnV8h7LKV9P4MNfx6GJbVRMj8rl14R0Yxo1eE_UqYPk-7g6pw3RGil19kbpU3WmY",
       "developer": "Internal Revenue Service",
@@ -575,7 +575,7 @@
     },
     {
       "title": "Amazon Prime Video",
-      "appId": "com.amazon.avod.thirdpartyclient",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.amazon.avod.thirdpartyclient",
       "url": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient",
       "icon": "https://play-lh.googleusercontent.com/VojafVZNddI6JvdDGWFrRmxc-prrcInL2AuBymsqGoeXjT4f9sv7KnetB-v3iLxk_Koi",
       "developer": "Amazon Mobile LLC",
@@ -589,7 +589,7 @@
     },
     {
       "title": "Amazon Alexa",
-      "appId": "com.amazon.dee.app",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.amazon.dee.app",
       "url": "https://play.google.com/store/apps/details?id=com.amazon.dee.app",
       "icon": "https://play-lh.googleusercontent.com/TrGtH5xYMUuyOSGSAUh3P_QfCgLlFjW4kKwd80YQ0ea_XTRmt5Eazcz_xp-__wdjicwN",
       "developer": "Amazon Mobile LLC",
@@ -603,7 +603,7 @@
     },
     {
       "title": "Reddit",
-      "appId": "com.reddit.frontpage",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.reddit.frontpage",
       "url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
       "icon": "https://play-lh.googleusercontent.com/8Vw-7MAm558750a4M55fiOlUf7lP2cYnFuqSWynrygIiyEEiQQDa_xxHKYOX83L0UD2T",
       "developer": "reddit Inc.",
@@ -617,7 +617,7 @@
     },
     {
       "title": "QR & Barcode Scanner",
-      "appId": "com.gamma.scan",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.gamma.scan",
       "url": "https://play.google.com/store/apps/details?id=com.gamma.scan",
       "icon": "https://play-lh.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV",
       "developer": "Gamma Play",
@@ -631,7 +631,7 @@
     },
     {
       "title": "MeWe",
-      "appId": "com.mewe",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.mewe",
       "url": "https://play.google.com/store/apps/details?id=com.mewe",
       "icon": "https://play-lh.googleusercontent.com/MXxTMo9fY9vq7gpXCR6wNgl9wwthyVr0j3qxYAUFxODn54-T4LqN3c8r7cIqHwfvdS8",
       "developer": "MeWe",
@@ -645,7 +645,7 @@
     },
     {
       "title": "Roku",
-      "appId": "com.roku.remote",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.roku.remote",
       "url": "https://play.google.com/store/apps/details?id=com.roku.remote",
       "icon": "https://play-lh.googleusercontent.com/bAPotNdH58s4mYRsvgqOnM5FVpyX0U7-uf2orQuYvdfWeVa9ADcKPCCnp6U1DTfnH9w",
       "developer": "Roku Inc.",
@@ -659,7 +659,7 @@
     },
     {
       "title": "Poshmark - Buy & Sell Fashion",
-      "appId": "com.poshmark.app",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.poshmark.app",
       "url": "https://play.google.com/store/apps/details?id=com.poshmark.app",
       "icon": "https://play-lh.googleusercontent.com/iprCmLX18vS5S6DPzIxdmcDj5iqytt14LScR74slH8oUPtVsBU3j1sKW9Ac7TbG8rLBc",
       "developer": "Poshmark, Inc",
@@ -673,7 +673,7 @@
     },
     {
       "title": "Pinterest",
-      "appId": "com.pinterest",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.pinterest",
       "url": "https://play.google.com/store/apps/details?id=com.pinterest",
       "icon": "https://play-lh.googleusercontent.com/dVsv8Hc4TOUeLFAahxR8KANg22W9dj2jBsTW1VHv3CV-5NCZjP9D9i2j5IpfVx2NTB8",
       "developer": "Pinterest",
@@ -687,7 +687,7 @@
     },
     {
       "title": "Google Play Games",
-      "appId": "com.google.android.play.games",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.google.android.play.games",
       "url": "https://play.google.com/store/apps/details?id=com.google.android.play.games",
       "icon": "https://play-lh.googleusercontent.com/szHQCpMAb0MikYIhvNG1MlruXFUggd6DJHXkMPG1H4lJPB7Lee_BkODfwxpQazxfO9mA",
       "developer": "Google LLC",
@@ -701,7 +701,7 @@
     },
     {
       "title": "Spotify: Listen to new music and play podcasts",
-      "appId": "com.spotify.music",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.spotify.music",
       "url": "https://play.google.com/store/apps/details?id=com.spotify.music",
       "icon": "https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM",
       "developer": "Spotify Ltd.",
@@ -715,7 +715,7 @@
     },
     {
       "title": "Move to iOS",
-      "appId": "com.apple.movetoios",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.apple.movetoios",
       "url": "https://play.google.com/store/apps/details?id=com.apple.movetoios",
       "icon": "https://play-lh.googleusercontent.com/TVVIZnPw3rAi9o1DfCRH97UbbSRGqLo7fFKoDIYhQZ2j1B2T-fOQkDuLlCqki-gYKg",
       "developer": "Apple Inc.",
@@ -729,7 +729,7 @@
     },
     {
       "title": "Samsung Smart Switch Mobile",
-      "appId": "com.sec.android.easyMover",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.sec.android.easyMover",
       "url": "https://play.google.com/store/apps/details?id=com.sec.android.easyMover",
       "icon": "https://play-lh.googleusercontent.com/KlHY0O3groJhp-QsW4CBfxZuabFkfGOhjIjrlQw-b28Z6KXmYn3QSFbrtgZsJz4HYw",
       "developer": "Samsung Electronics Co., Ltd.",
@@ -743,7 +743,7 @@
     },
     {
       "title": "Chime - Mobile Banking",
-      "appId": "com.onedebit.chime",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.onedebit.chime",
       "url": "https://play.google.com/store/apps/details?id=com.onedebit.chime",
       "icon": "https://play-lh.googleusercontent.com/IihPs4IZsflvpscJVS14-ySG-BJH2B97Fv1nCEsr0e8YZXFxTiTSTesHz3UAF-bcaCvs",
       "developer": "Chime",
@@ -757,7 +757,7 @@
     },
     {
       "title": "Duolingo: Learn Languages Free",
-      "appId": "com.duolingo",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.duolingo",
       "url": "https://play.google.com/store/apps/details?id=com.duolingo",
       "icon": "https://play-lh.googleusercontent.com/hSyebBlYwtE2aMjzSIHasUO9cQv9HgNAw9owy6ADO0szOKYO3rDk60r7jcyXu82Fbq1M",
       "developer": "Duolingo",
@@ -771,7 +771,7 @@
     },
     {
       "title": "Mercari: Your Marketplace",
-      "appId": "com.mercariapp.mercari",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.mercariapp.mercari",
       "url": "https://play.google.com/store/apps/details?id=com.mercariapp.mercari",
       "icon": "https://play-lh.googleusercontent.com/FKdrI1iuREHJ9SUw4RBfKFPmAuVNnvH_74QBCJYMqkRJp993FtP6WD5okQm1wO0ibUU",
       "developer": "Mercari, Inc",
@@ -785,7 +785,7 @@
     },
     {
       "title": "Facebook",
-      "appId": "com.facebook.katana",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.facebook.katana",
       "url": "https://play.google.com/store/apps/details?id=com.facebook.katana",
       "icon": "https://play-lh.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg",
       "developer": "Facebook",
@@ -799,7 +799,7 @@
     },
     {
       "title": "Twitch: Livestream Multiplayer Games & Esports",
-      "appId": "tv.twitch.android.app",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/tv.twitch.android.app",
       "url": "https://play.google.com/store/apps/details?id=tv.twitch.android.app",
       "icon": "https://play-lh.googleusercontent.com/QLQzL-MXtxKEDlbhrQCDw-REiDsA9glUH4m16syfar_KVLRXlzOhN7tmAceiPerv4Jg",
       "developer": "Twitch Interactive, Inc.",
@@ -813,7 +813,7 @@
     },
     {
       "title": "Uber Eats: Food Delivery",
-      "appId": "com.ubercab.eats",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.ubercab.eats",
       "url": "https://play.google.com/store/apps/details?id=com.ubercab.eats",
       "icon": "https://play-lh.googleusercontent.com/MMBG4AZmpMhSfhF5k7QnFmhvFbaF5ZC_BtEOIKRt9TIkUZjul2lWwPZV75PwTfoSm23-jgMxkroRGA-vkDg",
       "developer": "Uber Technologies, Inc.",
@@ -827,7 +827,7 @@
     },
     {
       "title": "eBay - Buy, sell, and save money on your shopping",
-      "appId": "com.ebay.mobile",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.ebay.mobile",
       "url": "https://play.google.com/store/apps/details?id=com.ebay.mobile",
       "icon": "https://play-lh.googleusercontent.com/31-mJUIynIfQBizOn-w1yWLKHBxVeRKA3gz348_E3K-TnuEaqCjn_-Fr9j0yQ6i0y5E",
       "developer": "eBay Mobile",
@@ -841,7 +841,7 @@
     },
     {
       "title": "TextNow: Free Texting & Calling App",
-      "appId": "com.enflick.android.TextNow",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.enflick.android.TextNow",
       "url": "https://play.google.com/store/apps/details?id=com.enflick.android.TextNow",
       "icon": "https://play-lh.googleusercontent.com/ZfKZlSBUSyrWni4pPEBNhmFVkafq7bw7vgDvmtuRU6XHL7o-lG95y0VM45af9nG_UKs",
       "developer": "TextNow, Inc.",
@@ -855,7 +855,7 @@
     },
     {
       "title": "GoodRx: Prescription Drugs Discounts & Coupons App",
-      "appId": "com.goodrx",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.goodrx",
       "url": "https://play.google.com/store/apps/details?id=com.goodrx",
       "icon": "https://play-lh.googleusercontent.com/Yk_Y0PzXNYhK5__nZGvf97qYIBlgkniyHvskhm8KG2gUxEznGnD5k591cycg9K0ot9ei",
       "developer": "GoodRx",
@@ -869,7 +869,7 @@
     },
     {
       "title": "SHEIN-Fashion Shopping Online",
-      "appId": "com.zzkko",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.zzkko",
       "url": "https://play.google.com/store/apps/details?id=com.zzkko",
       "icon": "https://play-lh.googleusercontent.com/99kIOo2NkDRAwBGQRfcq8-RP9x4PRKSxXlhiK519nxKF5ikbKhXdtgUrRI3UaSPTSwo",
       "developer": "ZOETOP BUSINESS CO., LIMITED",
@@ -883,7 +883,7 @@
     },
     {
       "title": "OfferUp: Buy. Sell. Letgo. Mobile marketplace",
-      "appId": "com.offerup",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.offerup",
       "url": "https://play.google.com/store/apps/details?id=com.offerup",
       "icon": "https://play-lh.googleusercontent.com/l_81q9c_BqSJX58fQ-hqWQO9LmMqcuIFW2leB9PtUyu7QY1ngt3gzW0qTos2vBMvpQ",
       "developer": "OfferUp Inc.",
@@ -897,7 +897,7 @@
     },
     {
       "title": "Tiya - Find a friend Roblox&Among Us",
-      "appId": "com.huanliao.tiya",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.huanliao.tiya",
       "url": "https://play.google.com/store/apps/details?id=com.huanliao.tiya",
       "icon": "https://play-lh.googleusercontent.com/yVJqu__nxZV9WFfxwWUQ9VtHSTT2kmUXjzIYwa8-Sd-eJmIfCQPCV793Qy_5XalidbM",
       "developer": "TIYA PTE.LTD.",
@@ -911,7 +911,7 @@
     },
     {
       "title": "Rewarded Play: Earn Free Gift Cards & Play Games!",
-      "appId": "com.affinity.rewarded_play",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.affinity.rewarded_play",
       "url": "https://play.google.com/store/apps/details?id=com.affinity.rewarded_play",
       "icon": "https://play-lh.googleusercontent.com/RvtcXh4zlgRrL5wAbLxnlpuM6-rBS78Ooz0qe7mPVlfGOcNPG6RE_fMN8Smp0zs9ag",
       "developer": "Influence Mobile, Inc.",
@@ -925,7 +925,7 @@
     },
     {
       "title": "Google Home",
-      "appId": "com.google.android.apps.chromecast.app",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.google.android.apps.chromecast.app",
       "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app",
       "icon": "https://play-lh.googleusercontent.com/vr1isZKzTtlok9P81H6cR98iqpPhkuQHJp19Z5kPej3QlhNTnLohXpqcgMqrQpyegA",
       "developer": "Google LLC",
@@ -939,7 +939,7 @@
     },
     {
       "title": "Zillow: Find Houses for Sale & Apartments for Rent",
-      "appId": "com.zillow.android.zillowmap",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.zillow.android.zillowmap",
       "url": "https://play.google.com/store/apps/details?id=com.zillow.android.zillowmap",
       "icon": "https://play-lh.googleusercontent.com/OB8xIkDrDEHWGwEow-daLIhyVHaAC4Pt3ZgsroGreUW8jqQb2QK2uvuogO1haZKAlu0",
       "developer": "Zillow",
@@ -953,7 +953,7 @@
     },
     {
       "title": "HP Smart",
-      "appId": "com.hp.printercontrol",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.hp.printercontrol",
       "url": "https://play.google.com/store/apps/details?id=com.hp.printercontrol",
       "icon": "https://play-lh.googleusercontent.com/pWcADQz_SoLoCVCqznMANpCXLYnRwcVB-2zQjQDRB24h9EZec4DahXJ0cw7JJuwsAUw",
       "developer": "HP Inc.",
@@ -967,7 +967,7 @@
     },
     {
       "title": "FREE QR Scanner: Barcode Scanner & QR Code Scanner",
-      "appId": "qrcodereader.barcodescanner.scan.qrscanner",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/qrcodereader.barcodescanner.scan.qrscanner",
       "url": "https://play.google.com/store/apps/details?id=qrcodereader.barcodescanner.scan.qrscanner",
       "icon": "https://play-lh.googleusercontent.com/0tRpdmEVxewDqec0w2M3hzoV5GPhVNVhG0H7LoAY1ToI4-pNSJ3Jv0G5OJryab7bmk6Y",
       "developer": "Simple Design Ltd.",
@@ -981,7 +981,7 @@
     },
     {
       "title": "Audible: audiobooks, podcasts & audio stories",
-      "appId": "com.audible.application",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.audible.application",
       "url": "https://play.google.com/store/apps/details?id=com.audible.application",
       "icon": "https://play-lh.googleusercontent.com/3B91t9YONRYkJz1dq381fAN3zxp1hnTx98Rhve6a8RT_dzqZGi2pTJKzQOoCltPSOWM",
       "developer": "Audible, Inc",
@@ -995,7 +995,7 @@
     },
     {
       "title": "Adobe Acrobat Reader: PDF Viewer, Editor & Creator",
-      "appId": "com.adobe.reader",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.adobe.reader",
       "url": "https://play.google.com/store/apps/details?id=com.adobe.reader",
       "icon": "https://play-lh.googleusercontent.com/IQqZ3GQ_sNYaoX3y0iWFGpQhXi4g0rh8kPfMLaErBoKftnazNEk4v7X3E1wXk0HEInEW",
       "developer": "Adobe",
@@ -1009,7 +1009,7 @@
     },
     {
       "title": "Zelle",
-      "appId": "com.zellepay.zelle",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.zellepay.zelle",
       "url": "https://play.google.com/store/apps/details?id=com.zellepay.zelle",
       "icon": "https://play-lh.googleusercontent.com/F4U2pL8z-Ic5FzCfe1xVXMWRvff6oEBIzDsyGRc4mE3bIUPiCfhuXXXvTOfcpVglKqs",
       "developer": "Early Warning Services, LLC",
@@ -1023,7 +1023,7 @@
     },
     {
       "title": "Planet Fitness Workouts",
-      "appId": "com.planetfitness",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.planetfitness",
       "url": "https://play.google.com/store/apps/details?id=com.planetfitness",
       "icon": "https://play-lh.googleusercontent.com/OICnkECAhWjgkWSy2oBo4DJVE1myjJ5TC1YfdQJi6MMPQgEHvyg2YbuSnM4ENJy1t1ok",
       "developer": "Planet Fitness",
@@ -1037,7 +1037,7 @@
     },
     {
       "title": "Microsoft Authenticator",
-      "appId": "com.azure.authenticator",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.azure.authenticator",
       "url": "https://play.google.com/store/apps/details?id=com.azure.authenticator",
       "icon": "https://play-lh.googleusercontent.com/T7_4mv5aTo4XdLWz_vAQ2Hg8E-uMf_XUZMtdHdnf5ifZEP413DhOEDo2YEMSSL1Jl4k",
       "developer": "Microsoft Corporation",
@@ -1051,7 +1051,7 @@
     },
     {
       "title": "Grubhub: Local Food Delivery & Restaurant Takeout",
-      "appId": "com.grubhub.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.grubhub.android",
       "url": "https://play.google.com/store/apps/details?id=com.grubhub.android",
       "icon": "https://play-lh.googleusercontent.com/eBg3GUeVi_dWKWk08QTSCbZpGjgxG3-CgIaU7gk9Xe5XIYqMp1cyZm4155zXbZv3feI",
       "developer": "Grubhub",
@@ -1065,7 +1065,7 @@
     },
     {
       "title": "Google Classroom",
-      "appId": "com.google.android.apps.classroom",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.google.android.apps.classroom",
       "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.classroom",
       "icon": "https://play-lh.googleusercontent.com/w0s3au7cWptVf648ChCUP7sW6uzdwGFTSTenE178Tz87K_w1P1sFwI6h1CLZUlC2Ug",
       "developer": "Google LLC",
@@ -1079,7 +1079,7 @@
     },
     {
       "title": "PicsArt Photo Editor: Pic, Video & Collage Maker",
-      "appId": "com.picsart.studio",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.picsart.studio",
       "url": "https://play.google.com/store/apps/details?id=com.picsart.studio",
       "icon": "https://play-lh.googleusercontent.com/RmvBSjkThmix4S-hDIeIOknlmD67ZAah0Kfklo31ZsuMfRxni_B2oi2q01hWA_OsJw",
       "developer": "PicsArt",
@@ -1093,7 +1093,7 @@
     },
     {
       "title": "McDonald's",
-      "appId": "com.mcdonalds.app",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.mcdonalds.app",
       "url": "https://play.google.com/store/apps/details?id=com.mcdonalds.app",
       "icon": "https://play-lh.googleusercontent.com/hSRuCp9qVkxNYLYibPYyra4bQLYDyHg40TA1Cu6i9Z3HsWEgS1q076VfjacAdQquHw",
       "developer": "McDonalds USA, LLC",
@@ -1107,7 +1107,7 @@
     },
     {
       "title": "Microsoft Outlook: Organize Your Email & Calendar",
-      "appId": "com.microsoft.office.outlook",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.microsoft.office.outlook",
       "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook",
       "icon": "https://play-lh.googleusercontent.com/Zk9elS0eGXDr0L4W6-Ey7YwHbRNjkyezHC8iCc8rWp64lNIjlByS8TDF9qDSZbiEWY4",
       "developer": "Microsoft Corporation",
@@ -1121,7 +1121,7 @@
     },
     {
       "title": "BIGO LIVE–Live Stream, Live Chat, Go Live",
-      "appId": "sg.bigo.live",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/sg.bigo.live",
       "url": "https://play.google.com/store/apps/details?id=sg.bigo.live",
       "icon": "https://play-lh.googleusercontent.com/UMdj2u413EpQONRhwxEJrkDBSNCu78VwzPK6VkChFgwE9hzKMfoZoPLPisBckbtnSw",
       "developer": "BIGO TECHNOLOGY PTE. LTD.",
@@ -1135,7 +1135,7 @@
     },
     {
       "title": "Instacart: Shop groceries & get same-day delivery",
-      "appId": "com.instacart.client",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.instacart.client",
       "url": "https://play.google.com/store/apps/details?id=com.instacart.client",
       "icon": "https://play-lh.googleusercontent.com/AX4QaQ8NbV3HnSBA7AnZB7F9xj0AsDacwPW09Zp1ZXaxqjzua8wGQIHczgfcFIKsbb4",
       "developer": "Instacart",
@@ -1149,7 +1149,7 @@
     },
     {
       "title": "QR & Barcode Reader",
-      "appId": "com.teacapps.barcodescanner",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.teacapps.barcodescanner",
       "url": "https://play.google.com/store/apps/details?id=com.teacapps.barcodescanner",
       "icon": "https://play-lh.googleusercontent.com/-CvY0c-MmYQf2xaJQ6TVj_PZO4lpKG3T-i78UOolkpMxwlUen3KsakPA7I8OOwjOx_Q",
       "developer": "TeaCapps",
@@ -1163,7 +1163,7 @@
     },
     {
       "title": "Calm - Meditate, Sleep, Relax",
-      "appId": "com.calm.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.calm.android",
       "url": "https://play.google.com/store/apps/details?id=com.calm.android",
       "icon": "https://play-lh.googleusercontent.com/S76GphUu2pZa249td2Bb4XAhLcPRrFdL1zp_5qU1ouukvRq9r0-8jJ-CruaTtdT6g84",
       "developer": "Calm.com, Inc.",
@@ -1177,7 +1177,7 @@
     },
     {
       "title": "TurboTax Tax Return App – Max Refund Guaranteed",
-      "appId": "com.intuit.turbotax.mobile",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.intuit.turbotax.mobile",
       "url": "https://play.google.com/store/apps/details?id=com.intuit.turbotax.mobile",
       "icon": "https://play-lh.googleusercontent.com/qZ2NfFkU66kGpn3NcCGeUPrb9hu9d3F2DA88epxAfOII7VvS-646DiPWA2ReMguM21k",
       "developer": "Intuit Inc",
@@ -1191,7 +1191,7 @@
     },
     {
       "title": "YouTube Music - Stream Songs & Music Videos",
-      "appId": "com.google.android.apps.youtube.music",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.google.android.apps.youtube.music",
       "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music",
       "icon": "https://play-lh.googleusercontent.com/GnYnNfKBr2nysHBYgYRCQtcv_RRNN0Sosn47F5ArKJu89DMR3_jHRAazoIVsPUoaMg",
       "developer": "Google LLC",
@@ -1205,7 +1205,7 @@
     },
     {
       "title": "King James Bible (KJV) - Free Bible Verses + Audio",
-      "appId": "kjv.bible.kingjamesbible",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/kjv.bible.kingjamesbible",
       "url": "https://play.google.com/store/apps/details?id=kjv.bible.kingjamesbible",
       "icon": "https://play-lh.googleusercontent.com/FfD_7fRnWix7GR2bc542Qb7KGZbzaETxXG_EmxBSTBU6abGuob7w9s40jNee1xlusyA",
       "developer": "iDailybread.org",
@@ -1219,7 +1219,7 @@
     },
     {
       "title": "Facebook Lite",
-      "appId": "com.facebook.lite",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.facebook.lite",
       "url": "https://play.google.com/store/apps/details?id=com.facebook.lite",
       "icon": "https://play-lh.googleusercontent.com/6Sp9grilVISOGqi92M26BH49Tj6o_VX_gByA4u1rl8kAvqOoY9n5EzDEHcFEnGHlzg",
       "developer": "Facebook",
@@ -1233,7 +1233,7 @@
     },
     {
       "title": "Klarna | Shop now. Pay later.",
-      "appId": "com.myklarnamobile",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.myklarnamobile",
       "url": "https://play.google.com/store/apps/details?id=com.myklarnamobile",
       "icon": "https://play-lh.googleusercontent.com/tDXSaAt_I_qx6am_rTcQ1WHaXo6ncfiB-b742DnSXZkJGASvs15yRYnvzogzbYwse0QD",
       "developer": "Klarna Bank AB (publ)",
@@ -1247,7 +1247,7 @@
     },
     {
       "title": "Vrbo Vacation Rentals",
-      "appId": "com.vrbo.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.vrbo.android",
       "url": "https://play.google.com/store/apps/details?id=com.vrbo.android",
       "icon": "https://play-lh.googleusercontent.com/kMaMdsJ7pmxKdfK5u0SF4z4NpBbcAgjgCw_0VAcmlnjhN9810kGuNcrnAMG8U_b_U_w",
       "developer": "Vrbo",
@@ -1261,7 +1261,7 @@
     },
     {
       "title": "ABPV – America’s best pics and videos",
-      "appId": "com.americasbestpics",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.americasbestpics",
       "url": "https://play.google.com/store/apps/details?id=com.americasbestpics",
       "icon": "https://play-lh.googleusercontent.com/nUMHb5MNzL1DIdGpkjnFWtL_O90p-XOpZBGOwwsSc8OK7P01X5Vnq9TZluZZPVEqAw",
       "developer": "FUNTECH PUBLISHING LTD",
@@ -1275,7 +1275,7 @@
     },
     {
       "title": "Funimation",
-      "appId": "com.Funimation.FunimationNow",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.Funimation.FunimationNow",
       "url": "https://play.google.com/store/apps/details?id=com.Funimation.FunimationNow",
       "icon": "https://play-lh.googleusercontent.com/xAMNRY7x0Moq79vrCC-6IlIcFu3S4nkXLQ09U71dFDJfTiHHPXOT-YmydtOJU6yJp5s",
       "developer": "Funimation Global Group, LLC",
@@ -1289,7 +1289,7 @@
     },
     {
       "title": "Pluto TV - Free Live TV and Movies",
-      "appId": "tv.pluto.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/tv.pluto.android",
       "url": "https://play.google.com/store/apps/details?id=tv.pluto.android",
       "icon": "https://play-lh.googleusercontent.com/gIiZK9ZUU7tt8N08ozfe8OPBnW-KPREAHdbN1WDvqqSscVdAQuuP2_i2c1Gm2zHJ_S9x",
       "developer": "Pluto, Inc.",
@@ -1303,7 +1303,7 @@
     },
     {
       "title": "Your Phone Companion - Link to Windows",
-      "appId": "com.microsoft.appmanager",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.microsoft.appmanager",
       "url": "https://play.google.com/store/apps/details?id=com.microsoft.appmanager",
       "icon": "https://play-lh.googleusercontent.com/z5YSgrDgdBbVQejCzipNpUkLnRLYVUrHDLFpe4ZDz9lLZ-dM0XaUaYyv2X9gwzV-iEU",
       "developer": "Microsoft Corporation",
@@ -1317,7 +1317,7 @@
     },
     {
       "title": "OANN: Live Breaking News",
-      "appId": "me.oann.news",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/me.oann.news",
       "url": "https://play.google.com/store/apps/details?id=me.oann.news",
       "icon": "https://play-lh.googleusercontent.com/wbFRXpHApVkTemeKfo0lFFg2wRVBysXS2SLFAfLDvPo8ThkGfIwycEKlHT7MdPH_u60",
       "developer": "Herring Networks",
@@ -1331,7 +1331,7 @@
     },
     {
       "title": "SoundCloud - Play Music, Audio & New Songs",
-      "appId": "com.soundcloud.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.soundcloud.android",
       "url": "https://play.google.com/store/apps/details?id=com.soundcloud.android",
       "icon": "https://play-lh.googleusercontent.com/lvYCdrPNFU0Ar_lXln3JShoE-NaYF_V-DNlp4eLRZhUVkj00wAseSIm-60OoCKznpw",
       "developer": "SoundCloud",
@@ -1345,7 +1345,7 @@
     },
     {
       "title": "Roku TV Remote Controller: Ruku Remote Control",
-      "appId": "co.vulcanlabs.rokuremote",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/co.vulcanlabs.rokuremote",
       "url": "https://play.google.com/store/apps/details?id=co.vulcanlabs.rokuremote",
       "icon": "https://play-lh.googleusercontent.com/3_6Dp99GiJt7oetiOlNUSorL4_8ROD_PDjVb0a-TS76NV8s2vI2isakfl-0lIo2bljk",
       "developer": "Vulcan Labs",
@@ -1359,7 +1359,7 @@
     },
     {
       "title": "Xfinity",
-      "appId": "com.xfinity.digitalhome",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.xfinity.digitalhome",
       "url": "https://play.google.com/store/apps/details?id=com.xfinity.digitalhome",
       "icon": "https://play-lh.googleusercontent.com/igt987XxHPpX3yrZUnVdV_09PZdcCQloqsYQlSZJpuDn5SVzWfpKrOssXWeO_3bzNKU",
       "developer": "Comcast",
@@ -1373,7 +1373,7 @@
     },
     {
       "title": "YouTube Kids",
-      "appId": "com.google.android.apps.youtube.kids",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.google.android.apps.youtube.kids",
       "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.kids",
       "icon": "https://play-lh.googleusercontent.com/S4wylkvt2jz16hnG9IG0pAZosbB82nWWy8P-rQkb54uH-SCVd5L2j7z7x1Vz5pZvIRc",
       "developer": "Google LLC",
@@ -1387,7 +1387,7 @@
     },
     {
       "title": "Credit Karma - Free Credit Scores & Reports",
-      "appId": "com.creditkarma.mobile",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.creditkarma.mobile",
       "url": "https://play.google.com/store/apps/details?id=com.creditkarma.mobile",
       "icon": "https://play-lh.googleusercontent.com/awnVMi-BtmYLp6lgF19Qv0McVObf53HW7HQX7XY_cE7P6F9C6D7boWEtWqsmpaUTI68",
       "developer": "Credit Karma, Inc.",
@@ -1401,7 +1401,7 @@
     },
     {
       "title": "Rumble",
-      "appId": "com.rumble.battles",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.rumble.battles",
       "url": "https://play.google.com/store/apps/details?id=com.rumble.battles",
       "icon": "https://play-lh.googleusercontent.com/JU0SMPV8hcaKd6vTClAS5zqJqSExOSV1koYBkmmyvvZVdxb9GKEIGtqwXHlVcvPF2w",
       "developer": "Rumble Inc",
@@ -1415,7 +1415,7 @@
     },
     {
       "title": "Fastic: Fasting App & Intermittent Fasting Tracker",
-      "appId": "de.fastic.app",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/de.fastic.app",
       "url": "https://play.google.com/store/apps/details?id=de.fastic.app",
       "icon": "https://play-lh.googleusercontent.com/ulPnxXu50IhySPtDVUtpsvCNVXLHQ_XeV_wHIcPOuNZ2H3FU1wmb3eE3qayVMLdIWA",
       "developer": "Fastic GmbH",
@@ -1429,7 +1429,7 @@
     },
     {
       "title": "Pandora - Streaming Music, Radio & Podcasts",
-      "appId": "com.pandora.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.pandora.android",
       "url": "https://play.google.com/store/apps/details?id=com.pandora.android",
       "icon": "https://play-lh.googleusercontent.com/jm0217jbZ0VJhGU7ecHHoi7MOcY7KMvxY5t1bIsc3KSVwLNbTwkwsfvtHvQkfabSmyNH",
       "developer": "Pandora",
@@ -1443,7 +1443,7 @@
     },
     {
       "title": "Fetch: Scan Receipts, Earn Rewards & Save Money",
-      "appId": "com.fetchrewards.fetchrewards.hop",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.fetchrewards.fetchrewards.hop",
       "url": "https://play.google.com/store/apps/details?id=com.fetchrewards.fetchrewards.hop",
       "icon": "https://play-lh.googleusercontent.com/m-9j4vU-xmIR3NiPpbOvFif14tr66BscXDZVAY8zgUqiJAPHgZtMKZqHQdM0Y-2ZxL8",
       "developer": "Fetch Rewards",
@@ -1457,7 +1457,7 @@
     },
     {
       "title": "Fresh EBT - Food Stamp Balance",
-      "appId": "com.propel.ebenefits",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.propel.ebenefits",
       "url": "https://play.google.com/store/apps/details?id=com.propel.ebenefits",
       "icon": "https://play-lh.googleusercontent.com/UPUwTdZtvDvEQLCUkTKf73ofmRANUAi9QP1rYnzGuBUXGQr2JpvSspwi7Bjlq5XnzyY",
       "developer": "Propel Inc",
@@ -1471,7 +1471,7 @@
     },
     {
       "title": "Earn Cash Rewards: Play Music & Games! Make Money!",
-      "appId": "us.current.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/us.current.android",
       "url": "https://play.google.com/store/apps/details?id=us.current.android",
       "icon": "https://play-lh.googleusercontent.com/3nXKbkRR-0Bt7U_0l5Oq10mUidj8jKF8osG9F_BgXSi10L2p9aT782huz7NBpuUwdg",
       "developer": "Current Rewards: Earn Cash Gifts Free Music Player",
@@ -1485,7 +1485,7 @@
     },
     {
       "title": "Amazon Music: Stream and Discover Songs & Podcasts",
-      "appId": "com.amazon.mp3",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.amazon.mp3",
       "url": "https://play.google.com/store/apps/details?id=com.amazon.mp3",
       "icon": "https://play-lh.googleusercontent.com/c0uMGe9aLRQxGtAXB_9xnKnG83VOGRD7NtglvnzPj9SYS3_ZYA_EYhtP86nePn0vjI0",
       "developer": "Amazon Mobile LLC",
@@ -1499,7 +1499,7 @@
     },
     {
       "title": "Webull: Investing & Trading. All Commission Free",
-      "appId": "org.dayup.stocks",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/org.dayup.stocks",
       "url": "https://play.google.com/store/apps/details?id=org.dayup.stocks",
       "icon": "https://play-lh.googleusercontent.com/d0mBLWUYcRBdrNGqHJKe6Rtf8X863uQ14Aped4LdwfV3mXnZVsX0M2m3otaU3kedXeo",
       "developer": "Webull Technologies Limited",
@@ -1513,7 +1513,7 @@
     },
     {
       "title": "Lyft - Rideshare, Bikes, Scooters & Transit",
-      "appId": "me.lyft.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/me.lyft.android",
       "url": "https://play.google.com/store/apps/details?id=me.lyft.android",
       "icon": "https://play-lh.googleusercontent.com/ACQqLgO-aRSvB-t4TOPtJBjH-KdUA3BUpcrk1LQv5CPrxtL0JaQKeCL1AhygE4kHqg",
       "developer": "Lyft, Inc.",
@@ -1527,7 +1527,7 @@
     },
     {
       "title": "Google Authenticator",
-      "appId": "com.google.android.apps.authenticator2",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.google.android.apps.authenticator2",
       "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2",
       "icon": "https://play-lh.googleusercontent.com/HPc5gptPzRw3wFhJE1ZCnTqlvEvuVFBAsV9etfouOhdRbkp-zNtYTzKUmUVPERSZ_lAL",
       "developer": "Google LLC",
@@ -1541,7 +1541,7 @@
     },
     {
       "title": "discovery+ | Stream TV Shows",
-      "appId": "com.discovery.discoveryplus.androidtv",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.discovery.discoveryplus.androidtv",
       "url": "https://play.google.com/store/apps/details?id=com.discovery.discoveryplus.androidtv",
       "icon": "https://play-lh.googleusercontent.com/5s8tvFo-TNM_PUdA8BX6MlllGYlX3cR10Dq2yZG2ogVDZZdBqw22mcS8yApCLNoR-o88",
       "developer": "Discovery Communications LLC",
@@ -1555,7 +1555,7 @@
     },
     {
       "title": "Skins for Fornite",
-      "appId": "eltonio.skins.fortnight",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/eltonio.skins.fortnight",
       "url": "https://play.google.com/store/apps/details?id=eltonio.skins.fortnight",
       "icon": "https://play-lh.googleusercontent.com/sXa6WXzWXy33HowsuatjsSSsEEd2hg5xZHCw1yOM4Drhg7TZIO2eAUnHiJeZHuCWXvc",
       "developer": "Wifraas",
@@ -1569,7 +1569,7 @@
     },
     {
       "title": "Headspace: Meditation & Sleep",
-      "appId": "com.getsomeheadspace.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.getsomeheadspace.android",
       "url": "https://play.google.com/store/apps/details?id=com.getsomeheadspace.android",
       "icon": "https://play-lh.googleusercontent.com/y6ZZo_LKpI8sBXAHb9TMSfgoY96yVU0ecumaOb8hckSdvDzdssiQd2QW1cx1CrjvA4bQ",
       "developer": "Headspace for Meditation, Mindfulness and Sleep",
@@ -1583,7 +1583,7 @@
     },
     {
       "title": "Target",
-      "appId": "com.target.ui",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.target.ui",
       "url": "https://play.google.com/store/apps/details?id=com.target.ui",
       "icon": "https://play-lh.googleusercontent.com/2CGELmJiSElPwjREp7RvpDDzbnq9bGMGhvOBHkqcHrVPdGjJesHHuzKtC6LkCq-F0Fw",
       "developer": "Target Corporation",
@@ -1597,7 +1597,7 @@
     },
     {
       "title": "Ring - Always Home",
-      "appId": "com.ringapp",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.ringapp",
       "url": "https://play.google.com/store/apps/details?id=com.ringapp",
       "icon": "https://play-lh.googleusercontent.com/fbIl2IKPAG4_3lNnwsi0qMBTJEgOsIwBUYzrs5_GIRYRBHov_a5eJ0bMxEUNMu67G4Ws",
       "developer": "Ring.com",
@@ -1611,7 +1611,7 @@
     },
     {
       "title": "Chewy - Where Pet Lovers Shop",
-      "appId": "com.chewy.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.chewy.android",
       "url": "https://play.google.com/store/apps/details?id=com.chewy.android",
       "icon": "https://play-lh.googleusercontent.com/qFEQ33ocRE7XuP1hIkzHvBdZSiCzf-pmMLgdXmjG_0Qr-MEpJFAsmfW6nRKcDUTDDCE",
       "developer": "Chewy, Inc.",
@@ -1625,7 +1625,7 @@
     },
     {
       "title": "Uber - Request a ride",
-      "appId": "com.ubercab",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.ubercab",
       "url": "https://play.google.com/store/apps/details?id=com.ubercab",
       "icon": "https://play-lh.googleusercontent.com/qy_wZ92sFQccojEtscg52vtdAQmCIeQ4jsybMPmuML9Or7_SEOyrt0Jn0wyG-l2Fyw",
       "developer": "Uber Technologies, Inc.",
@@ -1639,7 +1639,7 @@
     },
     {
       "title": "Crypto.com - Buy Bitcoin Now",
-      "appId": "co.mona.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/co.mona.android",
       "url": "https://play.google.com/store/apps/details?id=co.mona.android",
       "icon": "https://play-lh.googleusercontent.com/LPjOvRg00ZLcmUvYbvELUX9qN46wUSRrDadTyAxkJIhP8GzUMIA1VZSWxB77BJ0yl1vl",
       "developer": "Crypto Technology Holdings Limited",
@@ -1653,7 +1653,7 @@
     },
     {
       "title": "Experian - Free Credit Report & FICO® Score",
-      "appId": "com.experian.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.experian.android",
       "url": "https://play.google.com/store/apps/details?id=com.experian.android",
       "icon": "https://play-lh.googleusercontent.com/hB6LHJAf2JtQGKeOBlUbxsxH0ugzxIMdty8PbLj6D9dG9Bz2zc0uMaLKhM0yMFCghIs",
       "developer": "Experian",
@@ -1667,7 +1667,7 @@
     },
     {
       "title": "Cisco Webex Meetings",
-      "appId": "com.cisco.webex.meetings",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.cisco.webex.meetings",
       "url": "https://play.google.com/store/apps/details?id=com.cisco.webex.meetings",
       "icon": "https://play-lh.googleusercontent.com/_8joIrDlTdTZ1cKVVnMoQ9KG0i-A5LCZX8N3w0MmFljiIsV8T2jkcqhHWndrKs0ldGuX",
       "developer": "Cisco Systems, Inc.",
@@ -1681,7 +1681,7 @@
     },
     {
       "title": "Fitbit",
-      "appId": "com.fitbit.FitbitMobile",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.fitbit.FitbitMobile",
       "url": "https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile",
       "icon": "https://play-lh.googleusercontent.com/QhMCymTyxJbzRiwMBA-GYooS-nVKm3fHg2CSRyKHvhmC-e5vOibfST73y1MmScvtPw",
       "developer": "Fitbit, Inc.",
@@ -1695,7 +1695,7 @@
     },
     {
       "title": "CloutHub: Social Media Done Right",
-      "appId": "com.clouthub.clouthub",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.clouthub.clouthub",
       "url": "https://play.google.com/store/apps/details?id=com.clouthub.clouthub",
       "icon": "https://play-lh.googleusercontent.com/ZY-P6T-ywLcONFm8ZHHxLoPopyj-etfCJJMNd0NAz2ylKGFY0fOdB1Mo3wwaIwtrlg",
       "developer": "Clouthub, Inc.",
@@ -1709,7 +1709,7 @@
     },
     {
       "title": "Video call from Among Us Impostors",
-      "appId": "com.video.callimpostor.amongus",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.video.callimpostor.amongus",
       "url": "https://play.google.com/store/apps/details?id=com.video.callimpostor.amongus",
       "icon": "https://play-lh.googleusercontent.com/06foWK9uXjxdeQuXxXHe2LAiVf3TrZ5hvS-07wR1VRGNKcwVXyzx1u1cnQvilt07O1C-",
       "developer": "Servercali",
@@ -1723,7 +1723,7 @@
     },
     {
       "title": "Informed Delivery®",
-      "appId": "com.usps.myusps_mobile_app_android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.usps.myusps_mobile_app_android",
       "url": "https://play.google.com/store/apps/details?id=com.usps.myusps_mobile_app_android",
       "icon": "https://play-lh.googleusercontent.com/bPWr2HTTuBTmWHX0_9dl_N-_V_InW_t1ygkxsAz7gx_SWlHSol4Ff93pOHcHo6McioU",
       "developer": "United States Postal Service®",
@@ -1737,7 +1737,7 @@
     },
     {
       "title": "Cute",
-      "appId": "com.contextlogic.cute",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.contextlogic.cute",
       "url": "https://play.google.com/store/apps/details?id=com.contextlogic.cute",
       "icon": "https://play-lh.googleusercontent.com/BMZcEKonzVMHiQBZ8Q1lfSqJQzZz6PLinf3fY9h2H2Qaxtcans2_0hjz7pEWc1mb5g",
       "developer": "Wish Inc.",
@@ -1751,7 +1751,7 @@
     },
     {
       "title": "SUBWAY®",
-      "appId": "com.subway.mobile.subwayapp03",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.subway.mobile.subwayapp03",
       "url": "https://play.google.com/store/apps/details?id=com.subway.mobile.subwayapp03",
       "icon": "https://play-lh.googleusercontent.com/E94FoQoyVplU7E6HjuDBup0j0WiGAJqC-Sn3qDfD7kIRZC2GBis687EU3hEd-FqG2edg",
       "developer": "SUBWAY Restaurants",
@@ -1765,7 +1765,7 @@
     },
     {
       "title": "USPS MOBILE®",
-      "appId": "com.usps",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.usps",
       "url": "https://play.google.com/store/apps/details?id=com.usps",
       "icon": "https://play-lh.googleusercontent.com/VNMoMLGHmVFrRv_8aGzZSwkJZctmP8H0z-O1sDOmjD3TkkL-Geoxpqnlne7AF6LbI_Br",
       "developer": "United States Postal Service®",
@@ -1779,7 +1779,7 @@
     },
     {
       "title": "Super Slime Simulator: Satisfying ASMR & DIY Games",
-      "appId": "com.dramaton.slime",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.dramaton.slime",
       "url": "https://play.google.com/store/apps/details?id=com.dramaton.slime",
       "icon": "https://play-lh.googleusercontent.com/YfZBtR6aG3A9YbwMxuuhrPZCRM65z-HfFoAoFrszhT649J3tICDJM2aEdk1mxRbpLbM",
       "developer": "Dramaton",
@@ -1793,7 +1793,7 @@
     },
     {
       "title": "Yahoo Mail – Organized Email",
-      "appId": "com.yahoo.mobile.client.android.mail",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.yahoo.mobile.client.android.mail",
       "url": "https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.mail",
       "icon": "https://play-lh.googleusercontent.com/YtGn2T9ADy5Hs4cKVoDgGb7fPuMkdXVcszVE1oiozfE4AxhDNq0RkwajYs1FxcrMDpw",
       "developer": "Yahoo",
@@ -1807,7 +1807,7 @@
     },
     {
       "title": "Tinder - Dating, Make Friends and Meet New People",
-      "appId": "com.tinder",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.tinder",
       "url": "https://play.google.com/store/apps/details?id=com.tinder",
       "icon": "https://play-lh.googleusercontent.com/fDpoqIbZ884ylRnMK8Lx9Fu4DsLQk5yt4f9WkxeOAPpGnzc9BTi_YKkMsLvoMdx7Uzg",
       "developer": "Tinder",
@@ -1821,7 +1821,7 @@
     },
     {
       "title": "Nike",
-      "appId": "com.nike.omega",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.nike.omega",
       "url": "https://play.google.com/store/apps/details?id=com.nike.omega",
       "icon": "https://play-lh.googleusercontent.com/eLqKK4MkDoXXbD_F3A_2rs-othxTESxbocvyOGyhAmbNCydgnYKczItIY2-HLYJmhr6Q",
       "developer": "Nike, Inc.",
@@ -1835,7 +1835,7 @@
     },
     {
       "title": "ADP Mobile Solutions",
-      "appId": "com.adpmobile.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.adpmobile.android",
       "url": "https://play.google.com/store/apps/details?id=com.adpmobile.android",
       "icon": "https://play-lh.googleusercontent.com/85xxdCjRGt9lcQA8KlFjneXds2rwRpIiNMwbthsQLnSYgST6JOhRlLEh2Pk-e3XakQ",
       "developer": "ADP, INC.",
@@ -1849,7 +1849,7 @@
     },
     {
       "title": "Crunchyroll",
-      "appId": "com.crunchyroll.crunchyroid",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.crunchyroll.crunchyroid",
       "url": "https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid",
       "icon": "https://play-lh.googleusercontent.com/CjzbMcLbmTswzCGauGQExkFsSHvwjKEeWLbVVJx0B-J9G6OQ-UCl2eOuGBfaIozFqow",
       "developer": "Ellation, LLC",
@@ -1863,7 +1863,7 @@
     },
     {
       "title": "STARZ",
-      "appId": "com.bydeluxe.d3.android.program.starz",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.bydeluxe.d3.android.program.starz",
       "url": "https://play.google.com/store/apps/details?id=com.bydeluxe.d3.android.program.starz",
       "icon": "https://play-lh.googleusercontent.com/3k9_BX6SKqQOu_jPxGlm8tvI5lKrxOOjUreqoJIGuWS1rBPiLlwBAHfS58j70vxwhNc",
       "developer": "Starz Entertainment, LLC",
@@ -1877,7 +1877,7 @@
     },
     {
       "title": "One Booster - Antivirus, Booster, Phone Cleaner",
-      "appId": "com.cleanteam.oneboost",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.cleanteam.oneboost",
       "url": "https://play.google.com/store/apps/details?id=com.cleanteam.oneboost",
       "icon": "https://play-lh.googleusercontent.com/dwY15IChtgfd2XjKjY4BQBoZNJd0HEmuh20L3LKha-WcgQ1ds00VurmKEjJSebfMGw",
       "developer": "One Dot Moblie Limited",
@@ -1891,7 +1891,7 @@
     },
     {
       "title": "Workday",
-      "appId": "com.workday.workdroidapp",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.workday.workdroidapp",
       "url": "https://play.google.com/store/apps/details?id=com.workday.workdroidapp",
       "icon": "https://play-lh.googleusercontent.com/YM9jT_ETnF1btReCKMYUwpFXBatqPKqifwehlX9_GvfEx5K7X-DANT9CBbaSQeMuxQ",
       "developer": "Workday, Inc.",
@@ -1905,7 +1905,7 @@
     },
     {
       "title": "Google Translate",
-      "appId": "com.google.android.apps.translate",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.google.android.apps.translate",
       "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.translate",
       "icon": "https://play-lh.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA",
       "developer": "Google LLC",
@@ -1919,7 +1919,7 @@
     },
     {
       "title": "Wendy’s – Earn Rewards, Order Food & Score Offers",
-      "appId": "com.wendys.nutritiontool",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.wendys.nutritiontool",
       "url": "https://play.google.com/store/apps/details?id=com.wendys.nutritiontool",
       "icon": "https://play-lh.googleusercontent.com/vkbi0tuXCO6n_dk3djoGDGAdPMoxzDy6c7uOh3TwWn25pfUYHhOiAV9iw3t1CzHgvU6t",
       "developer": "Wendy's Int'l., LLC",
@@ -1933,7 +1933,7 @@
     },
     {
       "title": "Screen Recorder & Video Recorder - XRecorder",
-      "appId": "videoeditor.videorecorder.screenrecorder",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/videoeditor.videorecorder.screenrecorder",
       "url": "https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder",
       "icon": "https://play-lh.googleusercontent.com/RX8RBGnnxFgncaU649msEAdLpQmXiSlzAZrjOtdSnvyptB16wWlQNFdRrMWNSdkIQ2tn",
       "developer": "InShot Inc.",
@@ -1947,7 +1947,7 @@
     },
     {
       "title": "Tophatter: Fun Deals, Shopping Offers & Savings",
-      "appId": "com.tophatter",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.tophatter",
       "url": "https://play.google.com/store/apps/details?id=com.tophatter",
       "icon": "https://play-lh.googleusercontent.com/w05U8qfdbDMib8lKHuKG0l_HG6BR5JMm_Brl7_XA9Y4EWudl5rviclZxQmGi5lttwaI",
       "developer": "Tophatter Inc.",
@@ -1961,7 +1961,7 @@
     },
     {
       "title": "Messenger Kids – The Messaging App for Kids",
-      "appId": "com.facebook.talk",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.facebook.talk",
       "url": "https://play.google.com/store/apps/details?id=com.facebook.talk",
       "icon": "https://play-lh.googleusercontent.com/wU8uStPPfgOkQsKxJR-2hjhZGMZbASELYn2GKWpXkPa0QDQVy2BOJJAWq6guZLwxVg",
       "developer": "Facebook",
@@ -1975,7 +1975,7 @@
     },
     {
       "title": "Starbucks",
-      "appId": "com.starbucks.mobilecard",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.starbucks.mobilecard",
       "url": "https://play.google.com/store/apps/details?id=com.starbucks.mobilecard",
       "icon": "https://play-lh.googleusercontent.com/bbCPDis_RJaXGvtOBdyoax0fAZF8d123WKLwbvodzIzp6tD4xoV1zWAsVeLRL29MQw",
       "developer": "Starbucks Coffee Company",
@@ -1989,7 +1989,7 @@
     },
     {
       "title": "ZEDGE™ Wallpapers & Ringtones",
-      "appId": "net.zedge.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/net.zedge.android",
       "url": "https://play.google.com/store/apps/details?id=net.zedge.android",
       "icon": "https://play-lh.googleusercontent.com/zlOWpiMv3SX2Jca0eNNNgGKnAjXOzevrI95BO8HDq5NX_bimaoQTRS_bQOwT8Um6EUI",
       "developer": "Zedge",
@@ -2003,7 +2003,7 @@
     },
     {
       "title": "MyBlock",
-      "appId": "com.hrblock.blockmobile",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.hrblock.blockmobile",
       "url": "https://play.google.com/store/apps/details?id=com.hrblock.blockmobile",
       "icon": "https://play-lh.googleusercontent.com/se2MuOmrSIdiBTbx4_fVk-933hnRiFlHcpT1uGAmx4Fq6HwBmJe9UfvwwV4kifSLvQ",
       "developer": "H&R Block",
@@ -2017,7 +2017,7 @@
     },
     {
       "title": "Firefox Browser: fast, private & safe web browser",
-      "appId": "org.mozilla.firefox",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/org.mozilla.firefox",
       "url": "https://play.google.com/store/apps/details?id=org.mozilla.firefox",
       "icon": "https://play-lh.googleusercontent.com/zqsuwFUBwKRcGOSBinKQCL3JgfvOW49vJphq0ZF32aDgfqmuDyl-fEpx4Lxm4pRr7A",
       "developer": "Mozilla",
@@ -2031,7 +2031,7 @@
     },
     {
       "title": "Capital One® Mobile",
-      "appId": "com.konylabs.capitalone",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.konylabs.capitalone",
       "url": "https://play.google.com/store/apps/details?id=com.konylabs.capitalone",
       "icon": "https://play-lh.googleusercontent.com/ICqfwusOjfw2wPAusH5PR8O_3DcmVUMBaOnxjg0JdPmKO5rFX0y5gWk7qwvOQwozcyI",
       "developer": "Capital One Services, LLC",
@@ -2045,7 +2045,7 @@
     },
     {
       "title": "craigslist",
-      "appId": "org.craigslist.CraigslistMobile",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/org.craigslist.CraigslistMobile",
       "url": "https://play.google.com/store/apps/details?id=org.craigslist.CraigslistMobile",
       "icon": "https://play-lh.googleusercontent.com/UczgaN-wtfkAyoYSyYs_RSA--_dgxq5pE-JuWIWAavxtrXDWuYA-iMeAZYPylvMqpVCZ",
       "developer": "craigslist.org",
@@ -2059,7 +2059,7 @@
     },
     {
       "title": "Chase Mobile",
-      "appId": "com.chase.sig.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.chase.sig.android",
       "url": "https://play.google.com/store/apps/details?id=com.chase.sig.android",
       "icon": "https://play-lh.googleusercontent.com/nSkpJQa6V2cjC0JEgerrwner4IelIQzg06DZY8dtGwRsq6iXcrxCX2Iop_VI9pohvnI",
       "developer": "JPMorgan Chase",
@@ -2073,7 +2073,7 @@
     },
     {
       "title": "CapCut",
-      "appId": "com.lemon.lvoverseas",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.lemon.lvoverseas",
       "url": "https://play.google.com/store/apps/details?id=com.lemon.lvoverseas",
       "icon": "https://play-lh.googleusercontent.com/GCeBKSeyXZaICkBU6xXmK9qnlVPCcXfaF_OsWEx6zUYtwvI1Sb0CPtp2fsqmcImw9BQ",
       "developer": "Bytedance Pte. Ltd.",
@@ -2087,7 +2087,7 @@
     },
     {
       "title": "Messenger Lite: Free Calls & Messages",
-      "appId": "com.facebook.mlite",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.facebook.mlite",
       "url": "https://play.google.com/store/apps/details?id=com.facebook.mlite",
       "icon": "https://play-lh.googleusercontent.com/I6iR-zi371fJJsGnqwnY8uUmeYqv-_erzVbVBhyASixDReX2JUuIhgXjtV9OrA-_nQI",
       "developer": "Facebook",
@@ -2101,7 +2101,7 @@
     },
     {
       "title": "Wayfair - Shop All Things Home",
-      "appId": "com.wayfair.wayfair",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.wayfair.wayfair",
       "url": "https://play.google.com/store/apps/details?id=com.wayfair.wayfair",
       "icon": "https://play-lh.googleusercontent.com/NnEL8J7Z4621ATPA1rmy3J-G0aeiY_JqP0HKVabhqqnoRibHPMdaoRtu_rv5Wr3AdkA",
       "developer": "Wayfair, LLC",
@@ -2115,7 +2115,7 @@
     },
     {
       "title": "Norton Secure VPN – Security & Privacy WiFi Proxy",
-      "appId": "com.symantec.securewifi",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.symantec.securewifi",
       "url": "https://play.google.com/store/apps/details?id=com.symantec.securewifi",
       "icon": "https://play-lh.googleusercontent.com/P1O2Wo1hSK6a8BEjQ-31H7PhXoSK5UO4j9YGqS6KP0x7OOZGzV4MDXBcbeiRgwpt5NQ",
       "developer": "NortonMobile",
@@ -2129,7 +2129,7 @@
     },
     {
       "title": "Acorns - Invest Spare Change",
-      "appId": "com.acorns.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.acorns.android",
       "url": "https://play.google.com/store/apps/details?id=com.acorns.android",
       "icon": "https://play-lh.googleusercontent.com/8lfgfqHNjfkOwNHza4lQ6kwClChpLdmWU_XRKKhr2LtBTL3IuapBSjHlTZmqbVCopg",
       "developer": "Acorns",
@@ -2143,7 +2143,7 @@
     },
     {
       "title": "Google Docs",
-      "appId": "com.google.android.apps.docs.editors.docs",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.google.android.apps.docs.editors.docs",
       "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs",
       "icon": "https://play-lh.googleusercontent.com/uFAlmfmhz9p4KSueKwT6FwwreGiDXSgNeo65oF4F5ynnJucMvAJfsb7A507gOABg4yY",
       "developer": "Google LLC",
@@ -2157,7 +2157,7 @@
     },
     {
       "title": "Walgreens",
-      "appId": "com.usablenet.mobile.walgreen",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.usablenet.mobile.walgreen",
       "url": "https://play.google.com/store/apps/details?id=com.usablenet.mobile.walgreen",
       "icon": "https://play-lh.googleusercontent.com/gK5U3QZnDLSysaBFcsiCOyknNRZpG669NmreEUvGqlamTQwafKoVTUVUoZ8rqdBzlMsw",
       "developer": "Walgreen Co.",
@@ -2171,7 +2171,7 @@
     },
     {
       "title": "iHeartRadio: Radio, Podcasts & Music On Demand",
-      "appId": "com.clearchannel.iheartradio.controller",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.clearchannel.iheartradio.controller",
       "url": "https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller",
       "icon": "https://play-lh.googleusercontent.com/UTfBaYUzml-7QPLpKI45GbuVjCjddn5Byi6yjzb87jPWHnrBSuAbaJDCsPMn3m6NjLBC",
       "developer": "iHeartMedia, Inc.",
@@ -2185,7 +2185,7 @@
     },
     {
       "title": "Stash: Invest & Build Wealth",
-      "appId": "com.stash.stashinvest",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.stash.stashinvest",
       "url": "https://play.google.com/store/apps/details?id=com.stash.stashinvest",
       "icon": "https://play-lh.googleusercontent.com/73-DI2anvTkFjXk5YeIRZf4qxUgIUWeUwRRA-cjtDQc_NyyNkGkPw2TaAEIYbBtz8fs",
       "developer": "Stash Financial",
@@ -2199,7 +2199,7 @@
     },
     {
       "title": "ALIVE: Live Wallpaper 4K Maker & Backgrounds",
-      "appId": "com.atocha.wallpapers",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.atocha.wallpapers",
       "url": "https://play.google.com/store/apps/details?id=com.atocha.wallpapers",
       "icon": "https://play-lh.googleusercontent.com/aulS8EnoC9XocViH-aiPZS14bB3B7m9C2eSK9-ZYoGw43i6J3CbHRn6vJr5E3BV7gJ4",
       "developer": "Mobile Billing Activities S.L.",
@@ -2213,7 +2213,7 @@
     },
     {
       "title": "Copy My Data",
-      "appId": "com.mediamushroom.copymydata",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.mediamushroom.copymydata",
       "url": "https://play.google.com/store/apps/details?id=com.mediamushroom.copymydata",
       "icon": "https://play-lh.googleusercontent.com/rC1BdoAVcOKRjtE9mXhAwesUpB2UU8y1Cxd2sYpOxiFhqlVY8SzCqvrYZvZeBNEetA",
       "developer": "Media Mushroom",
@@ -2227,7 +2227,7 @@
     },
     {
       "title": "Canva: Graphic Design, Video Collage, Logo Maker",
-      "appId": "com.canva.editor",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.canva.editor",
       "url": "https://play.google.com/store/apps/details?id=com.canva.editor",
       "icon": "https://play-lh.googleusercontent.com/6dcTV8RNj9YTnyvQbEmDwKVZ6c9y0unKoJb7F4FC_qMgmKWYpb7f32VIsOj7vyo1GH4",
       "developer": "Canva",
@@ -2241,7 +2241,7 @@
     },
     {
       "title": "The Epoch Times: Live & Breaking News",
-      "appId": "com.theepochtimes.news",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.theepochtimes.news",
       "url": "https://play.google.com/store/apps/details?id=com.theepochtimes.news",
       "icon": "https://play-lh.googleusercontent.com/VypEELF-FH-WtHEJarpYl4F21ssnEYdZYomUFYMXCsp6RM0M9Gu-P4nJ1egVV7pQKg8",
       "developer": "Epoch Times Association Inc",
@@ -2255,7 +2255,7 @@
     },
     {
       "title": "Healthy Together - COVID-19",
-      "appId": "co.twenty.stop.spread",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/co.twenty.stop.spread",
       "url": "https://play.google.com/store/apps/details?id=co.twenty.stop.spread",
       "icon": "https://play-lh.googleusercontent.com/CNkwe7t03CeMKLzkrxNDGupcJp2ENItQDqa2osK3m01bqXEOTkL8RWl7PZJMA8fPoQ",
       "developer": "Twenty Inc.",
@@ -2269,7 +2269,7 @@
     },
     {
       "title": "Nextdoor: Local Updates, Recommendations and Deals",
-      "appId": "com.nextdoor",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.nextdoor",
       "url": "https://play.google.com/store/apps/details?id=com.nextdoor",
       "icon": "https://play-lh.googleusercontent.com/RamdLkcf8OZ7y2DEpajvoLntyHr0v8hTippsn134VnwZ0IaxEA_drA9dOzof3e9_od8",
       "developer": "Nextdoor.com",
@@ -2283,7 +2283,7 @@
     },
     {
       "title": "Fox News: Breaking News, Live Video & News Alerts",
-      "appId": "com.foxnews.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.foxnews.android",
       "url": "https://play.google.com/store/apps/details?id=com.foxnews.android",
       "icon": "https://play-lh.googleusercontent.com/TA1fIRwGKyTlAc3tpu_nPKZnwr5u1PN3W1glmtJzm1dCR-pzjXiqCEhC2QkLgGx9LW8",
       "developer": "FOX News Network, LLC",
@@ -2297,7 +2297,7 @@
     },
     {
       "title": "Readict - Free & Unlimited Romance Novels",
-      "appId": "com.novel.fiction.read.story.book",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.novel.fiction.read.story.book",
       "url": "https://play.google.com/store/apps/details?id=com.novel.fiction.read.story.book",
       "icon": "https://play-lh.googleusercontent.com/p5OUpcDfnRSVdWoaF38Lt2OJ3T3RmwG02wGu6CaKOj1PTpmxTQUHVRNewhS6-gtDwqY6",
       "developer": "VitalTek, Inc.",
@@ -2311,7 +2311,7 @@
     },
     {
       "title": "Bank of America Mobile Banking",
-      "appId": "com.infonow.bofa",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.infonow.bofa",
       "url": "https://play.google.com/store/apps/details?id=com.infonow.bofa",
       "icon": "https://play-lh.googleusercontent.com/GdICLxnKd-e-lmV46N_SjihWHzAUX1nj8e--dF2KrQjvomN4zxOR-iEWwsTG_Tqr_oc",
       "developer": "Bank of America",
@@ -2325,7 +2325,7 @@
     },
     {
       "title": "Life360: Family Locator & GPS Tracker for Safety",
-      "appId": "com.life360.android.safetymapd",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.life360.android.safetymapd",
       "url": "https://play.google.com/store/apps/details?id=com.life360.android.safetymapd",
       "icon": "https://play-lh.googleusercontent.com/wyADnq1wH6_x5wO5ug2meYP7TIKmLBvA9jS1Ovf20Skqz7crSq59FIKP5oYaEj8KZg",
       "developer": "Life360",
@@ -2339,7 +2339,7 @@
     },
     {
       "title": "LinkedIn: Jobs, Business News & Social Networking",
-      "appId": "com.linkedin.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.linkedin.android",
       "url": "https://play.google.com/store/apps/details?id=com.linkedin.android",
       "icon": "https://play-lh.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo",
       "developer": "LinkedIn",
@@ -2353,7 +2353,7 @@
     },
     {
       "title": "DoorDash - Driver",
-      "appId": "com.doordash.driverapp",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.doordash.driverapp",
       "url": "https://play.google.com/store/apps/details?id=com.doordash.driverapp",
       "icon": "https://play-lh.googleusercontent.com/trfOy_Wg9gQTwGcoYJNushqXIV3xFhWBReAVWM5IPqspN5N811YhTKQCG48anNS13HE",
       "developer": "DoorDash",
@@ -2367,7 +2367,7 @@
     },
     {
       "title": "Xbox",
-      "appId": "com.microsoft.xboxone.smartglass",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.microsoft.xboxone.smartglass",
       "url": "https://play.google.com/store/apps/details?id=com.microsoft.xboxone.smartglass",
       "icon": "https://play-lh.googleusercontent.com/hihXCV-0wxOXB5N7uBREaJeCVK0BDjNEBtKwNAncftZMflpEvasiKXn7vCKxu9qGpvk",
       "developer": "Microsoft Corporation",
@@ -2381,7 +2381,7 @@
     },
     {
       "title": "One Security - Antivirus, Cleaner, Booster",
-      "appId": "com.cleanteam.onesecurity",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.cleanteam.onesecurity",
       "url": "https://play.google.com/store/apps/details?id=com.cleanteam.onesecurity",
       "icon": "https://play-lh.googleusercontent.com/p3NumlYaiEhMAoxPwGLrDbvg9wjTJJWWSMPQByXeQymJf8u1wvNpIWBx9NZ46X2qy9w",
       "developer": "One Dot Moblie Limited",
@@ -2395,7 +2395,7 @@
     },
     {
       "title": "Chick-fil-A",
-      "appId": "com.chickfila.cfaflagship",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.chickfila.cfaflagship",
       "url": "https://play.google.com/store/apps/details?id=com.chickfila.cfaflagship",
       "icon": "https://play-lh.googleusercontent.com/yF2S41QGnGWs7JCD-t6L6AJ4KIm2ybwM0lirAiHQZR2ZKjbvYAgQ4e0MFVXYVLQWWA",
       "developer": "Chick-fil-A, Inc.",
@@ -2409,7 +2409,7 @@
     },
     {
       "title": "Messages",
-      "appId": "com.google.android.apps.messaging",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.google.android.apps.messaging",
       "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.messaging",
       "icon": "https://play-lh.googleusercontent.com/5l79qwitjzU_635ZCyIWJuvAywnlAm6oskIioNYDP0s1FxoGaU6lTKGxSWbHuw8oZhM",
       "developer": "Google LLC",
@@ -2423,7 +2423,7 @@
     },
     {
       "title": "My Spectrum",
-      "appId": "com.brighthouse.mybhn",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.brighthouse.mybhn",
       "url": "https://play.google.com/store/apps/details?id=com.brighthouse.mybhn",
       "icon": "https://play-lh.googleusercontent.com/MBi51mXYtb0tu3mssXuqMTxF1CmvgXuNOY5oAFKKQG6qkrdz08xGk185EN6G_MiTQA",
       "developer": "Charter/Spectrum",
@@ -2437,7 +2437,7 @@
     },
     {
       "title": "Eye Art: Perfect Makeup Artist",
-      "appId": "com.playland.eyeart",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.playland.eyeart",
       "url": "https://play.google.com/store/apps/details?id=com.playland.eyeart",
       "icon": "https://play-lh.googleusercontent.com/_dbDGi2bIFeRd2xMbUzooTkI9s4KtJp_Q9g0kVgr9mjwyvLBjWRz5Gy59mKOOQnd3g",
       "developer": "Fingerfun Games",
@@ -2451,7 +2451,7 @@
     },
     {
       "title": "StarMaker: Sing free Karaoke, Record music videos",
-      "appId": "com.starmakerinteractive.starmaker",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.starmakerinteractive.starmaker",
       "url": "https://play.google.com/store/apps/details?id=com.starmakerinteractive.starmaker",
       "icon": "https://play-lh.googleusercontent.com/93H1tf40Tq_4rn9waqWa6Wm2wx_YBMfPuOsxbzovvrahm3ndyk6hdUzBzetmWTulsw7e",
       "developer": "StarMaker Interactive",
@@ -2465,7 +2465,7 @@
     },
     {
       "title": "Indeed Job Search",
-      "appId": "com.indeed.android.jobsearch",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.indeed.android.jobsearch",
       "url": "https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch",
       "icon": "https://play-lh.googleusercontent.com/jj2z8DZ-Z5rV-Y4IY0ZklkuPjCchjeeisflFD0dU_zlJNpbUJkDTQpAMlc5rwutKFSU",
       "developer": "Indeed Jobs",
@@ -2479,7 +2479,7 @@
     },
     {
       "title": "YouTube TV - Watch & Record Live TV",
-      "appId": "com.google.android.apps.youtube.unplugged",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.google.android.apps.youtube.unplugged",
       "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.unplugged",
       "icon": "https://play-lh.googleusercontent.com/gk-WYYED1OJNr0G28ucBPUTPric5QCLwW2q_rNcYg-XTQCbPkhcp3CqVJ-1dHiBql10",
       "developer": "Google LLC",
@@ -2493,7 +2493,7 @@
     },
     {
       "title": "Truebill Budget Planner, Bill Tracker and Reminder",
-      "appId": "com.truebill",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.truebill",
       "url": "https://play.google.com/store/apps/details?id=com.truebill",
       "icon": "https://play-lh.googleusercontent.com/GUoynF_tSZ8wlhFuEAz5TgQlj741YfETaliw-aqTdm36JuxqytBUmz8zTDxFPKD3LBo",
       "developer": "Finance, Budget Planner & Bill Tracker - Truebill",
@@ -2507,7 +2507,7 @@
     },
     {
       "title": "News Home: Breaking News, Local & World News Today",
-      "appId": "com.home.news.breaking",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.home.news.breaking",
       "url": "https://play.google.com/store/apps/details?id=com.home.news.breaking",
       "icon": "https://play-lh.googleusercontent.com/aCyq5_tBBCKcD5f4yuiE3kaNc1HDbPLA7Tq7PoEqBk1RVODSqJQUYpB_ekCrW23qnhw",
       "developer": "My Home Apps",
@@ -2521,7 +2521,7 @@
     },
     {
       "title": "The Home Depot",
-      "appId": "com.thehomedepot",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.thehomedepot",
       "url": "https://play.google.com/store/apps/details?id=com.thehomedepot",
       "icon": "https://play-lh.googleusercontent.com/n-vPcnP-kTyZ5eH6QJkIvAhylJuU__wOZyfcJR3D3u2N1aChqfXEroE4KVSfNlGd2Hs",
       "developer": "The Home Depot, Inc.",
@@ -2535,7 +2535,7 @@
     },
     {
       "title": "Microsoft Word: Write, Edit & Share Docs on the Go",
-      "appId": "com.microsoft.office.word",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.microsoft.office.word",
       "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.word",
       "icon": "https://play-lh.googleusercontent.com/9kABykeGovHPy-dN19lRxxnCp8IZK3Pkl8qLFNxrEe-hhKVZeiyhTBEIRUt6t-vhxQ",
       "developer": "Microsoft Corporation",
@@ -2549,7 +2549,7 @@
     },
     {
       "title": "Duo Mobile",
-      "appId": "com.duosecurity.duomobile",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.duosecurity.duomobile",
       "url": "https://play.google.com/store/apps/details?id=com.duosecurity.duomobile",
       "icon": "https://play-lh.googleusercontent.com/dpE6aQQqc2Obn9ddW741YegLaoTNNPfzmLhC2qnMPoZPM50DOkJyRhiQ2gw8dSLoNQ",
       "developer": "Duo Security LLC",
@@ -2563,7 +2563,7 @@
     },
     {
       "title": "US Breaking News: Latest Local News & Breaking",
-      "appId": "ma.safe.bnus",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/ma.safe.bnus",
       "url": "https://play.google.com/store/apps/details?id=ma.safe.bnus",
       "icon": "https://play-lh.googleusercontent.com/LMtMfR3I1RMtcRkMVm9x8hm_fb5ijMuxjbd7pfM2dz6QED-9QIzIUEW6sQo7ayr4QuY",
       "developer": "Safe Apps Inc",
@@ -2577,7 +2577,7 @@
     },
     {
       "title": "Little Caesars",
-      "appId": "com.littlecaesars",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.littlecaesars",
       "url": "https://play.google.com/store/apps/details?id=com.littlecaesars",
       "icon": "https://play-lh.googleusercontent.com/vm8k4Rw_SWAqtHCB4d9neXaubDdiWAkNR7C_R974OvOJpOA6MnWN9Jkp8wVJVlbeWg",
       "developer": "Little Caesar Enterprises, Inc.",
@@ -2591,7 +2591,7 @@
     },
     {
       "title": "The NBC App - Stream Live TV and Episodes for Free",
-      "appId": "com.nbcuni.nbc",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.nbcuni.nbc",
       "url": "https://play.google.com/store/apps/details?id=com.nbcuni.nbc",
       "icon": "https://play-lh.googleusercontent.com/Z6V9Tre6J74984zd44Rv8CsbXiCSNQcP-lDfpAEXVBMd_YwAQFOOvsW8bfKOvAsT-LA",
       "developer": "NBCUniversal Media, LLC",
@@ -2605,7 +2605,7 @@
     },
     {
       "title": "Waze - GPS, Maps, Traffic Alerts & Live Navigation",
-      "appId": "com.waze",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.waze",
       "url": "https://play.google.com/store/apps/details?id=com.waze",
       "icon": "https://play-lh.googleusercontent.com/muSOyE55_Ra26XXx2IiGYqXduq7RchMhosFlWGc7wCS4I1iQXb7BAnnjEYzqcUYa5oo",
       "developer": "Waze",
@@ -2619,7 +2619,7 @@
     },
     {
       "title": "Drum Pad Machine - Beat Maker & Music Maker",
-      "appId": "com.agminstruments.drumpadmachine",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.agminstruments.drumpadmachine",
       "url": "https://play.google.com/store/apps/details?id=com.agminstruments.drumpadmachine",
       "icon": "https://play-lh.googleusercontent.com/2Z6BfzwC4GfccM17VX_2E1_OlI-PHJGxk24gAJE-kbfw4Fg-VypA6PCF4sAv0vLbySt7",
       "developer": "Easybrain",
@@ -2633,7 +2633,7 @@
     },
     {
       "title": "dfndr security: antivirus, anti-hacking & cleaner",
-      "appId": "com.psafe.msuite",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.psafe.msuite",
       "url": "https://play.google.com/store/apps/details?id=com.psafe.msuite",
       "icon": "https://play-lh.googleusercontent.com/Sy9g3MEtQa-kCBDBO0sudyjKRsZUdTbuX9cQ_5ohzE6SNEl7sVXnj_rXsqzYomatvbY",
       "developer": "PSafe",
@@ -2647,7 +2647,7 @@
     },
     {
       "title": "Remote Control for Roku TV",
-      "appId": "remote.control.for.roku",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/remote.control.for.roku",
       "url": "https://play.google.com/store/apps/details?id=remote.control.for.roku",
       "icon": "https://play-lh.googleusercontent.com/fKaWiwLM9a3okYIybX3S3k7g1M2utqMFEoaxcLSjseEpTCohKOqNsufUxHkMI_C4xTxm",
       "developer": "EVOLLY.APP",
@@ -2661,7 +2661,7 @@
     },
     {
       "title": "Google One",
-      "appId": "com.google.android.apps.subscriptions.red",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.google.android.apps.subscriptions.red",
       "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red",
       "icon": "https://play-lh.googleusercontent.com/DGAleS46qOedNzJGsB3e29QLpL6Qi6EwIDze95nBvxMAMGEmbE6KOW__2haEkHVDs4Y",
       "developer": "Google LLC",
@@ -2675,7 +2675,7 @@
     },
     {
       "title": "NBC News: Breaking News, US News & Live Video",
-      "appId": "com.zumobi.msnbc",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.zumobi.msnbc",
       "url": "https://play.google.com/store/apps/details?id=com.zumobi.msnbc",
       "icon": "https://play-lh.googleusercontent.com/LMulHEBd3m1bAZmO-yoZTuXA8abvwVtQd_QVPtmnuko3Setwnq90umSjjtOCXywNGvY",
       "developer": "NBC News Digital LLC",
@@ -2689,7 +2689,7 @@
     },
     {
       "title": "Photo Editor Pro",
-      "appId": "photo.editor.photoeditor.photoeditorpro",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/photo.editor.photoeditor.photoeditorpro",
       "url": "https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro",
       "icon": "https://play-lh.googleusercontent.com/fNL2p8frW7OohneKTg-PO6ahEDGrxntbEZhT-s7jONrpSaIaonPmVLfMeSRdwhjDBXE4",
       "developer": "InShot Inc.",
@@ -2703,7 +2703,7 @@
     },
     {
       "title": "SmartNews: Local Breaking News",
-      "appId": "jp.gocro.smartnews.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/jp.gocro.smartnews.android",
       "url": "https://play.google.com/store/apps/details?id=jp.gocro.smartnews.android",
       "icon": "https://play-lh.googleusercontent.com/jVC3om8zJq33LRRGrYIOSZj7Nb8cW7N5BTN88rMUaIVtJLbh0Rsxh4TZLEVnSF5zRg",
       "developer": "SmartNews, Inc.",
@@ -2717,7 +2717,7 @@
     },
     {
       "title": "Google Find My Device",
-      "appId": "com.google.android.apps.adm",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.google.android.apps.adm",
       "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.adm",
       "icon": "https://play-lh.googleusercontent.com/aX0ql6V6PvVotibIvaNW7CRjaJ2oUyBIX_WgSkAl36vOAaoXiw6yQufxVQ2LV_D2DLg",
       "developer": "Google LLC",
@@ -2731,7 +2731,7 @@
     },
     {
       "title": "ibis Paint X",
-      "appId": "jp.ne.ibis.ibispaintx.app",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/jp.ne.ibis.ibispaintx.app",
       "url": "https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaintx.app",
       "icon": "https://play-lh.googleusercontent.com/QcfhlXm32JDnj3WM2-TSL78ad99x4slovX4OzCSLSPU3uRN-mGXpKyM_yeXiewhz0Lk",
       "developer": "ibis inc.",
@@ -2745,7 +2745,7 @@
     },
     {
       "title": "Etsy: Buy Custom, Handmade, and Unique Goods",
-      "appId": "com.etsy.android",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.etsy.android",
       "url": "https://play.google.com/store/apps/details?id=com.etsy.android",
       "icon": "https://play-lh.googleusercontent.com/giKCCPigafUbKQ1AkXVxSjQ1PggetEI96ORNKxxhQdvGAFhto71kO4zf7gZ9oOdLIQe5",
       "developer": "Etsy, Inc",
@@ -2759,7 +2759,7 @@
     },
     {
       "title": "Microsoft OneDrive",
-      "appId": "com.microsoft.skydrive",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.microsoft.skydrive",
       "url": "https://play.google.com/store/apps/details?id=com.microsoft.skydrive",
       "icon": "https://play-lh.googleusercontent.com/4iLRlu-E5hbgoHCb5dkR8wUbjEHFWHfXHkYKexE9hGVaISUGuYzwnFsSvKLgQWTi3cg",
       "developer": "Microsoft Corporation",
@@ -2773,7 +2773,7 @@
     },
     {
       "title": "Photomath",
-      "appId": "com.microblink.photomath",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.microblink.photomath",
       "url": "https://play.google.com/store/apps/details?id=com.microblink.photomath",
       "icon": "https://play-lh.googleusercontent.com/E_kpq1HGn5WU2P4S2yu0BwrPEHqiA-VBh2R7qoIjPFXdNvKA0A-8zi0RzRslUtEOnUvA",
       "developer": "Photomath, Inc.",
@@ -2787,7 +2787,7 @@
     },
     {
       "title": "Pizza Hut - Food Delivery & Takeout",
-      "appId": "com.yum.pizzahut",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.yum.pizzahut",
       "url": "https://play.google.com/store/apps/details?id=com.yum.pizzahut",
       "icon": "https://play-lh.googleusercontent.com/jGw2IsVM2f6jXDI9bVneLLHogRPjwwSrFYSQ_Pv8Zczmmx-Y_o56TzOJiwOwetOJM_Q",
       "developer": "Pizza Hut Inc.",
