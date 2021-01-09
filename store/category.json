@@ -3,11 +3,11 @@
   "data": [
     {
       "cat_name": "Application",
-      "cat_uname": "APPLICATION"
+      "cat_uname": "https://raw.githubusercontent.com/lo483/store/main/store/category/paid.json?"
     },
     {
       "cat_name": "Art&Design",
-      "cat_uname": "ART_AND_DESIGN"
+      "cat_uname": "https://raw.githubusercontent.com/lo483/store/main/store/category/cat2.json?"
     },
     {
       "cat_name": "Auto&Vehicles",
