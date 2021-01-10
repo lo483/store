@@ -3,7 +3,7 @@
   "results": [
     {
       "title": "Ulta Beauty: Shop Makeup, Skin, Hair & Perfume",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.ulta",
+      "appId": "com.ulta",
       "url": "https://play.google.com/store/apps/details?id=com.ulta",
       "icon": "https://play-lh.googleusercontent.com/_TJTWJgxKdfMhv5SlUXqQY1CJwP3UTQfq11Wz6EJYM1c1f1wGlxYQQJTXfqTkzbmZM-x",
       "developer": "ULTA",
@@ -17,7 +17,7 @@
     },
     {
       "title": "Booksy - book local beauty appointments 24/7",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/net.booksy.customer",
+      "appId": "net.booksy.customer",
       "url": "https://play.google.com/store/apps/details?id=net.booksy.customer",
       "icon": "https://play-lh.googleusercontent.com/7Vxq9La2Fle7R3DeQGtUkaQDpeO40qrsWPrhQckCzBiHn1ND_EiwaK4nF8FgmD7ODNQ",
       "developer": "Booksy International",
@@ -31,7 +31,7 @@
     },
     {
       "title": "IPSY: Makeup, Beauty, and Tips",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.ipsy.mobile.production",
+      "appId": "com.ipsy.mobile.production",
       "url": "https://play.google.com/store/apps/details?id=com.ipsy.mobile.production",
       "icon": "https://play-lh.googleusercontent.com/o-ZyVZpfe4SRfc9lq8ME30PjDKs229skf6NhLDLknboq406tt-aHkxd909fG1QRUTCQ",
       "developer": "ipsy",
@@ -45,7 +45,7 @@
     },
     {
       "title": "Sephora - Buy Makeup, Cosmetics, Hair & Skincare",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.sephora",
+      "appId": "com.sephora",
       "url": "https://play.google.com/store/apps/details?id=com.sephora",
       "icon": "https://play-lh.googleusercontent.com/vClrtJhp-vYWJa3X1z8I_uKDtG5322CbL3f6puRGjecITal7cAyKP1Q8tRfa9KN6xFrd",
       "developer": "Sephora USA, Inc.",
@@ -59,7 +59,7 @@
     },
     {
       "title": "SALLY BEAUTY - Shop Hair Color, Hair Care & Beauty",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.sallybeauty.shop",
+      "appId": "com.sallybeauty.shop",
       "url": "https://play.google.com/store/apps/details?id=com.sallybeauty.shop",
       "icon": "https://play-lh.googleusercontent.com/yW29h3ajxuyi-2Vy2iqOvmyhq82mFPmy99il6lrmNK_RUuUqnZ5x_IwXKje0CjPe9w",
       "developer": "Sally Beauty Supply LLC.",
@@ -73,7 +73,7 @@
     },
     {
       "title": "Beauty Makeup Editor: Beauty Camera, Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.lyrebirdstudio.beauty",
+      "appId": "com.lyrebirdstudio.beauty",
       "url": "https://play.google.com/store/apps/details?id=com.lyrebirdstudio.beauty",
       "icon": "https://play-lh.googleusercontent.com/Y-1FZ8oJWaT971tujdsiMXIYVWhkShrd5B3rLE5tgBJ3d6flieM-lAsvkIJtP-OqcmI",
       "developer": "Lyrebird Studio",
@@ -87,7 +87,7 @@
     },
     {
       "title": "Beauty Rewards: Earn Free Gift Cards & Play Games!",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.affinity.my_beauty_rewards",
+      "appId": "com.affinity.my_beauty_rewards",
       "url": "https://play.google.com/store/apps/details?id=com.affinity.my_beauty_rewards",
       "icon": "https://play-lh.googleusercontent.com/8sIatZbLgBkDjFzgKQYf8R6P21ZWMv7KfPIzYdvTtaYmFhsIbajdFNPPEGYw69y8098",
       "developer": "Influence Mobile, Inc.",
@@ -101,7 +101,7 @@
     },
     {
       "title": "Blast Stock Wallpapers and HD Backgrounds",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/biw.sdhg.fth.vbn.jiofdty",
+      "appId": "biw.sdhg.fth.vbn.jiofdty",
       "url": "https://play.google.com/store/apps/details?id=biw.sdhg.fth.vbn.jiofdty",
       "icon": "https://play-lh.googleusercontent.com/V_EIieBcescVk4Arr0QjZsx_aT0GJDMoE2cpxhzCITkG6wQJHO1vMjIfAK6PHT6Mmg",
       "developer": "Dylan Webster",
@@ -115,7 +115,7 @@
     },
     {
       "title": "Scentbird: Online Beauty Shop. Perfume & Cosmetics",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.scentbird",
+      "appId": "com.scentbird",
       "url": "https://play.google.com/store/apps/details?id=com.scentbird",
       "icon": "https://play-lh.googleusercontent.com/ybItS8Cvpvc55H5BTsMRHhOe8TWfMWi7rF3GhnnJ7klQ3gb_erM7no96oZjm4yUCyQ",
       "developer": "Scentbird, Inc.",
@@ -129,7 +129,7 @@
     },
     {
       "title": "StyleSeat - Book Beauty & Salon Appointments",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.styleseat.promobile",
+      "appId": "com.styleseat.promobile",
       "url": "https://play.google.com/store/apps/details?id=com.styleseat.promobile",
       "icon": "https://play-lh.googleusercontent.com/KlIy3ra6P-kVXAlSq2D5YK1Qd5PNlz4ypviGURC2BpgbtBHU9-dLq1pVWVUBR_k_e3JT",
       "developer": "Styleseat",
@@ -143,7 +143,7 @@
     },
     {
       "title": "Ice Queen - Dress Up & Makeup",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/google.free.icequeen.peachygamesllc",
+      "appId": "google.free.icequeen.peachygamesllc",
       "url": "https://play.google.com/store/apps/details?id=google.free.icequeen.peachygamesllc",
       "icon": "https://play-lh.googleusercontent.com/hFxtaovrK2rKQBxRmegY6XH6T8dcyIOJvsqzN9PVMMxA6V_WGf210Fq5y6fxUBofTdg",
       "developer": "Peachy Games",
@@ -157,7 +157,7 @@
     },
     {
       "title": "Mirror - Makeup and Shaving - Compact mirror",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/kynguyen.app.mirror",
+      "appId": "kynguyen.app.mirror",
       "url": "https://play.google.com/store/apps/details?id=kynguyen.app.mirror",
       "icon": "https://play-lh.googleusercontent.com/vplmDkUTWOBgsdtgNJRdqRzVlJHLfKrlhrwA-0IiltzbfyFBYUzQDXc-Lh5eytEPCw",
       "developer": "try to be The Best",
@@ -171,7 +171,7 @@
     },
     {
       "title": "Hair Color Changer: Change your hair color booth",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/haircolour.hairstyle.photoeditor.haircolorchanger",
+      "appId": "haircolour.hairstyle.photoeditor.haircolorchanger",
       "url": "https://play.google.com/store/apps/details?id=haircolour.hairstyle.photoeditor.haircolorchanger",
       "icon": "https://play-lh.googleusercontent.com/r-_DylDi_vyfBIwkWnGnld27OT-5iSCv2AP3cpSjVCvGHJ0bKIjnVe7QLL-K91LCNKk",
       "developer": "Face & Body Tune Photo Editor SRL",
@@ -185,7 +185,7 @@
     },
     {
       "title": "Hair color changer - Try different hair colors",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.luckystars.haircolorchanger",
+      "appId": "com.luckystars.haircolorchanger",
       "url": "https://play.google.com/store/apps/details?id=com.luckystars.haircolorchanger",
       "icon": "https://play-lh.googleusercontent.com/RcccI2DtTtjNykXrG1lWTm9SGHrGR2lC3tINdTyu9nOETLqDfDMAjiPv48Z41EoKpOQp",
       "developer": "Luckystars Studio",
@@ -199,7 +199,7 @@
     },
     {
       "title": "Perfect365: One-Tap Makeover",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.arcsoft.perfect365",
+      "appId": "com.arcsoft.perfect365",
       "url": "https://play.google.com/store/apps/details?id=com.arcsoft.perfect365",
       "icon": "https://play-lh.googleusercontent.com/gG8W_LKwH7j7zHeYbQMQnStRq406uY7mIZIVCVAhtxKvnpMe5MYRi8xUQlnwl6ABYVs",
       "developer": "Perfect365, Inc.",
@@ -213,7 +213,7 @@
     },
     {
       "title": "Filters for Snapchat 2020",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/beautyrooom.filtersforselfie.sweet.face.camera",
+      "appId": "beautyrooom.filtersforselfie.sweet.face.camera",
       "url": "https://play.google.com/store/apps/details?id=beautyrooom.filtersforselfie.sweet.face.camera",
       "icon": "https://play-lh.googleusercontent.com/o9Edg8YTEBQjk7bkF8Bt1Lr-OzUz5iTwFsnDBnUvdFp1obzYcz-AnpFcqShHfn2brf8",
       "developer": "Beautyroom",
@@ -227,7 +227,7 @@
     },
     {
       "title": "Booksy Biz - Beauty Scheduling App",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/net.booksy.business",
+      "appId": "net.booksy.business",
       "url": "https://play.google.com/store/apps/details?id=net.booksy.business",
       "icon": "https://play-lh.googleusercontent.com/Igjz-RyMGmIiPcTp_2cxnUG2kfj-yWWAoiE6TpR_P_35xTC6SOuWeIbOBeF7T-AcNSoP",
       "developer": "Booksy International",
@@ -241,7 +241,7 @@
     },
     {
       "title": "Filters for Selfies",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/cofs.filters4snapchat",
+      "appId": "cofs.filters4snapchat",
       "url": "https://play.google.com/store/apps/details?id=cofs.filters4snapchat",
       "icon": "https://play-lh.googleusercontent.com/31pHbTF9ooOKQEt0akMHU8W0Wi_ud6mN8QexxwKxz4jL-UgcYiIVgjw_VlNviMCJVms",
       "developer": "Colorful Filter Studio",
@@ -255,7 +255,7 @@
     },
     {
       "title": "Pixl - Face Retouch & Blemish Remover Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/net.braincake.pixl.pixl",
+      "appId": "net.braincake.pixl.pixl",
       "url": "https://play.google.com/store/apps/details?id=net.braincake.pixl.pixl",
       "icon": "https://play-lh.googleusercontent.com/m3GcgwF21kcZIoPn6i4UxZp2owU3NA_9RLS2H-EwrqU6v6Uq6nxHuf-Lm5EgrSxi3YUf",
       "developer": "Selfie Photo Editor & Vintage Filters",
@@ -269,7 +269,7 @@
     },
     {
       "title": "Mary Kay® Skin Analyzer",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.marykay.skinsight.android.flavorProd",
+      "appId": "com.marykay.skinsight.android.flavorProd",
       "url": "https://play.google.com/store/apps/details?id=com.marykay.skinsight.android.flavorProd",
       "icon": "https://play-lh.googleusercontent.com/Br2dLNnz2DEyO4VJfvwihZ8jzD07-5xH6n_c8NC_ydFUIqLYAj42pKLsdf8HZP-ycg",
       "developer": "Mary Kay, Inc.",
@@ -283,7 +283,7 @@
     },
     {
       "title": "Fashion Nail Salon Game: Manicure and Pedicure App",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.Fashion.Nail.Salon.Game.Manicure.And.Pedicure.App.Vex",
+      "appId": "com.Fashion.Nail.Salon.Game.Manicure.And.Pedicure.App.Vex",
       "url": "https://play.google.com/store/apps/details?id=com.Fashion.Nail.Salon.Game.Manicure.And.Pedicure.App.Vex",
       "icon": "https://play-lh.googleusercontent.com/nZRCiPjAOvu6Z2cwUvbeEB8vdxZO9Euic0cq0xj4lSIzSDoQhyQELws0iEXYMS8_rw",
       "developer": "Beauty Mania Apps and Games",
@@ -297,7 +297,7 @@
     },
     {
       "title": "Jewelry for Pandora",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.pandora.jewelry.store.app",
+      "appId": "com.pandora.jewelry.store.app",
       "url": "https://play.google.com/store/apps/details?id=com.pandora.jewelry.store.app",
       "icon": "https://play-lh.googleusercontent.com/ahg06PgFtHJs_SDrK5i4zgGM6YS3lRsRNMsb9s6lgAqI-uW9yJNCuxIdzpTPAux7561h",
       "developer": "Everest Stores UK",
@@ -311,7 +311,7 @@
     },
     {
       "title": "YouCam Nails - Manicure Salon for Custom Nail Art",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.perfectcorp.ycn",
+      "appId": "com.perfectcorp.ycn",
       "url": "https://play.google.com/store/apps/details?id=com.perfectcorp.ycn",
       "icon": "https://play-lh.googleusercontent.com/Nf-3U0iTHz7gIG8mS8IwrxBzaQF1ct0BlYPY9hs_e2FPcI0BYKJo5yyDRU-QhTjMKw",
       "developer": "Perfect Corp.",
@@ -325,7 +325,7 @@
     },
     {
       "title": "Filter for snapchat - Amazing Snap camera Filters",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.filter.camera.stickers.tiktokfilter.snapchat",
+      "appId": "com.filter.camera.stickers.tiktokfilter.snapchat",
       "url": "https://play.google.com/store/apps/details?id=com.filter.camera.stickers.tiktokfilter.snapchat",
       "icon": "https://play-lh.googleusercontent.com/dRJ1weFVu2lBkHTcJZz7Xscv65rNsvC-ULaIkWnnoSmgwD_z-VITMQes2H2csHSWcSE",
       "developer": "App world Photo Editor",
@@ -339,7 +339,7 @@
     },
     {
       "title": "Mirror Pro 2020",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.mw.hd.mobile.mirror.pro",
+      "appId": "com.mw.hd.mobile.mirror.pro",
       "url": "https://play.google.com/store/apps/details?id=com.mw.hd.mobile.mirror.pro",
       "icon": "https://play-lh.googleusercontent.com/sINtNgUrNTrGVOqdY1agTTNCE8bHRCbsdZ45Zv-zsdTLf8U_da8JxHvfD0pvn91BLvN_",
       "developer": "H Dev Apps Studio",
@@ -353,7 +353,7 @@
     },
     {
       "title": "FOREO For You",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.foreo.foreoapp",
+      "appId": "com.foreo.foreoapp",
       "url": "https://play.google.com/store/apps/details?id=com.foreo.foreoapp",
       "icon": "https://play-lh.googleusercontent.com/_caJqGUhSu4h_vhNM9r8m3kFDCU5TXKEWp9cjYdaabltLFZmR1ZMmHJv1PWzPkK4Hw",
       "developer": "FOREO",
@@ -367,7 +367,7 @@
     },
     {
       "title": "Face Yoga - fitness app for youthful skin at home",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/yoga.face.fitness",
+      "appId": "yoga.face.fitness",
       "url": "https://play.google.com/store/apps/details?id=yoga.face.fitness",
       "icon": "https://play-lh.googleusercontent.com/IOGTZ2GJLzxpV3KBUX2E08ywueFSbW1_rEuyhMI1ehzGa9qhTwSfenwt1YIsoau9Vw",
       "developer": "Fashion and Moda",
@@ -381,7 +381,7 @@
     },
     {
       "title": "Crown Editor - Heart Filters for Pictures",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/heart.crown.camera.effect.snap.photoeditor.heartcrowncamera.stickers",
+      "appId": "heart.crown.camera.effect.snap.photoeditor.heartcrowncamera.stickers",
       "url": "https://play.google.com/store/apps/details?id=heart.crown.camera.effect.snap.photoeditor.heartcrowncamera.stickers",
       "icon": "https://play-lh.googleusercontent.com/Ofz31u_3LPAgXu7Ao68-J7jEMgSX9vd_wRhIp6DWO61wbPYnHcU0pZ6HoeqqVsBCanlR",
       "developer": "Rewind App & Heart Camera - Snap Photo Editor",
@@ -395,7 +395,7 @@
     },
     {
       "title": "A delicious Orange Pixel T",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/opt.tg6t.zrh2.q4e.hrz",
+      "appId": "opt.tg6t.zrh2.q4e.hrz",
       "url": "https://play.google.com/store/apps/details?id=opt.tg6t.zrh2.q4e.hrz",
       "icon": "https://play-lh.googleusercontent.com/yT9KTlD4tLHq4OTjTSdmKZPWIMdzBEk5Gj9kdyKcCkD9qc-ws4irrmBAh4onxmg7Dhw",
       "developer": "Jose Ingham",
@@ -409,7 +409,7 @@
     },
     {
       "title": "Hairstyle Try On - Hair Styles and Haircuts",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.zhanlang.changehaircut",
+      "appId": "com.zhanlang.changehaircut",
       "url": "https://play.google.com/store/apps/details?id=com.zhanlang.changehaircut",
       "icon": "https://play-lh.googleusercontent.com/WB1CcN2bnh1DyoufYIm1LiJ1TCbz59JMb3-26ysE2fu07CayuFT4WhE7MqEFKvRT3Rk",
       "developer": "SmallUniverse Apps",
@@ -423,7 +423,7 @@
     },
     {
       "title": "Hairstyle 💇🏼",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/best.photo.app.womanhairstyles2019",
+      "appId": "best.photo.app.womanhairstyles2019",
       "url": "https://play.google.com/store/apps/details?id=best.photo.app.womanhairstyles2019",
       "icon": "https://play-lh.googleusercontent.com/zFgSRqNmjK4lEitPqIWzG48EaDt7vI1xZCjKkGBwMzEgIjWP8ungzQ2wmjuAn9wpnQ",
       "developer": "Best Photo Apps",
@@ -437,7 +437,7 @@
     },
     {
       "title": "Sweet Snap Beauty Camera",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/live.face.beauty.sweet.snap_beauty.camera",
+      "appId": "live.face.beauty.sweet.snap_beauty.camera",
       "url": "https://play.google.com/store/apps/details?id=live.face.beauty.sweet.snap_beauty.camera",
       "icon": "https://play-lh.googleusercontent.com/toE40GPJBCObZq_mFOKBf4J2D3hPlru4FdJuzu-lGxbXWzmqKfHyk8oxbP9aCT2j08Rj",
       "developer": "Live Face Beauty",
@@ -451,7 +451,7 @@
     },
     {
       "title": "Fashion Nails 3D Girls Game",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.Fashion.Nails.Girls.Game",
+      "appId": "com.Fashion.Nails.Girls.Game",
       "url": "https://play.google.com/store/apps/details?id=com.Fashion.Nails.Girls.Game",
       "icon": "https://play-lh.googleusercontent.com/mjIA5UVOgJpPAx6DMWuYPiuyuqSOlw6cAV4kjEOlK9RZO2bbvjkHJ6mvFztNnhbBtHc",
       "developer": "Webelinx Love Story Games",
@@ -465,7 +465,7 @@
     },
     {
       "title": "Beauty Camera - Selfie Camera",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.northpark.beautycamera",
+      "appId": "com.northpark.beautycamera",
       "url": "https://play.google.com/store/apps/details?id=com.northpark.beautycamera",
       "icon": "https://play-lh.googleusercontent.com/V5e9ujJRA7aipKE2fOYz7K52usUvudextXMGs8_1lKrE2EKqLwIMsq8xk-OqbA79A9M",
       "developer": "InShot Inc.",
@@ -479,7 +479,7 @@
     },
     {
       "title": "Face Beauty Makeup Camera-Selfie Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.magicvfacemakeup.beauty.makeup.camera.selfie.photoeditor.dailyaims",
+      "appId": "com.magicvfacemakeup.beauty.makeup.camera.selfie.photoeditor.dailyaims",
       "url": "https://play.google.com/store/apps/details?id=com.magicvfacemakeup.beauty.makeup.camera.selfie.photoeditor.dailyaims",
       "icon": "https://play-lh.googleusercontent.com/wGdD157aJJ0xvOUQKlM7JMyl4m107JTTjhl9AC2x7EZZfC6Th81E29TeF-_uU7O6Zcs",
       "developer": "Daily Aims",
@@ -493,7 +493,7 @@
     },
     {
       "title": "Coupons for Bath & Body Works",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/bath.coupons.forbodyworks",
+      "appId": "bath.coupons.forbodyworks",
       "url": "https://play.google.com/store/apps/details?id=bath.coupons.forbodyworks",
       "icon": "https://play-lh.googleusercontent.com/3S56dO1BoqiQij3QMBXeVuqyE5iBVWWfZA8t-oYbO77rccNDSfDTVX5U-AJjbJnHAQ",
       "developer": "Digital Coupons Store Apps",
@@ -507,7 +507,7 @@
     },
     {
       "title": "Birchbox",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.birchbox.birchbox",
+      "appId": "com.birchbox.birchbox",
       "url": "https://play.google.com/store/apps/details?id=com.birchbox.birchbox",
       "icon": "https://play-lh.googleusercontent.com/2uTlPPzFwTDtnqZcF8DLGvG3pMFbbjAGSlmVbb-VOuB8dNZj6J2o3_DMnGS5TfsyZDo",
       "developer": "Birchbox Inc.",
@@ -521,7 +521,7 @@
     },
     {
       "title": "CosmoProf: Licensed to Create",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.beautysystemsgroup.stylist",
+      "appId": "com.beautysystemsgroup.stylist",
       "url": "https://play.google.com/store/apps/details?id=com.beautysystemsgroup.stylist",
       "icon": "https://play-lh.googleusercontent.com/KnpS_x-G1uuoDCw_2EPPDIuet64OtDxtff7CO_fQqzveBX1V4qMtCOAc5PFxRD7_4LIh",
       "developer": "Beauty Systems Group LLC",
@@ -535,7 +535,7 @@
     },
     {
       "title": "Hairstyles Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.photoeditor.and.games.hairstyle",
+      "appId": "com.photoeditor.and.games.hairstyle",
       "url": "https://play.google.com/store/apps/details?id=com.photoeditor.and.games.hairstyle",
       "icon": "https://play-lh.googleusercontent.com/dmwC2ly0YzfQ9WOL1beNR5t3xFhtbVaiMDiD3BZKh7sudYGZiriR592VlTi14WmUk30",
       "developer": "Photo Editors & Games",
@@ -549,7 +549,7 @@
     },
     {
       "title": "زخرفة الكتابة بكل انواع الخطوط العربية و على الصور",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.chamsDohaLtd.Tools.Zakhrafa",
+      "appId": "com.chamsDohaLtd.Tools.Zakhrafa",
       "url": "https://play.google.com/store/apps/details?id=com.chamsDohaLtd.Tools.Zakhrafa",
       "icon": "https://play-lh.googleusercontent.com/Zvz77YzBJCMp_muzn4FcFnBVp6aYFfxPIHKbTjKwbWaiKtLK2x9Ee622vTX1Zm3PRw",
       "developer": "Chama innovation S.A.R.L",
@@ -563,7 +563,7 @@
     },
     {
       "title": "Hair Try On",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/luxury.art.hair.tryon",
+      "appId": "luxury.art.hair.tryon",
       "url": "https://play.google.com/store/apps/details?id=luxury.art.hair.tryon",
       "icon": "https://play-lh.googleusercontent.com/wLRzIG0xcTeiSor2op55fFpvZ1dCxxo_Q5fRcNFGLNjxzReWsh5ZmYl0llsapFvatN0",
       "developer": "Luxury Art",
@@ -577,7 +577,7 @@
     },
     {
       "title": "Outfits Ideas 2021",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.Outfits.Ideas.Trends",
+      "appId": "com.Outfits.Ideas.Trends",
       "url": "https://play.google.com/store/apps/details?id=com.Outfits.Ideas.Trends",
       "icon": "https://play-lh.googleusercontent.com/JBsBIbKTdoRmUn7osyw0-kFdjnTyldRn6Pxwmifmp34bCr4GmOzygSpCChi7MRFxFfE",
       "developer": "NewChik",
@@ -591,7 +591,7 @@
     },
     {
       "title": "Artistry Virtual Beauty",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.perfectcorp.amb",
+      "appId": "com.perfectcorp.amb",
       "url": "https://play.google.com/store/apps/details?id=com.perfectcorp.amb",
       "icon": "https://play-lh.googleusercontent.com/TXrwNsEmqZAuu2mTaaDL2rVIf1b5xyjywXYBXnUjmzdWH3EwF3Vgt5AhqyIYVm_xOiXF",
       "developer": "Perfect Corp.",
@@ -605,7 +605,7 @@
     },
     {
       "title": "Makeup Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/best.photo.apps.makeup",
+      "appId": "best.photo.apps.makeup",
       "url": "https://play.google.com/store/apps/details?id=best.photo.apps.makeup",
       "icon": "https://play-lh.googleusercontent.com/RbU1K5z27hrp3qjMLe8e-y43MduMZH16SX5Q03Clv4qBZ1DVbE1bjrUcAgzYQppmLRY",
       "developer": "Best Photo Apps",
@@ -619,7 +619,7 @@
     },
     {
       "title": "luvmehair",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.htwig.luvmehair",
+      "appId": "com.htwig.luvmehair",
       "url": "https://play.google.com/store/apps/details?id=com.htwig.luvmehair",
       "icon": "https://play-lh.googleusercontent.com/p24tzrkeebwSa3hMAuxzDoUw_mQyP-QxujL-SR9arCByI6xUwamxQ8cVwZOuvzKtPg",
       "developer": "Luvme Hair",
@@ -633,7 +633,7 @@
     },
     {
       "title": "Beauty Makeup Camera - Selfie Beauty Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.pixelsdev.beautymakeupcamera",
+      "appId": "com.pixelsdev.beautymakeupcamera",
       "url": "https://play.google.com/store/apps/details?id=com.pixelsdev.beautymakeupcamera",
       "icon": "https://play-lh.googleusercontent.com/VbOkP-GKUG7jQRslaoGl33prtXMqlDJ9VcP3CDSZUsNVOC_nvgO9DRoow_5sOxYRR2g",
       "developer": "Pixels Dev Studio",
@@ -647,7 +647,7 @@
     },
     {
       "title": "Mirror",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.studio360apps.mirror",
+      "appId": "com.studio360apps.mirror",
       "url": "https://play.google.com/store/apps/details?id=com.studio360apps.mirror",
       "icon": "https://play-lh.googleusercontent.com/lFpEvp1efcv6CfN2L6H18iX_E82fNc35WLCc9Om8z0j17z0pFeEyf4_etN0iH-K-8Asy",
       "developer": "Studio 360 Apps",
@@ -661,7 +661,7 @@
     },
     {
       "title": "Hairstyle app: Hairstyles step by step for girls",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/hairstyles.hairstylesstepbystep.schoolhairstyles.hairstyle2.hairstylesgirls.hairstylestepbystep.hairstyle",
+      "appId": "hairstyles.hairstylesstepbystep.schoolhairstyles.hairstyle2.hairstylesgirls.hairstylestepbystep.hairstyle",
       "url": "https://play.google.com/store/apps/details?id=hairstyles.hairstylesstepbystep.schoolhairstyles.hairstyle2.hairstylesgirls.hairstylestepbystep.hairstyle",
       "icon": "https://play-lh.googleusercontent.com/dX2DD4Us17ioMAhjW0gssrppOaf_tZaL7wu6huy4WhkEVBAJFR8Me6ouhHquG7TkarY",
       "developer": "Rewind App & Heart Camera - Snap Photo Editor",
@@ -675,7 +675,7 @@
     },
     {
       "title": "Girls Hairstyles Step By Step 2021",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.girlshairstyle.girlshairstylesoffline",
+      "appId": "com.girlshairstyle.girlshairstylesoffline",
       "url": "https://play.google.com/store/apps/details?id=com.girlshairstyle.girlshairstylesoffline",
       "icon": "https://play-lh.googleusercontent.com/egwUIcxoEUPi1nJhdfoVFbDInP3RCoylihy-OwT8Xxt3PepRPJgAeLtQneRBEQqUDCI",
       "developer": "ESCAPE APPS",
@@ -689,7 +689,7 @@
     },
     {
       "title": "Model Fashion Red Carpet: Dress Up Game For Girls",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.hmg.redcarpet.modeldressup.fashiongames",
+      "appId": "com.hmg.redcarpet.modeldressup.fashiongames",
       "url": "https://play.google.com/store/apps/details?id=com.hmg.redcarpet.modeldressup.fashiongames",
       "icon": "https://play-lh.googleusercontent.com/AKlf1_wyZOpCTee1lLvnUnW1vkGd-i81zRrFaTHH72W1yVkvlWVFehJtK5t-N2FmYeQ",
       "developer": "Happy Melon Games",
@@ -703,7 +703,7 @@
     },
     {
       "title": "FoxEyes - Change Eye Color by Real Anime Style",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/photo.smile.red.eyes.changer.color",
+      "appId": "photo.smile.red.eyes.changer.color",
       "url": "https://play.google.com/store/apps/details?id=photo.smile.red.eyes.changer.color",
       "icon": "https://play-lh.googleusercontent.com/fQP6xgoKq_CcSzy7st3uYHR-Dv0sKm6E-g4mBWvI5SN4jiig2D4rvobR58-9NjSjsw",
       "developer": "GameSmileStudio",
@@ -717,7 +717,7 @@
     },
     {
       "title": "Mermaid Photo 🧜🏻‍♀️",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/best.photo.app.mermaid",
+      "appId": "best.photo.app.mermaid",
       "url": "https://play.google.com/store/apps/details?id=best.photo.app.mermaid",
       "icon": "https://play-lh.googleusercontent.com/RW3PAggOcaCltbvLpXH_Di3C9JKtWEvFlvck45vvBBQ0aXbQKI-pJ8Jv3SV-54yEUUY",
       "developer": "Best Photo Apps",
@@ -731,7 +731,7 @@
     },
     {
       "title": "Mirror - Zoom & Exposure -",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.barilab.handmirror.googlemarket",
+      "appId": "com.barilab.handmirror.googlemarket",
       "url": "https://play.google.com/store/apps/details?id=com.barilab.handmirror.googlemarket",
       "icon": "https://play-lh.googleusercontent.com/MWxwnOkkCGh15haOLtlfCWPiBoOMcIjt4kHabdZwI23QdQW8dqFvi27FrK-dDXgmXA",
       "developer": "BariLab",
@@ -745,7 +745,7 @@
     },
     {
       "title": "Face Beauty Camera - Easy Photo Editor & Makeup",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.makeup.beauty.face.facebeauty.camera",
+      "appId": "com.makeup.beauty.face.facebeauty.camera",
       "url": "https://play.google.com/store/apps/details?id=com.makeup.beauty.face.facebeauty.camera",
       "icon": "https://play-lh.googleusercontent.com/fo4ebNWvkgfRIbTUJf2BHKuq3Ba2NvmuAkE_qzoAnbYflzPGQOnKeQsTnxi_koyIOA",
       "developer": "stylish app world",
@@ -759,7 +759,7 @@
     },
     {
       "title": "Rhinoplasty",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/selfie.photo.apps.rhinoplasty",
+      "appId": "selfie.photo.apps.rhinoplasty",
       "url": "https://play.google.com/store/apps/details?id=selfie.photo.apps.rhinoplasty",
       "icon": "https://play-lh.googleusercontent.com/dPcz8hmPLzFcEziNsy-qdRG9SN2rVfZby-0vrewCxXE3qku_XWyAlUI0CZeaFoqEU_dV",
       "developer": "Selfie Photo Apps",
@@ -773,7 +773,7 @@
     },
     {
       "title": "PERFUMIST Perfumes Advisor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.smartsoftasia.perfume",
+      "appId": "com.smartsoftasia.perfume",
       "url": "https://play.google.com/store/apps/details?id=com.smartsoftasia.perfume",
       "icon": "https://play-lh.googleusercontent.com/vlo51V1gE6wCoi_KMzewf7CDqACj2TFebz-axYfgeJ5jNevIv1d8c2Xzq02sPxu3mW4v",
       "developer": "Frederick Besson",
@@ -787,7 +787,7 @@
     },
     {
       "title": "Sharingan - Eyes And Hair Color Changer",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/photo.smile.hair.eyes",
+      "appId": "photo.smile.hair.eyes",
       "url": "https://play.google.com/store/apps/details?id=photo.smile.hair.eyes",
       "icon": "https://play-lh.googleusercontent.com/NeorxMre1_t1Bcb2reRj4RhDjjvmpSvvbrs7JkYNNvSaFKBZp_-bAUCEKmc0MvqPTEQ",
       "developer": "GameSmileStudio",
@@ -801,7 +801,7 @@
     },
     {
       "title": "Beauty Photo Editor,Pretty Makeup & Selfie Camera",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.astralwire.photo.editor.makeup.camera",
+      "appId": "com.astralwire.photo.editor.makeup.camera",
       "url": "https://play.google.com/store/apps/details?id=com.astralwire.photo.editor.makeup.camera",
       "icon": "https://play-lh.googleusercontent.com/Vb6O6TXwbjC-A69kylYboXC-LIBXtygBZXC2g43UMqS-WE-YO1oSVzua_qJGbW3inHyB",
       "developer": "Astralwire Studio",
@@ -815,7 +815,7 @@
     },
     {
       "title": "3D Emoji Face Camera - Filter For Tik Tok Emoji",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.studiokevin.emojicamera.sweetemoji3d",
+      "appId": "com.studiokevin.emojicamera.sweetemoji3d",
       "url": "https://play.google.com/store/apps/details?id=com.studiokevin.emojicamera.sweetemoji3d",
       "icon": "https://play-lh.googleusercontent.com/pA_iwxUqv_I7-4bMNKaMw6DVSAmH3jJKKLG9o-_ctF7onBJnQx6LF6ICPc96WP-2AP0J",
       "developer": "KEVIN STUDIO",
@@ -829,7 +829,7 @@
     },
     {
       "title": "Mary Kay® MirrorMe™",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.marykay.beauty",
+      "appId": "com.marykay.beauty",
       "url": "https://play.google.com/store/apps/details?id=com.marykay.beauty",
       "icon": "https://play-lh.googleusercontent.com/aezBE_ZjCJCmAp3mzL17gBG7bEDpXi0MFBYdZkYVnkXN1gkQ4s595h_SjQey7MiGjA",
       "developer": "Mary Kay, Inc.",
@@ -843,7 +843,7 @@
     },
     {
       "title": "Barber Chop",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.lajeuneandassociatesllc.barberchopdev",
+      "appId": "com.lajeuneandassociatesllc.barberchopdev",
       "url": "https://play.google.com/store/apps/details?id=com.lajeuneandassociatesllc.barberchopdev",
       "icon": "https://play-lh.googleusercontent.com/5GZ2_hNieO-bIu4OclsKO6TneFCXKmD15F6iIHllWLMtnsuTKIPg9EQgGm9FDZQUADw",
       "developer": "Lajeune & Associates, LLC",
@@ -857,7 +857,7 @@
     },
     {
       "title": "Heart Camera",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/pcm.art.heart.camera",
+      "appId": "pcm.art.heart.camera",
       "url": "https://play.google.com/store/apps/details?id=pcm.art.heart.camera",
       "icon": "https://play-lh.googleusercontent.com/VFgx0QAazPoGQh4aY91QVh9oowx9OyaNsIeVUvMTMxVF6tjXrSwtUJo3u3eAqWtWIw",
       "developer": "Photo Collage Master",
@@ -871,7 +871,7 @@
     },
     {
       "title": "Hair color changer - Try different hair colors",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/beauty.shop.hair.color.changer.different.hair.colors",
+      "appId": "beauty.shop.hair.color.changer.different.hair.colors",
       "url": "https://play.google.com/store/apps/details?id=beauty.shop.hair.color.changer.different.hair.colors",
       "icon": "https://play-lh.googleusercontent.com/CfhNIbU8X3Zy7W-IS2V50CFRAbvgHLQBhHC2AB065zbwxyTL4jOIfDLOFm_1SXOAXdhy",
       "developer": "Beautyshop",
@@ -885,7 +885,7 @@
     },
     {
       "title": "Hairstyles step by step",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.piupiuapps.hairstyles",
+      "appId": "com.piupiuapps.hairstyles",
       "url": "https://play.google.com/store/apps/details?id=com.piupiuapps.hairstyles",
       "icon": "https://play-lh.googleusercontent.com/3_FikmKp-M8A_e6Prvq0M-006yYqJ71h2HatOhT0TYxRuAz5_2Jgy9NYDv_9S83tSyE",
       "developer": "Piu Piu Apps",
@@ -899,7 +899,7 @@
     },
     {
       "title": "Face Camera Live Filter Selfie Photo",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/so.camera.live.face.filter",
+      "appId": "so.camera.live.face.filter",
       "url": "https://play.google.com/store/apps/details?id=so.camera.live.face.filter",
       "icon": "https://play-lh.googleusercontent.com/Z3hTUMMCpL9RZDQyBwvwZ1tg6t-9aqkgzOXdN5OsiCRpdayFby6_HM_t_WpTNkuYT80",
       "developer": "Diamond Square Art",
@@ -913,7 +913,7 @@
     },
     {
       "title": "Wedding Hairstyles 2020",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/best.photo.app.weddinghairstyles2018",
+      "appId": "best.photo.app.weddinghairstyles2018",
       "url": "https://play.google.com/store/apps/details?id=best.photo.app.weddinghairstyles2018",
       "icon": "https://play-lh.googleusercontent.com/auS52Bol_m_P-9RDpMq8EWDcGwc7_Tngn0Ezk1UA__-DppnFJKLDuVzEbWEaiVQ6jCqS",
       "developer": "Best Photo Apps",
@@ -927,7 +927,7 @@
     },
     {
       "title": "Ink Tattoo Master- Tattoo Drawing & Tattoo Maker",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.gast.tattoo.drawing.ink.inc.tattoo.maker.game",
+      "appId": "com.gast.tattoo.drawing.ink.inc.tattoo.maker.game",
       "url": "https://play.google.com/store/apps/details?id=com.gast.tattoo.drawing.ink.inc.tattoo.maker.game",
       "icon": "https://play-lh.googleusercontent.com/9sqXJW__KGkGcjbe6Q7s8kgWhRwgTwutIDisqo_7RzCYAYTLo1c4l6tld9T1ysNXKME",
       "developer": "Games Astra",
@@ -941,7 +941,7 @@
     },
     {
       "title": "Emoji 💚 Backgrounds Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/maa.emoji_background_photo_editor",
+      "appId": "maa.emoji_background_photo_editor",
       "url": "https://play.google.com/store/apps/details?id=maa.emoji_background_photo_editor",
       "icon": "https://play-lh.googleusercontent.com/ESsZ5wexoTJHALAYiQhMilBfIWqrPKB1eTvaC6jQElix3U3tYubFUYyyxmRrlYO-mck",
       "developer": "Ｍ.Ａ.Ａ Ｆｏｒ Ａｐｐｓ 🌊",
@@ -955,7 +955,7 @@
     },
     {
       "title": "Face Enhancer - Photo Face Blemishes Remover",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.ophotovideoapps.facenhancer",
+      "appId": "com.ophotovideoapps.facenhancer",
       "url": "https://play.google.com/store/apps/details?id=com.ophotovideoapps.facenhancer",
       "icon": "https://play-lh.googleusercontent.com/7Yb6yBSiHdpcUj8dCZrFSW--TX9c26_eyX9vcbFKZePSmPxx81hf-IepdL-iaHqIk81k",
       "developer": "Pixels Dev Studio",
@@ -969,7 +969,7 @@
     },
     {
       "title": "Teens Outfits Ideas 2021",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.Outfits.Teens.Ideas",
+      "appId": "com.Outfits.Teens.Ideas",
       "url": "https://play.google.com/store/apps/details?id=com.Outfits.Teens.Ideas",
       "icon": "https://play-lh.googleusercontent.com/ndmprlrYqeToX6RJj0oEJs7vAogPdOB6tt9HTEbDNETr9GplUML4vkVLMrYewbmqOlIq",
       "developer": "NewChik",
@@ -983,7 +983,7 @@
     },
     {
       "title": "Mirror Camera (Mirror + Selfie Camera)",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.jkfantasy.camera.jkpmirrorcamera",
+      "appId": "com.jkfantasy.camera.jkpmirrorcamera",
       "url": "https://play.google.com/store/apps/details?id=com.jkfantasy.camera.jkpmirrorcamera",
       "icon": "https://play-lh.googleusercontent.com/oXbP0yxvHxAIu8aELoQkSRHpfX2jPqUsrchLAOHIP4uNczNZKqIcJLvi8Aaos1HYTNbU",
       "developer": "JK.Fantasy",
@@ -997,7 +997,7 @@
     },
     {
       "title": "Sweet Snap Face Camera - Live Filter Selfie Edit",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.sweet.snap.facecamera.livefilter.selfieedit",
+      "appId": "com.sweet.snap.facecamera.livefilter.selfieedit",
       "url": "https://play.google.com/store/apps/details?id=com.sweet.snap.facecamera.livefilter.selfieedit",
       "icon": "https://play-lh.googleusercontent.com/dbfL6KIEhFWeTs_fxB3itmnLTi1RXvPMvsc7hgc24cnjPqRzER1TVCyq--UtmURbQa4",
       "developer": "YOLY Studio",
@@ -1011,7 +1011,7 @@
     },
     {
       "title": "Live Face Filters",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/live.face.fliters",
+      "appId": "live.face.fliters",
       "url": "https://play.google.com/store/apps/details?id=live.face.fliters",
       "icon": "https://play-lh.googleusercontent.com/TqWWamLTHDDjVBMXY22148qangX1dXaK33QVhM7-VjOgJpd8G6WKCyN4rdK_1YT5RKvv",
       "developer": "Diamond Square Art",
@@ -1025,7 +1025,7 @@
     },
     {
       "title": "Filter for snapchat - Snap Cat Face Camera",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.filter.photoeditor.stickers.snapfilter.snapchat",
+      "appId": "com.filter.photoeditor.stickers.snapfilter.snapchat",
       "url": "https://play.google.com/store/apps/details?id=com.filter.photoeditor.stickers.snapfilter.snapchat",
       "icon": "https://play-lh.googleusercontent.com/p_wokkyUA6f_DB67XLAlRFrHOQuBavyWLCVrzdcuKHIT0M2YqC6hdHQMiPQ0w8HmNg",
       "developer": "Best Magical Art Dev",
@@ -1039,7 +1039,7 @@
     },
     {
       "title": "* New * Floyd's 99 Barbershop",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.floyds.guestapp",
+      "appId": "com.floyds.guestapp",
       "url": "https://play.google.com/store/apps/details?id=com.floyds.guestapp",
       "icon": "https://play-lh.googleusercontent.com/quKaNE0Giyut5dcONaNkBpa1kWpdY5VGZjm8X6wuIMq2ImU9g0wDK1JSYArv-RR_JA0",
       "developer": "My Time- Floyd's 99 Barbershop",
@@ -1053,7 +1053,7 @@
     },
     {
       "title": "Makeup Tips 2020",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.livql.newmakeupdesigns",
+      "appId": "com.livql.newmakeupdesigns",
       "url": "https://play.google.com/store/apps/details?id=com.livql.newmakeupdesigns",
       "icon": "https://play-lh.googleusercontent.com/SaRn0C2aH7zD-mfil08UNJcbK020nXdrGyPUONHqb7B1H_dwTVJkAq0LDOnwPgI3D-I",
       "developer": "vertido.io",
@@ -1067,7 +1067,7 @@
     },
     {
       "title": "Movie Star Salon",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/google.free.moviestar.peachygamesllc",
+      "appId": "google.free.moviestar.peachygamesllc",
       "url": "https://play.google.com/store/apps/details?id=google.free.moviestar.peachygamesllc",
       "icon": "https://play-lh.googleusercontent.com/g4Knlq_C4XaN_NvgaUhehgK5nUB-INk-JdhsOM0TB8njuF29xpvoaBEQk9u26I84Phth",
       "developer": "Peachy Games",
@@ -1081,7 +1081,7 @@
     },
     {
       "title": "Filters for Selfies",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/beauty.picshop.filters.selfie",
+      "appId": "beauty.picshop.filters.selfie",
       "url": "https://play.google.com/store/apps/details?id=beauty.picshop.filters.selfie",
       "icon": "https://play-lh.googleusercontent.com/1EAid2PNZ3akOgVykn_jE0SVPq-9BJm5fXqbOvw4ORpo7sK3kIzpEiP5e9PVgnmDEKSl",
       "developer": "Beauty Sweet Picshop",
@@ -1095,7 +1095,7 @@
     },
     {
       "title": "Best Hairstyle Haircolor for your Facetype",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.besthairstyle.facetype",
+      "appId": "com.besthairstyle.facetype",
       "url": "https://play.google.com/store/apps/details?id=com.besthairstyle.facetype",
       "icon": "https://play-lh.googleusercontent.com/zVgHnvNJN_eCjlg9SyBZYZo7xkWbKbERvfRxhjsqIhtGBgdCAMAZ3huOz14hTQ_-Q4E",
       "developer": "Ruben Cabrera Salgado",
@@ -1109,7 +1109,7 @@
     },
     {
       "title": "Dress Up Royal Princess Doll",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/air.com.winkypinky.dressuproyalprincessdoll",
+      "appId": "air.com.winkypinky.dressuproyalprincessdoll",
       "url": "https://play.google.com/store/apps/details?id=air.com.winkypinky.dressuproyalprincessdoll",
       "icon": "https://play-lh.googleusercontent.com/3e37fFf05z850swv9IVPRcsjIS25JPML54U6E6rnx2pNonIAWHWv5eKytTGj1rb-BxA",
       "developer": "winkypinky",
@@ -1123,7 +1123,7 @@
     },
     {
       "title": "Beauty Camera - Selfie & You Makeup Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/beautycamera.sweet.youbeautymakeup.facebeauty",
+      "appId": "beautycamera.sweet.youbeautymakeup.facebeauty",
       "url": "https://play.google.com/store/apps/details?id=beautycamera.sweet.youbeautymakeup.facebeauty",
       "icon": "https://play-lh.googleusercontent.com/FXQiEui6zECvTn0uwa2sKDDp6aHiToPMy1PdqiAVUsq5lGXc69aFquLpjJ8W8tUBX4g",
       "developer": "Story Saver Studio",
@@ -1137,7 +1137,7 @@
     },
     {
       "title": "صور بنات جيرلي كيوت",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.dirar.hikamanglaiskhalfiyatgirlymjamillasowarbanat",
+      "appId": "com.dirar.hikamanglaiskhalfiyatgirlymjamillasowarbanat",
       "url": "https://play.google.com/store/apps/details?id=com.dirar.hikamanglaiskhalfiyatgirlymjamillasowarbanat",
       "icon": "https://play-lh.googleusercontent.com/WLlDwNtu13X2HHjbejDyigSJCvvb4S5oltgoFmiA9QqSOU-Vze63Gv1ZE8ePhkGg8Kk",
       "developer": "DEVDIRAR",
@@ -1151,7 +1151,7 @@
     },
     {
       "title": "Photo Editor- face effects & Picture frames",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.photoeditor.filtersforpictures.frames.android",
+      "appId": "com.photoeditor.filtersforpictures.frames.android",
       "url": "https://play.google.com/store/apps/details?id=com.photoeditor.filtersforpictures.frames.android",
       "icon": "https://play-lh.googleusercontent.com/vS7RJQ--6LGRhzF9_FXVn5A956y-KNF7aDf8p5i-eXRsNaSc1PAIlTpOq42KwAocD9Q",
       "developer": "Advance Appsol Techonologies",
@@ -1165,7 +1165,7 @@
     },
     {
       "title": "GlossGenius",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.glossgenius.GlossGeniusSaaS",
+      "appId": "com.glossgenius.GlossGeniusSaaS",
       "url": "https://play.google.com/store/apps/details?id=com.glossgenius.GlossGeniusSaaS",
       "icon": "https://play-lh.googleusercontent.com/Oa97yBB33uyLcfqYLn7lTOojfjRU54Aim1pXaku7AfBsRg54VeKXpj7AUomlIA3cIGjx",
       "developer": "GlossGenius",
@@ -1179,7 +1179,7 @@
     },
     {
       "title": "Emoji Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/emoji.photo.editor",
+      "appId": "emoji.photo.editor",
       "url": "https://play.google.com/store/apps/details?id=emoji.photo.editor",
       "icon": "https://play-lh.googleusercontent.com/nUCrt83fvjqkOU_TmFKWnnTj3IOgIQ1-PAbG3r45-ig3i-lGM9WbLxRA6olFOFXW2II",
       "developer": "FRM ART",
@@ -1193,7 +1193,7 @@
     },
     {
       "title": "i learn to make up (face, eye, lip)",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.sweetandbeautyhdcameras.makeup",
+      "appId": "com.sweetandbeautyhdcameras.makeup",
       "url": "https://play.google.com/store/apps/details?id=com.sweetandbeautyhdcameras.makeup",
       "icon": "https://play-lh.googleusercontent.com/njK3H-VE_gAgTBlZaBfMEhKzoiwB7r6jVcVu6BEud2HiuNUrtXVsB8IFBsZDNEzlX9c",
       "developer": "Sweet and Beauty HD Cameras",
@@ -1207,7 +1207,7 @@
     },
     {
       "title": "تعال نرتبط دردشة بنات حلوات",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.w_10192061",
+      "appId": "com.w_10192061",
       "url": "https://play.google.com/store/apps/details?id=com.w_10192061",
       "icon": "https://play-lh.googleusercontent.com/0rNxKXl1H4VvddQ2cxlFY_QlGw30MfTt3xtg1JPvTmS5OjyERMqkOXoALC9FVunVtwc",
       "developer": "فرولة و ككو",
@@ -1221,7 +1221,7 @@
     },
     {
       "title": "Heaven Photo Frame",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/cofs.haeven.photo.frame",
+      "appId": "cofs.haeven.photo.frame",
       "url": "https://play.google.com/store/apps/details?id=cofs.haeven.photo.frame",
       "icon": "https://play-lh.googleusercontent.com/NQJpjJ7-UBh8-pHzeW9vZmUY2__W5xBbmO0rLuZZJ0kaxStJkbdN-OY3UnKkqWwzQw",
       "developer": "Colorful Filter Studio",
@@ -1235,7 +1235,7 @@
     },
     {
       "title": "تغيير الصوت في المكالمة بسهولة 2019",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.botkhmir.change.voic22",
+      "appId": "com.botkhmir.change.voic22",
       "url": "https://play.google.com/store/apps/details?id=com.botkhmir.change.voic22",
       "icon": "https://play-lh.googleusercontent.com/YsEifwJcPhOYN2CgoNdNFMA7EmFeiJDOpe205cX1ka8v18xMqKRa3llP1ObaslsUSpqU",
       "developer": "botkhmir",
@@ -1249,7 +1249,7 @@
     },
     {
       "title": "TroveSkin: Your Skincare Coach",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.trove",
+      "appId": "com.trove",
       "url": "https://play.google.com/store/apps/details?id=com.trove",
       "icon": "https://play-lh.googleusercontent.com/MB-pSy33ZDFQG4FHCwUK-U7dnVoHrDFcAggbWR8moRmigpbdk5Fg2jAo6QcIWBZ6l9c",
       "developer": "Trove Technologies",
@@ -1263,7 +1263,7 @@
     },
     {
       "title": "Acrylic Nails Step by step",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/littleappas.acrylicnaildesigns",
+      "appId": "littleappas.acrylicnaildesigns",
       "url": "https://play.google.com/store/apps/details?id=littleappas.acrylicnaildesigns",
       "icon": "https://play-lh.googleusercontent.com/2FSCsPgDc2KZzvTl7T8p4skqvFvQx-NBAJ-1Ao9AMKFEuZuN-q5QMYkRdaCCp7Ur9CA",
       "developer": "dailylittle",
@@ -1277,7 +1277,7 @@
     },
     {
       "title": "Makeup Tutorial step by step",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.piupiuapps.makeup",
+      "appId": "com.piupiuapps.makeup",
       "url": "https://play.google.com/store/apps/details?id=com.piupiuapps.makeup",
       "icon": "https://play-lh.googleusercontent.com/6O1G0SbqgQEp40o4cpX1DQhD8WSVQWk2ih7qe-7NnrnzSGuE_hUMGVDq_sQLIrmkJZs",
       "developer": "Piu Piu Apps",
@@ -1291,7 +1291,7 @@
     },
     {
       "title": "SeneLook",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.senegence.android.senelooks",
+      "appId": "com.senegence.android.senelooks",
       "url": "https://play.google.com/store/apps/details?id=com.senegence.android.senelooks",
       "icon": "https://play-lh.googleusercontent.com/EqU8EPjpC3m4NU0ielxqdEEGG8sIRkcpRx4lu48IHxUUnl2j_PJqrkXCwpoyWmIn7cU",
       "developer": "SeneGence International, Inc.",
@@ -1305,7 +1305,7 @@
     },
     {
       "title": "Show My Colors - Seasonal Color Palettes",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.bs.brilliantseasons2",
+      "appId": "com.bs.brilliantseasons2",
       "url": "https://play.google.com/store/apps/details?id=com.bs.brilliantseasons2",
       "icon": "https://play-lh.googleusercontent.com/FN-QXSPDy83z7QbuOVXCsMfKDgOVN-9BH-xuq3exzRPMkuRFZqSLnXuzKcUa1f1w8Q",
       "developer": "BrilliantSeasons",
@@ -1319,7 +1319,7 @@
     },
     {
       "title": "Hairstyles step by step for girls",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.luckystars.hairstylesstepbystep",
+      "appId": "com.luckystars.hairstylesstepbystep",
       "url": "https://play.google.com/store/apps/details?id=com.luckystars.hairstylesstepbystep",
       "icon": "https://play-lh.googleusercontent.com/TioTtsqVnvcwG57VTF_yQt_OsBVBX2a-S_pVU8BqYx8d9nuy2E4ik9eUJVwAT6d-9Q",
       "developer": "Luckystars Studio",
@@ -1333,7 +1333,7 @@
     },
     {
       "title": "أحلى بنات: صور و خلفيات",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.ahlabanat.khalfiat",
+      "appId": "com.ahlabanat.khalfiat",
       "url": "https://play.google.com/store/apps/details?id=com.ahlabanat.khalfiat",
       "icon": "https://play-lh.googleusercontent.com/F72aOQNPjCppMqsAAXrpIYAalS70WL7mNtjp9QeFwCwu2w--_cdF5f4wCO-SJY3hyw",
       "developer": "hosnidev",
@@ -1347,7 +1347,7 @@
     },
     {
       "title": "All Women Hairstyles",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.hairstyle.hairstyleapp",
+      "appId": "com.hairstyle.hairstyleapp",
       "url": "https://play.google.com/store/apps/details?id=com.hairstyle.hairstyleapp",
       "icon": "https://play-lh.googleusercontent.com/nohbJZqKzeDotFN4g7fp8BwcYSEC00GLC53Iei7qHCkKWhHaAcFz5J3utj-194n0Ywsx",
       "developer": "Hairminion",
@@ -1361,7 +1361,7 @@
     },
     {
       "title": "Filters for Snapchat",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/sweet.candy.selfie.filters.snapchat",
+      "appId": "sweet.candy.selfie.filters.snapchat",
       "url": "https://play.google.com/store/apps/details?id=sweet.candy.selfie.filters.snapchat",
       "icon": "https://play-lh.googleusercontent.com/TKUjbJGLaE7ZGbudCVKjYjM2ql10sQdWb5haxgeTM0vadMUHUqD948ENN4Du5J2MDxw",
       "developer": "Sweet Candy Selfie",
@@ -1375,7 +1375,7 @@
     },
     {
       "title": "Step by step makeup (lip, eye, face) 💎",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.sweetandbeautyhdcameras.stepstepmakeup",
+      "appId": "com.sweetandbeautyhdcameras.stepstepmakeup",
       "url": "https://play.google.com/store/apps/details?id=com.sweetandbeautyhdcameras.stepstepmakeup",
       "icon": "https://play-lh.googleusercontent.com/j6H9Md8dXiTQgzo3PaiE06bGiC0ov2hiAqQ38m89-yH9sSWLY9Ob94YJY1pLyBPbOg",
       "developer": "Sweet and Beauty HD Cameras",
@@ -1389,7 +1389,7 @@
     },
     {
       "title": "Hair color editor - Different hair colors changer",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/sweet.snap.art.hair.color.editor.different.hair.colors.changer",
+      "appId": "sweet.snap.art.hair.color.editor.different.hair.colors.changer",
       "url": "https://play.google.com/store/apps/details?id=sweet.snap.art.hair.color.editor.different.hair.colors.changer",
       "icon": "https://play-lh.googleusercontent.com/VJNXHDGVAFxRwM9_vpD5Qc3XRNhRm3uT9EedsMy6qoVWybqeA7G8ScC-L5HlgV7MUfus",
       "developer": "Sweet Snap Art",
@@ -1403,7 +1403,7 @@
     },
     {
       "title": "Beautistics: makeup bag, beauty organizer, budget",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.maxsol.beautistics",
+      "appId": "com.maxsol.beautistics",
       "url": "https://play.google.com/store/apps/details?id=com.maxsol.beautistics",
       "icon": "https://play-lh.googleusercontent.com/DuMMSsqcHYnXpucwB9j7kj_lwVwvkrXc10MZ8ijDwDpLE-I47f7VlGZfa8bJOrE15Oj5",
       "developer": "Makeup & Project Pan",
@@ -1417,7 +1417,7 @@
     },
     {
       "title": "Cookie Cutters",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.shortcutssoftware.mysalon.cookiecutters",
+      "appId": "com.shortcutssoftware.mysalon.cookiecutters",
       "url": "https://play.google.com/store/apps/details?id=com.shortcutssoftware.mysalon.cookiecutters",
       "icon": "https://play-lh.googleusercontent.com/th3KUk1Fm66lgoVZSKJh9kv-o83O-0azn03v_XL319OM-gmb5RL3M0jd3FVZ89Ys3do",
       "developer": "Shortcuts Software Pty Ltd",
@@ -1431,7 +1431,7 @@
     },
     {
       "title": "3D Emoji Face Camera - Emoji Head Stickers",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/sweet.candy.threeD.emoji.face.camera.emoji.head.stickers",
+      "appId": "sweet.candy.threeD.emoji.face.camera.emoji.head.stickers",
       "url": "https://play.google.com/store/apps/details?id=sweet.candy.threeD.emoji.face.camera.emoji.head.stickers",
       "icon": "https://play-lh.googleusercontent.com/Yp2DdxtVLR61iuJuWtUuw2HPqv67nEBIe-AWYbdXWkdchcMLHDU5MLzY-hijnTBZlWds",
       "developer": "Sweet Candy Selfie",
@@ -1445,7 +1445,7 @@
     },
     {
       "title": "Farmasi Usa",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.murtaza.FarmasiUSA",
+      "appId": "com.murtaza.FarmasiUSA",
       "url": "https://play.google.com/store/apps/details?id=com.murtaza.FarmasiUSA",
       "icon": "https://play-lh.googleusercontent.com/kmJTis2A4sJv22x5tpe-lPp3o02g9AR2w6aPz-Rf4c5RfgufjuKzIyJk_NlcxFDOrw",
       "developer": "Raggo Dev",
@@ -1459,7 +1459,7 @@
     },
     {
       "title": "Sweet Face Camera - Live Filter Selfie Photo Edit",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/luxury.art.sweet.face.camera.live.filter.selfie.photo.edit",
+      "appId": "luxury.art.sweet.face.camera.live.filter.selfie.photo.edit",
       "url": "https://play.google.com/store/apps/details?id=luxury.art.sweet.face.camera.live.filter.selfie.photo.edit",
       "icon": "https://play-lh.googleusercontent.com/n0pmuJDfqe9fPUjUriFW_in_Jum8sBgkKN2xqwGw782KAlaSJ5apOONQXKurrPZv4gM",
       "developer": "Luxury Art",
@@ -1473,7 +1473,7 @@
     },
     {
       "title": "Splat Hair Color - Selfie Studio",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.splathaircolor.android",
+      "appId": "com.splathaircolor.android",
       "url": "https://play.google.com/store/apps/details?id=com.splathaircolor.android",
       "icon": "https://play-lh.googleusercontent.com/bbRsnu_-S_S_pOZTKVB1XM-c9QSn-kNN7MyJ9kOjMmzCa-5o23sg2KmuMCGP0GUNqGg",
       "developer": "Developlus, Inc.",
@@ -1487,7 +1487,7 @@
     },
     {
       "title": "Emoji Background Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/sweet.candy.emoji.background.photo.editor",
+      "appId": "sweet.candy.emoji.background.photo.editor",
       "url": "https://play.google.com/store/apps/details?id=sweet.candy.emoji.background.photo.editor",
       "icon": "https://play-lh.googleusercontent.com/gGKZX0nQJd2YmCmIdMf-bZa4k5hJGhFlui5bw90UnV1aYLZxkO-Rrz7OgxytW1A25A",
       "developer": "Sweet Candy Selfie",
@@ -1501,7 +1501,7 @@
     },
     {
       "title": "Daily Beauty Care - Skin, Hair, Face, Eyes",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/skin.beauty.xtandroid.dailybeautycare",
+      "appId": "skin.beauty.xtandroid.dailybeautycare",
       "url": "https://play.google.com/store/apps/details?id=skin.beauty.xtandroid.dailybeautycare",
       "icon": "https://play-lh.googleusercontent.com/NUW4RBGsy0Wx5lKe8vFc23FLIzkJkWqYUS30Ig7vmiHBsxInyS1hp6At6OItFB5lOX4",
       "developer": "XT Apps",
@@ -1515,7 +1515,7 @@
     },
     {
       "title": "Blood Sugar",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.quotes.arabic",
+      "appId": "com.quotes.arabic",
       "url": "https://play.google.com/store/apps/details?id=com.quotes.arabic",
       "icon": "https://play-lh.googleusercontent.com/pH1n2QOEgFR8wQKT4n14jiTYS36oolwBx_ebKJwYbierYy2BcZ16BqHrcRfZcrL6VJU",
       "developer": "Download Story 2020",
@@ -1529,7 +1529,7 @@
     },
     {
       "title": "Kami",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.uala.kami.android",
+      "appId": "com.uala.kami.android",
       "url": "https://play.google.com/store/apps/details?id=com.uala.kami.android",
       "icon": "https://play-lh.googleusercontent.com/e9jtlJ-cTkFCzXz2Ck3fMA9BxhHsHGy2DHBKGVuaqx-Ne61IFQayi8GQ88NQI2qNufU",
       "developer": "Uala S.r.l",
@@ -1543,7 +1543,7 @@
     },
     {
       "title": "Beauty Calculator",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.nerovero.beautycalculator",
+      "appId": "com.nerovero.beautycalculator",
       "url": "https://play.google.com/store/apps/details?id=com.nerovero.beautycalculator",
       "icon": "https://play-lh.googleusercontent.com/0SJ7JXf9sUaBrPEdL3y4fZJm8lAOTR3ZWVR9Bp8fFIRAMKugxGMQAy-HuNnqkaGnbOPD",
       "developer": "NeroX",
@@ -1557,7 +1557,7 @@
     },
     {
       "title": "صور بنات : صاكات حلوات كيوت‎",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.sohakonbill.sowarbanat_girlswallpaper",
+      "appId": "com.sohakonbill.sowarbanat_girlswallpaper",
       "url": "https://play.google.com/store/apps/details?id=com.sohakonbill.sowarbanat_girlswallpaper",
       "icon": "https://play-lh.googleusercontent.com/7LVdKZjRFR8iYbBEjhnBkq9-g1gGEXEuQ8u5aSvHpQ09GZMiOXbK4mC1PXVYgIsjW9I",
       "developer": "sohakon",
@@ -1571,7 +1571,7 @@
     },
     {
       "title": "Face Makeup Camera - Beauty Makeover Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/face.youcam.selfie.makeup.camera.beauty.makeover.photoeditor",
+      "appId": "face.youcam.selfie.makeup.camera.beauty.makeover.photoeditor",
       "url": "https://play.google.com/store/apps/details?id=face.youcam.selfie.makeup.camera.beauty.makeover.photoeditor",
       "icon": "https://play-lh.googleusercontent.com/YIHwpREzMTpePObawg_EePCxVyktG-5PAA2d2mRJ2jyX3uhQE26uC7O3b4Oulp75O0I",
       "developer": "cRealSolutions",
@@ -1585,7 +1585,7 @@
     },
     {
       "title": "Man Hairstyles Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.superdev.photoeditor.manhairstyle",
+      "appId": "com.superdev.photoeditor.manhairstyle",
       "url": "https://play.google.com/store/apps/details?id=com.superdev.photoeditor.manhairstyle",
       "icon": "https://play-lh.googleusercontent.com/Rq2cHq3UZETIvu5mwuGY8yNtWzAvDWl7aw_OEFiH_D3EOx7E4R99O9B2zhXB7HuXKzY",
       "developer": "Super Diva",
@@ -1599,7 +1599,7 @@
     },
     {
       "title": "SkinSafe",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.her.skinsafeproducts.skinsafe",
+      "appId": "com.her.skinsafeproducts.skinsafe",
       "url": "https://play.google.com/store/apps/details?id=com.her.skinsafeproducts.skinsafe",
       "icon": "https://play-lh.googleusercontent.com/_ufTC8A2gFWHOQPPZua3Ro-FJ7hSKX2fR0kQvh2iq-f-DaQi9b5HIqrERuNuTqYszCM",
       "developer": "SkinSAFE",
@@ -1613,7 +1613,7 @@
     },
     {
       "title": "Photo Plastic Surgery Pro",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.JiangWenyou.PhotoPlasticSurgeryPro",
+      "appId": "com.JiangWenyou.PhotoPlasticSurgeryPro",
       "url": "https://play.google.com/store/apps/details?id=com.JiangWenyou.PhotoPlasticSurgeryPro",
       "icon": "https://play-lh.googleusercontent.com/AL3ycADfCLaDl8YV4L64t4kWVIkGMx15G2yKz4zXWTLJEz5N1N69SaXPVRNkZwHF-Q",
       "developer": "Jiang Wenyou",
@@ -1627,7 +1627,7 @@
     },
     {
       "title": "Hair Color Changer 💁🏻",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.best.photo.apps.hair.color.change",
+      "appId": "com.best.photo.apps.hair.color.change",
       "url": "https://play.google.com/store/apps/details?id=com.best.photo.apps.hair.color.change",
       "icon": "https://play-lh.googleusercontent.com/HQITRdtd3_ad3CT2rnobFbpQ5QAkj5WyD9_RMP4PKtyy55si4nbNylgErUsHQUbTNTrq",
       "developer": "Best Photo Apps",
@@ -1641,7 +1641,7 @@
     },
     {
       "title": "Sweet Camera - Selfie Beauty Camera, Filters",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.sweetcamera.collageeditor.photomaker",
+      "appId": "com.sweetcamera.collageeditor.photomaker",
       "url": "https://play.google.com/store/apps/details?id=com.sweetcamera.collageeditor.photomaker",
       "icon": "https://play-lh.googleusercontent.com/bZj2pPB61YBXtrmQiasZNf04oml43A36lW_-VSunIxKsR2KARTMZLRcf8v9TVykXKzI",
       "developer": "Emoji Keyboard LLC",
@@ -1655,7 +1655,7 @@
     },
     {
       "title": "Examples of eye makeup (Step by step)",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.mygoldapps.gozmakyaj",
+      "appId": "com.mygoldapps.gozmakyaj",
       "url": "https://play.google.com/store/apps/details?id=com.mygoldapps.gozmakyaj",
       "icon": "https://play-lh.googleusercontent.com/K0W8PhD934N3MmLEV12l7jva5DZhyeaNZXBZUOceAXlU347ZTb0LL61hOUjK4lJEaQ",
       "developer": "My Gold applications",
@@ -1669,7 +1669,7 @@
     },
     {
       "title": "Neon Horns Devil - Neon Devil Crown Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/luxury.art.neon.horns.devil.crown.photo.editor",
+      "appId": "luxury.art.neon.horns.devil.crown.photo.editor",
       "url": "https://play.google.com/store/apps/details?id=luxury.art.neon.horns.devil.crown.photo.editor",
       "icon": "https://play-lh.googleusercontent.com/glh_BvZ9il1rm92NzmiaxNXP8BBUOJleVxeh2iH78EKry2ixojM4mwlI5ftvr0Y4Kbc",
       "developer": "Luxury Art",
@@ -1683,7 +1683,7 @@
     },
     {
       "title": "Period Tracker",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.northpark.periodtracker",
+      "appId": "com.northpark.periodtracker",
       "url": "https://play.google.com/store/apps/details?id=com.northpark.periodtracker",
       "icon": "https://play-lh.googleusercontent.com/kObmNGj7qqSeuigUzMj0Y0rd4uQGvkoDMbtMrraBvtCZhBWTVYyRK7K-DclL5ldkccY",
       "developer": "Leap Fitness Group",
@@ -1697,7 +1697,7 @@
     },
     {
       "title": "Manicure and Pedicure Games: Nail Art Designs",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.Manicure.Pedicure.Games.Nail.Art.Designs.Salon",
+      "appId": "com.Manicure.Pedicure.Games.Nail.Art.Designs.Salon",
       "url": "https://play.google.com/store/apps/details?id=com.Manicure.Pedicure.Games.Nail.Art.Designs.Salon",
       "icon": "https://play-lh.googleusercontent.com/UFthNXV0092-EsZeXqd8ru5bOXDFJ8yXv6IUxxdMeYZRPt2lyIBU4NVWli_bDrlDLKc",
       "developer": "Fashion Queen Apps",
@@ -1711,7 +1711,7 @@
     },
     {
       "title": "Cartoon Wallpapers",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.skhapps.CartoonWallpapers",
+      "appId": "com.skhapps.CartoonWallpapers",
       "url": "https://play.google.com/store/apps/details?id=com.skhapps.CartoonWallpapers",
       "icon": "https://play-lh.googleusercontent.com/UE4ExFw2LMyHLC1QB2iaFPzyRskyjafnnJOmSg1ubgX10snuGQgCdz6IcUjCOC3eaPc",
       "developer": "skhapps",
@@ -1725,7 +1725,7 @@
     },
     {
       "title": "Dress glitter color by number-Paint by Number",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.coloringbynumber.dress.glitter.color.by.number.adult.coloring.book",
+      "appId": "com.coloringbynumber.dress.glitter.color.by.number.adult.coloring.book",
       "url": "https://play.google.com/store/apps/details?id=com.coloringbynumber.dress.glitter.color.by.number.adult.coloring.book",
       "icon": "https://play-lh.googleusercontent.com/PN4C2ee3o8aPDLny1bR6CO7SPiJsMulPfMnLc8i3sIjOrP8W0pL3MoRguLA4THVlk0k",
       "developer": "Color by Number & Coloring book: Pixel Art Games",
@@ -1739,7 +1739,7 @@
     },
     {
       "title": "Mirror - HD Mobile Mirror",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.mw.hd.mirror.effect",
+      "appId": "com.mw.hd.mirror.effect",
       "url": "https://play.google.com/store/apps/details?id=com.mw.hd.mirror.effect",
       "icon": "https://play-lh.googleusercontent.com/sSJz0qa2Ny0xaLa4YcR4x_iz_fsZPnu57EnXwil6H4XbYFH34YRaFeTNdYzFIkBTpEI",
       "developer": "H Dev Apps Studio",
@@ -1753,7 +1753,7 @@
     },
     {
       "title": "High Heels Designer Girl Games",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.High.Heels.Designer.Girl.Games",
+      "appId": "com.High.Heels.Designer.Girl.Games",
       "url": "https://play.google.com/store/apps/details?id=com.High.Heels.Designer.Girl.Games",
       "icon": "https://play-lh.googleusercontent.com/dwc2yadZP8rCTbQhiwIyKa-HbCOe53ddvX-yAZDrANXuNW_aRMxUZNjzAcjrdTUenAzv",
       "developer": "Webelinx Love Story Games",
@@ -1767,7 +1767,7 @@
     },
     {
       "title": "B912 Selfie Camera",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.Voodamdee.Photos.Camera.B912SelfieCamera",
+      "appId": "com.Voodamdee.Photos.Camera.B912SelfieCamera",
       "url": "https://play.google.com/store/apps/details?id=com.Voodamdee.Photos.Camera.B912SelfieCamera",
       "icon": "https://play-lh.googleusercontent.com/EbBIeyuRyoOKdaxV1cxPIKks3NGqY10SfiRkzv-WLtNS6JtzGgtG-SQ4YeET08IJTTQ",
       "developer": "Voodamdee",
@@ -1781,7 +1781,7 @@
     },
     {
       "title": "Pureple Outfit Planner",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.app.pureple",
+      "appId": "com.app.pureple",
       "url": "https://play.google.com/store/apps/details?id=com.app.pureple",
       "icon": "https://play-lh.googleusercontent.com/UhZ9lXNHYe3z4gnewTrT1QENY_khQyeRyeGxzrknKEckCHQn0nin5PvCGEzG-EA_S4Y",
       "developer": "Iceclip LLC",
@@ -1795,7 +1795,7 @@
     },
     {
       "title": "Vi Peel",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/io.viaesthetics.knoxweb",
+      "appId": "io.viaesthetics.knoxweb",
       "url": "https://play.google.com/store/apps/details?id=io.viaesthetics.knoxweb",
       "icon": "https://play-lh.googleusercontent.com/OCvZcnRXV0QNG6P4MWNe1pJgZsE8XZCYKe7YUjYXlUJ2w9H5_p2HW7kBwLqk53wVF7M",
       "developer": "Bluestone Apps",
@@ -1809,7 +1809,7 @@
     },
     {
       "title": "Makeup Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.photo.edit.best.makeup",
+      "appId": "com.photo.edit.best.makeup",
       "url": "https://play.google.com/store/apps/details?id=com.photo.edit.best.makeup",
       "icon": "https://play-lh.googleusercontent.com/vStQXSfK9ygqfG3932qCsrQdEKGH4PttpWTYq6OQUlQ08rjPFpxeAGYjsrEZ5LF6xno",
       "developer": "Photo Editors & Games",
@@ -1823,7 +1823,7 @@
     },
     {
       "title": "Sweet Snap Beauty Camera",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/frame.art.master.sweet.sefie.snap.camera",
+      "appId": "frame.art.master.sweet.sefie.snap.camera",
       "url": "https://play.google.com/store/apps/details?id=frame.art.master.sweet.sefie.snap.camera",
       "icon": "https://play-lh.googleusercontent.com/2LqLhuccgZQtVDVVCTrtLs3l9N-vdk_x3rZiTZrklLe7gdHbUsKkqLbyf2rw5rtMe6s",
       "developer": "PIXEL PHOTO PRO",
@@ -1837,7 +1837,7 @@
     },
     {
       "title": "Tattoo Designs | Best Tattoos Ideas For Women",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/tattoo.designs.collection",
+      "appId": "tattoo.designs.collection",
       "url": "https://play.google.com/store/apps/details?id=tattoo.designs.collection",
       "icon": "https://play-lh.googleusercontent.com/2k-elXrFsydBBh2bbI33ypTY37vSf6oJJNAwc1ENE3UmvU96crxsnPlk9I48sts58Dg",
       "developer": "Global App Zone - Lifestyle and Fashion Apps",
@@ -1851,7 +1851,7 @@
     },
     {
       "title": "Pro makeup (face, eyes, lips) 👑✨",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.sweetandbeautyhdcameras.promakeup",
+      "appId": "com.sweetandbeautyhdcameras.promakeup",
       "url": "https://play.google.com/store/apps/details?id=com.sweetandbeautyhdcameras.promakeup",
       "icon": "https://play-lh.googleusercontent.com/aVum9B1_viE-ezMsQro15U6LS-rGYzV8aZi1XM96OLy7h0w_dPwrtzXq8Iv8YAkqMA",
       "developer": "Sweet and Beauty HD Cameras",
@@ -1865,7 +1865,7 @@
     },
     {
       "title": "Easy Hair Color Changer",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/hair.color.changer.easy",
+      "appId": "hair.color.changer.easy",
       "url": "https://play.google.com/store/apps/details?id=hair.color.changer.easy",
       "icon": "https://play-lh.googleusercontent.com/Bq7goL32goyMukvHHuEMF2LjwLfqbEyrfxYJXFz3XEBQw_TAy_kVP5TALZsne2xL5g",
       "developer": "FRM ART",
@@ -1879,7 +1879,7 @@
     },
     {
       "title": "Sweet Face Camera 2020",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/cofs.sweet.face.camera.light.crown.photo.editor",
+      "appId": "cofs.sweet.face.camera.light.crown.photo.editor",
       "url": "https://play.google.com/store/apps/details?id=cofs.sweet.face.camera.light.crown.photo.editor",
       "icon": "https://play-lh.googleusercontent.com/a3HBid1F2KdnEGvuOwJbqNT50q3vnl3r3-0PSMS5Mp-bOvOtvtp2ffN1aTmYUB6Pu84",
       "developer": "Colorful Filter Studio",
@@ -1893,7 +1893,7 @@
     },
     {
       "title": "FeelinMySkin - Skincare Routine Assistant",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.feelinmyskin.app",
+      "appId": "com.feelinmyskin.app",
       "url": "https://play.google.com/store/apps/details?id=com.feelinmyskin.app",
       "icon": "https://play-lh.googleusercontent.com/9zcAm0n9CkQvYPn4WJvbwNE81iz1DUyIeONd4iOQA3AF_N-syP35apY8qZp-3b5PaUG-",
       "developer": "András Munkácsi",
@@ -1907,7 +1907,7 @@
     },
     {
       "title": "Face Beauty Makeup Camera",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.faceenhancer.android",
+      "appId": "com.faceenhancer.android",
       "url": "https://play.google.com/store/apps/details?id=com.faceenhancer.android",
       "icon": "https://play-lh.googleusercontent.com/rmURjEPHr_LM4Y-s7P9GYcUVysch6EDIBVRBqL4OuORZh_xpaEMco_ZhxVXYnttG-A",
       "developer": "Outdoing Apps",
@@ -1921,7 +1921,7 @@
     },
     {
       "title": "Wedding Dress Photo Montage 💖",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.best.photo.app.weddingdresses",
+      "appId": "com.best.photo.app.weddingdresses",
       "url": "https://play.google.com/store/apps/details?id=com.best.photo.app.weddingdresses",
       "icon": "https://play-lh.googleusercontent.com/l34xgkyA4lnqr9v_OXkA7YtL5ozhKMjBNJN3FiuhtRBH6_fZ3jeba2XIl5tmonzf9w",
       "developer": "Best Photo Apps",
@@ -1935,7 +1935,7 @@
     },
     {
       "title": "Girls Hair Changer 👸🏼👸🏻",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/princess.hair.changer.bestphotoapps",
+      "appId": "princess.hair.changer.bestphotoapps",
       "url": "https://play.google.com/store/apps/details?id=princess.hair.changer.bestphotoapps",
       "icon": "https://play-lh.googleusercontent.com/XTUz_O_imUEI_SJARzBLn7s1LRI4Zi0pWbyL73SiBhz_IT2lVKPyxkewK__t-qbi5Q",
       "developer": "Best Photo Apps",
@@ -1949,7 +1949,7 @@
     },
     {
       "title": "Man Hairstyles Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/best.photo.app.manhairstyles2018",
+      "appId": "best.photo.app.manhairstyles2018",
       "url": "https://play.google.com/store/apps/details?id=best.photo.app.manhairstyles2018",
       "icon": "https://play-lh.googleusercontent.com/1W_caJUErU1-DO6gtnbihBRjegmGH2P6LDWNHhR42MOJRJdLtSGQMdJXSNXV_aedRA",
       "developer": "Best Photo Apps",
@@ -1963,7 +1963,7 @@
     },
     {
       "title": "Face mask - medical & surgical mask photo editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.twoweeksapps.facemask",
+      "appId": "com.twoweeksapps.facemask",
       "url": "https://play.google.com/store/apps/details?id=com.twoweeksapps.facemask",
       "icon": "https://play-lh.googleusercontent.com/YPCDurUx3BLWLyiQAv6hWqZr25BMb4H4Yo9s3oBaj1nL4cULwRB_VVOmQk6RUxxgecrb",
       "developer": "Two Weeks Apps",
@@ -1977,7 +1977,7 @@
     },
     {
       "title": "True Face Mirror",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/website.pawanth.truefacemirror",
+      "appId": "website.pawanth.truefacemirror",
       "url": "https://play.google.com/store/apps/details?id=website.pawanth.truefacemirror",
       "icon": "https://play-lh.googleusercontent.com/n9mKf8o4_HlvrXyHHEhKx2YhNVkbv8s0fgWtSzRfBcwURI1DUD7kWJCwaK9BtoO0wkc",
       "developer": "Sarsipal Infotech",
@@ -1991,7 +1991,7 @@
     },
     {
       "title": "Crown Heart Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/crown.heart.photo.editor",
+      "appId": "crown.heart.photo.editor",
       "url": "https://play.google.com/store/apps/details?id=crown.heart.photo.editor",
       "icon": "https://play-lh.googleusercontent.com/rm4cpzTGFZpkQCAh8zCvGkOj-W23KzvFOyp1LHyJdkw_Emi4TCYSrmBs79paO18k6mo",
       "developer": "FRM ART",
@@ -2005,7 +2005,7 @@
     },
     {
       "title": "Face Emoji Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/luxury.art.face.emoji.photo.editor",
+      "appId": "luxury.art.face.emoji.photo.editor",
       "url": "https://play.google.com/store/apps/details?id=luxury.art.face.emoji.photo.editor",
       "icon": "https://play-lh.googleusercontent.com/HUlBvm7yG_izcdLYANzxphyCslcDXjLtOFlsMXsZe0CGKDw5lyvXW748ogzg97YIgcY",
       "developer": "Luxury Art",
@@ -2019,7 +2019,7 @@
     },
     {
       "title": "Boy Hairstyle Camera",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/best.boy.hairstyle.camera",
+      "appId": "best.boy.hairstyle.camera",
       "url": "https://play.google.com/store/apps/details?id=best.boy.hairstyle.camera",
       "icon": "https://play-lh.googleusercontent.com/mubBxsS9PJJO4kn6o3mgr4WFMpPVqCemUnOEVweviSSbheaPHhwZW2ca0GgWVOUov8I",
       "developer": "Lolla Apps",
@@ -2033,7 +2033,7 @@
     },
     {
       "title": "Face Makeup Pictures",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.makeuptuto.natural",
+      "appId": "com.makeuptuto.natural",
       "url": "https://play.google.com/store/apps/details?id=com.makeuptuto.natural",
       "icon": "https://play-lh.googleusercontent.com/R5jqRfMipNlU7dmjxP7_809SphC8eLZWg1asrnJykmdxur82pW2phAS_Ag1RkIXnu1U",
       "developer": "girly m themes 2017",
@@ -2047,7 +2047,7 @@
     },
     {
       "title": "Face Makeup Camera - Beauty Makeover Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.mtdailytoolapps.youcammakeup.makeover.photoeditor.makeup.camera.beautyfacemakeupplus",
+      "appId": "com.mtdailytoolapps.youcammakeup.makeover.photoeditor.makeup.camera.beautyfacemakeupplus",
       "url": "https://play.google.com/store/apps/details?id=com.mtdailytoolapps.youcammakeup.makeover.photoeditor.makeup.camera.beautyfacemakeupplus",
       "icon": "https://play-lh.googleusercontent.com/u3Y5ih4W7Qa88xd1it8d3apayWKv3yaStihVYNioORsX5Qs1orS9YrR0IPZ-c-Q9I7k",
       "developer": "AppLogic Solutions",
@@ -2061,7 +2061,7 @@
     },
     {
       "title": "Latest Fashion Trend 2021",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.Latest.Fashion.Trend2020",
+      "appId": "com.Latest.Fashion.Trend2020",
       "url": "https://play.google.com/store/apps/details?id=com.Latest.Fashion.Trend2020",
       "icon": "https://play-lh.googleusercontent.com/cVgjch4SLFlzXDDZ-up7qeV2zPZ6sGjGDuOVM0ULImFfr6DS3P6RN-CJHdID40RI7Tg",
       "developer": "NewChik",
@@ -2075,7 +2075,7 @@
     },
     {
       "title": "Picky - Skincare Made Smarter",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/care.jivaka.picky",
+      "appId": "care.jivaka.picky",
       "url": "https://play.google.com/store/apps/details?id=care.jivaka.picky",
       "icon": "https://play-lh.googleusercontent.com/R2R9qmh3jyIRP59KxO18PZYb8Lxg7867XsaukgJqtahxFC3-kg6ORVMvwONu9ekMidM",
       "developer": "Picky Corporation",
@@ -2089,7 +2089,7 @@
     },
     {
       "title": "My Best Colors",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.colorwise.me.allseasons",
+      "appId": "com.colorwise.me.allseasons",
       "url": "https://play.google.com/store/apps/details?id=com.colorwise.me.allseasons",
       "icon": "https://play-lh.googleusercontent.com/UAgnZUtJXR3-fe3dD6tOyhiSi4qwinoyfUxHY_BZptkQ8YZwrBNlFImlt7xpSi4csCo",
       "developer": "colorwise.me",
@@ -2103,7 +2103,7 @@
     },
     {
       "title": "Eyelashes Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.eyelashes.eyebrow.photo.editor.makeup",
+      "appId": "com.eyelashes.eyebrow.photo.editor.makeup",
       "url": "https://play.google.com/store/apps/details?id=com.eyelashes.eyebrow.photo.editor.makeup",
       "icon": "https://play-lh.googleusercontent.com/MPSmvtXdql4ejc2nIOZcsS8NBtjz5tUTgb9LFlutSQZCSeg5A5ErNr2Twp1raxEG71R9",
       "developer": "PHOTO EDITOR APPS",
@@ -2117,7 +2117,7 @@
     },
     {
       "title": "Fashion Nail Salon Games 3D",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.Fashion.Nail.Salon.Games",
+      "appId": "com.Fashion.Nail.Salon.Games",
       "url": "https://play.google.com/store/apps/details?id=com.Fashion.Nail.Salon.Games",
       "icon": "https://play-lh.googleusercontent.com/e0Fpt9oQG_m7x2N0H9IrPBecQiEeVMhhJCx5ELNbfK0BixRaH82Sut8lSzplab296Q",
       "developer": "Beauty Mania Apps and Games",
@@ -2131,7 +2131,7 @@
     },
     {
       "title": "B613 Selfie Camera New Version",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.Voodamdee.Photos.Camera.B613SelfieCameraNewVersion",
+      "appId": "com.Voodamdee.Photos.Camera.B613SelfieCameraNewVersion",
       "url": "https://play.google.com/store/apps/details?id=com.Voodamdee.Photos.Camera.B613SelfieCameraNewVersion",
       "icon": "https://play-lh.googleusercontent.com/_h6nlsBvEhv-K6PHXy_u1MHgpa1LDeG8rkQeOx6Ebetuf-DLcHRO-liM1A4NDH5fjEfE",
       "developer": "Voodamdee",
@@ -2145,7 +2145,7 @@
     },
     {
       "title": "Beard Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/best.beard.photo.editor",
+      "appId": "best.beard.photo.editor",
       "url": "https://play.google.com/store/apps/details?id=best.beard.photo.editor",
       "icon": "https://play-lh.googleusercontent.com/wSj-KXK1M8mdqpqxVwHFG3hFXbv_aw8rQZ4F33qZBQcM4DbrU6dxsoJlYBjysHVVPQ4",
       "developer": "Lolla Apps",
@@ -2159,7 +2159,7 @@
     },
     {
       "title": "Nails.Makeup.Hairstyle",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/apps.yamayka.beautifulhair",
+      "appId": "apps.yamayka.beautifulhair",
       "url": "https://play.google.com/store/apps/details?id=apps.yamayka.beautifulhair",
       "icon": "https://play-lh.googleusercontent.com/FSc6mqXROKMD8TbH5xF1Kle5-QI02BnP_cetLyqM4Uxf-1BzVA-0aAw4XC_POsrCmJ6S",
       "developer": "Yamayka Apps",
@@ -2173,7 +2173,7 @@
     },
     {
       "title": "Photo Recovery - Recover Deleted Photo",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.tonobila.recovery.photo",
+      "appId": "com.tonobila.recovery.photo",
       "url": "https://play.google.com/store/apps/details?id=com.tonobila.recovery.photo",
       "icon": "https://play-lh.googleusercontent.com/8XByvoHj75bUGsKL7A7F6XGc_H-Jr4F7VzgfRcioCuLBvbG5vhHtQkyfRX6_pwUw0fs",
       "developer": "tonobiladv",
@@ -2187,7 +2187,7 @@
     },
     {
       "title": "Filter for Snapchat - Live Filter Selfie Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.live_filter.snapchat.filters.sweet.face_camera",
+      "appId": "com.live_filter.snapchat.filters.sweet.face_camera",
       "url": "https://play.google.com/store/apps/details?id=com.live_filter.snapchat.filters.sweet.face_camera",
       "icon": "https://play-lh.googleusercontent.com/3k9lf22cehC4IpEivly-4fg49hNR2lSbF2Kh2Bfeo6wMhx5FHkjNj8auBha8Ce02O44",
       "developer": "Best Magical Art Dev",
@@ -2201,7 +2201,7 @@
     },
     {
       "title": "Face Makeup Camera - Beauty Selfie Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/makeupsaloon.face.makeup.camera.beauty.selfie.youcam.photoeditor.prettymakeover",
+      "appId": "makeupsaloon.face.makeup.camera.beauty.selfie.youcam.photoeditor.prettymakeover",
       "url": "https://play.google.com/store/apps/details?id=makeupsaloon.face.makeup.camera.beauty.selfie.youcam.photoeditor.prettymakeover",
       "icon": "https://play-lh.googleusercontent.com/ax7-Ob2Lb0xpuLaE0xlduDXGAx8HC1RIEC9OzQDy7YTw94fG0s7Ku-8OKkzlUIYYy8A",
       "developer": "Beauty Makeup Saloon Inc.",
@@ -2215,7 +2215,7 @@
     },
     {
       "title": "Beauty Cam : Beauty Camera Plus",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.tool.beauty.plus.beautycamplus",
+      "appId": "com.tool.beauty.plus.beautycamplus",
       "url": "https://play.google.com/store/apps/details?id=com.tool.beauty.plus.beautycamplus",
       "icon": "https://play-lh.googleusercontent.com/oRNHTj0-riFE91jQWvQS3IcnQd3ofQcVzR_82oxk9ZMoabPh_1ZrZPv-JZ8Qabqw9Vi9",
       "developer": "Beauty Face Makeup",
@@ -2229,7 +2229,7 @@
     },
     {
       "title": "زیبانویس اسم",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.intellvold.zibaneviss2",
+      "appId": "com.intellvold.zibaneviss2",
       "url": "https://play.google.com/store/apps/details?id=com.intellvold.zibaneviss2",
       "icon": "https://play-lh.googleusercontent.com/JWj8mirzwHU6Jx0PFl7mzFbAuaZQSESkK-Z-NVn7ppYhIUshUbUfneXYWdqo-bt5Sg",
       "developer": "erfanapps",
@@ -2243,7 +2243,7 @@
     },
     {
       "title": "Coupons For BoxyCharm - Discount Makeup 101% OFF",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/discount.boxycharm.coupons",
+      "appId": "discount.boxycharm.coupons",
       "url": "https://play.google.com/store/apps/details?id=discount.boxycharm.coupons",
       "icon": "https://play-lh.googleusercontent.com/v8xiow6VIzWgPLRum7OYYE6prazlMrAqIgekSm9OpP2f8GdJ2arK28ohNUtsy4_5wWo",
       "developer": "discount75%",
@@ -2257,7 +2257,7 @@
     },
     {
       "title": "Sweet Snap Camera Lite - Snap Cat Face Camera",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.sweetsnap.SnapCat.FaceCamera.sweetface.snapchat",
+      "appId": "com.sweetsnap.SnapCat.FaceCamera.sweetface.snapchat",
       "url": "https://play.google.com/store/apps/details?id=com.sweetsnap.SnapCat.FaceCamera.sweetface.snapchat",
       "icon": "https://play-lh.googleusercontent.com/Q4cXiJ54W0yv0XXq10FWwx2bJLXU8rAXjbOA9e-7J-bLAoO0FwIwmW_4sqBehE3PQDI",
       "developer": "Perfect Art Developer",
@@ -2271,7 +2271,7 @@
     },
     {
       "title": "Crochet Pattern Free",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.newandromo.dev987209.app1082486",
+      "appId": "com.newandromo.dev987209.app1082486",
       "url": "https://play.google.com/store/apps/details?id=com.newandromo.dev987209.app1082486",
       "icon": "https://play-lh.googleusercontent.com/Fm6IJU92RNcvKXaHu3kyMYpVXnan_sDPL76jKLpP20Wg9hIihKyKn_OIfI1t4gHa5Ok",
       "developer": "FavConcole",
@@ -2285,7 +2285,7 @@
     },
     {
       "title": "Sweet Snap Live Filter - Snap Cat Face Camera",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/beauty.picshop.sweet.snap.live.filter.snap.cat.face.camera",
+      "appId": "beauty.picshop.sweet.snap.live.filter.snap.cat.face.camera",
       "url": "https://play.google.com/store/apps/details?id=beauty.picshop.sweet.snap.live.filter.snap.cat.face.camera",
       "icon": "https://play-lh.googleusercontent.com/1m38r5a-BrSpVVozRRdOKTwbd4o1vcloh3BIJMXhf3J11TXaWiRHHlUCzrlPveuCdfo",
       "developer": "Beauty Sweet Picshop",
@@ -2299,7 +2299,7 @@
     },
     {
       "title": "Face Makeover Camera-Perfect Magic Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/barsa.perfect.magic.selfie.virtual.makeup.camera",
+      "appId": "barsa.perfect.magic.selfie.virtual.makeup.camera",
       "url": "https://play.google.com/store/apps/details?id=barsa.perfect.magic.selfie.virtual.makeup.camera",
       "icon": "https://play-lh.googleusercontent.com/sCuu5mK4_yA50QSzRiCAgDVRdkaCY6AaDRf73-gAGuAcsu7Ex-SuiRsC7jA96oQMLGg",
       "developer": "barsa",
@@ -2313,7 +2313,7 @@
     },
     {
       "title": "WeFit – Female fitness & Home Workout for Women",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.xfitnessgroup.wefit",
+      "appId": "com.xfitnessgroup.wefit",
       "url": "https://play.google.com/store/apps/details?id=com.xfitnessgroup.wefit",
       "icon": "https://play-lh.googleusercontent.com/3I_H6I32B4TLfad2wyOOxLN9c5aBAVskf7jigX4AAcORWGz20RxFrP-zn8w0SV0xZq8l",
       "developer": "XFitness Group",
@@ -2327,7 +2327,7 @@
     },
     {
       "title": "Hair Color Changer Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.msart.haircolorchanger",
+      "appId": "com.msart.haircolorchanger",
       "url": "https://play.google.com/store/apps/details?id=com.msart.haircolorchanger",
       "icon": "https://play-lh.googleusercontent.com/05fl5QgpI8DEQJ6EJ39pBM5Hop3g6lmzqAB68TG-49s9dNzjxuuysuG31yFBx7c9_Cs",
       "developer": "MS Art Studio",
@@ -2341,7 +2341,7 @@
     },
     {
       "title": "Woman Jewelry Best Jewellery",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/best.photo.app.womanjewelry",
+      "appId": "best.photo.app.womanjewelry",
       "url": "https://play.google.com/store/apps/details?id=best.photo.app.womanjewelry",
       "icon": "https://play-lh.googleusercontent.com/ZwUeRmj464v7skHbsWNjQeGFN0-vsclwXFBUoenS9RP1c9NfGFTd7J8VT7_dutheUgc",
       "developer": "Best Photo Apps",
@@ -2355,7 +2355,7 @@
     },
     {
       "title": "FaceFun - Face Filters, Selfie Editor, Sweet Cam",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.facefun.sweetcamera.collageeditor",
+      "appId": "com.facefun.sweetcamera.collageeditor",
       "url": "https://play.google.com/store/apps/details?id=com.facefun.sweetcamera.collageeditor",
       "icon": "https://play-lh.googleusercontent.com/qXL5Sytb_cwpVFrOIkkWHtw1wBR1JV6AT5yVK4W_us7ukUyA9Q54snDxGj-Wx74uM24",
       "developer": "Emoji Keyboard LLC",
@@ -2369,7 +2369,7 @@
     },
     {
       "title": "Coffin Nails",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/littleappas.coffinnails",
+      "appId": "littleappas.coffinnails",
       "url": "https://play.google.com/store/apps/details?id=littleappas.coffinnails",
       "icon": "https://play-lh.googleusercontent.com/jXtiRBhIUi2-H-h5_rqVmSRQnMTG1xlMSEPB3Xcc0Q7RQmQ_nw6-S9jI5cp86QFggjlk",
       "developer": "dailylittle",
@@ -2383,7 +2383,7 @@
     },
     {
       "title": "GLO Whitening",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.aromega.smygroup.glo",
+      "appId": "com.aromega.smygroup.glo",
       "url": "https://play.google.com/store/apps/details?id=com.aromega.smygroup.glo",
       "icon": "https://play-lh.googleusercontent.com/TIzHzx1mc12LVb4NlfwA76fU8mT4tldvTF0W7oBrTJ1NqB8MHzhBzvy_UaiuVp4ULig",
       "developer": "GLO Science, Inc.",
@@ -2397,7 +2397,7 @@
     },
     {
       "title": "What Type of Girl Are You? Personality Test",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.microdev.whattypeofgirlareyou",
+      "appId": "com.microdev.whattypeofgirlareyou",
       "url": "https://play.google.com/store/apps/details?id=com.microdev.whattypeofgirlareyou",
       "icon": "https://play-lh.googleusercontent.com/LNxnunKHw0On_dMpKhc7fljl968zhxpD4IlOY5t956cRuGSbOivs5VrWjB6qduumJe40",
       "developer": "Smarter Everywhere — Games, Quizzes, Tests",
@@ -2411,7 +2411,7 @@
     },
     {
       "title": "Braces Camera",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.best.braces.camera",
+      "appId": "com.best.braces.camera",
       "url": "https://play.google.com/store/apps/details?id=com.best.braces.camera",
       "icon": "https://play-lh.googleusercontent.com/tABkbtRaKCaM0zEVtJ8IGkYyl3zVY5SZONO5gi1BfaU5KMi-Pb_bF4yGUafVc1QBJQ",
       "developer": "Lolla Apps",
@@ -2425,7 +2425,7 @@
     },
     {
       "title": "Filter for Snapchat",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/frame.art.master.filter.sweet.camera",
+      "appId": "frame.art.master.filter.sweet.camera",
       "url": "https://play.google.com/store/apps/details?id=frame.art.master.filter.sweet.camera",
       "icon": "https://play-lh.googleusercontent.com/BojCCIqCqv8SDCPGcbwp6m3lkejTXNkkfQqLUqPrLUqa1C-98lkUYGEAWt0zqRNUoNY",
       "developer": "PIXEL PHOTO PRO",
@@ -2439,7 +2439,7 @@
     },
     {
       "title": "Hairfit - k-pop hairstyle simulator",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.virtualive.hairfitglobal",
+      "appId": "com.virtualive.hairfitglobal",
       "url": "https://play.google.com/store/apps/details?id=com.virtualive.hairfitglobal",
       "icon": "https://play-lh.googleusercontent.com/11rlT4Y3wq4XPaRpznp4xNxak9I_a9XE2yN03tqtXT7VnnYDYooGLquqwsdMK-nZ5WFn",
       "developer": "Virtualive",
@@ -2453,7 +2453,7 @@
     },
     {
       "title": "Sweet Snap Live Filter - Snap Face Camera Edit",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.sweet.snap.facecamera.livefilter.cameraedit",
+      "appId": "com.sweet.snap.facecamera.livefilter.cameraedit",
       "url": "https://play.google.com/store/apps/details?id=com.sweet.snap.facecamera.livefilter.cameraedit",
       "icon": "https://play-lh.googleusercontent.com/m7Id6Ai_frlTQAvrbpf42jBhwH_h09rQM7Zueivpr8FAbMPLLuo-PUUMrl17P_WEqB0",
       "developer": "zapix pharan",
@@ -2467,7 +2467,7 @@
     },
     {
       "title": "Сheap makeup shopping. Online cosmetics outlet",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/cheap.makeup.brands",
+      "appId": "cheap.makeup.brands",
       "url": "https://play.google.com/store/apps/details?id=cheap.makeup.brands",
       "icon": "https://play-lh.googleusercontent.com/w6OaDefC2VlGiOWnpVU46e9zEdcKbyu79Lm7oAHGyYMor0wqpSyEDQrHUriNkEhnaA",
       "developer": "Cheap Prices in China. Free shipping deals.",
@@ -2481,7 +2481,7 @@
     },
     {
       "title": "Drawing sketch dress beautiful",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.cjandro.DressDrawing",
+      "appId": "com.cjandro.DressDrawing",
       "url": "https://play.google.com/store/apps/details?id=com.cjandro.DressDrawing",
       "icon": "https://play-lh.googleusercontent.com/HgYOD5I9lou6h5lLkCcdbwQLc2lU7ft3oZSoZ8J5AUCJZ9LS34L-U6LZb9QmR-9QqaA",
       "developer": "CJAndro",
@@ -2495,7 +2495,7 @@
     },
     {
       "title": "Рhone Сase DIУ",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.guidephone.casediy",
+      "appId": "com.guidephone.casediy",
       "url": "https://play.google.com/store/apps/details?id=com.guidephone.casediy",
       "icon": "https://play-lh.googleusercontent.com/__8igt4OynfbVwoet4nAhJEa1lYdcRU-wD9IaOuSYpguuWyJwJOe3uio6v7JLID8vy0",
       "developer": "Happy Mod LLC",
@@ -2509,7 +2509,7 @@
     },
     {
       "title": "Beautiful Makeup 2020",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.BeautifulMakeup.MobileDevAppLtd",
+      "appId": "com.BeautifulMakeup.MobileDevAppLtd",
       "url": "https://play.google.com/store/apps/details?id=com.BeautifulMakeup.MobileDevAppLtd",
       "icon": "https://play-lh.googleusercontent.com/_zShcPuylOu6T8qTdnpBIdQDXM-wVNd2aUmAA1V3Gr3x3bQYXOCtiSGQmKolVsIwkzA",
       "developer": "Adeline’s World",
@@ -2523,7 +2523,7 @@
     },
     {
       "title": "Coupons for BoxyCharm",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/app.coupons.forboxycharm",
+      "appId": "app.coupons.forboxycharm",
       "url": "https://play.google.com/store/apps/details?id=app.coupons.forboxycharm",
       "icon": "https://play-lh.googleusercontent.com/UrXjrbsI7ovbgxlsgQ4shPnnXqD9h0JZZE6nAlL1vVDBSB_RE-lDD7oexBdriprg7A",
       "developer": "Up to 75% Off",
@@ -2537,7 +2537,7 @@
     },
     {
       "title": "Hairy - Men Hairstyles beard & boys photo editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.dsrtech.menhairstyles",
+      "appId": "com.dsrtech.menhairstyles",
       "url": "https://play.google.com/store/apps/details?id=com.dsrtech.menhairstyles",
       "icon": "https://play-lh.googleusercontent.com/gzd5yk9C9wPzKtoPiqfGvfikn6KkRCDGK1m0b0Oj-JcuvAikKURTK614aRPMo-TBKW8",
       "developer": "Pixel Force Pvt Ltd",
@@ -2551,7 +2551,7 @@
     },
     {
       "title": "Каталог Фаберлик Онлайн",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.faberlic.catalog.beauty.app",
+      "appId": "com.faberlic.catalog.beauty.app",
       "url": "https://play.google.com/store/apps/details?id=com.faberlic.catalog.beauty.app",
       "icon": "https://play-lh.googleusercontent.com/M1utPGE_ioPumy3sak7FYzDenOdIKSdhDKtAu026FM0IVzAdcFNPSPPI10EzxN136g",
       "developer": "фаберлик каталоги",
@@ -2565,7 +2565,7 @@
     },
     {
       "title": "Mia Secret",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.miasecret",
+      "appId": "com.miasecret",
       "url": "https://play.google.com/store/apps/details?id=com.miasecret",
       "icon": "https://play-lh.googleusercontent.com/DCfDqmEZCV1LH_gahPf9pvLxNMpx3H2hVdiriXYWTq2v5NCQZ74NaxjSFsU5MkSfq60",
       "developer": "Mia Secret",
@@ -2579,7 +2579,7 @@
     },
     {
       "title": "Hwahae - analyzing cosmetics",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/kr.co.company.hwahae",
+      "appId": "kr.co.company.hwahae",
       "url": "https://play.google.com/store/apps/details?id=kr.co.company.hwahae",
       "icon": "https://play-lh.googleusercontent.com/5vrrZzL4jKg4Rs_SdGL9MuQbmxI1EmpQW9fuDMzY7N5-UuvMtJ1a4Kten6exClZSMfBH",
       "developer": "BirdView",
@@ -2593,7 +2593,7 @@
     },
     {
       "title": "Addon Sans Craft [2.0]",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.craftspygamemods.sans",
+      "appId": "com.craftspygamemods.sans",
       "url": "https://play.google.com/store/apps/details?id=com.craftspygamemods.sans",
       "icon": "https://play-lh.googleusercontent.com/O3sdT2vFwcl5xPJ-LHBsG89FO7mGWOGDBnpxRcNCDgjT8BErXUcaCr1Va6J3x7caM7pE",
       "developer": "Craft Spy Game Mods",
@@ -2607,7 +2607,7 @@
     },
     {
       "title": "Face Makeup Editor - Selfie Makeover Photo Camera",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/face.makeup.editor.selfie.photo.camera.prettymakeover",
+      "appId": "face.makeup.editor.selfie.photo.camera.prettymakeover",
       "url": "https://play.google.com/store/apps/details?id=face.makeup.editor.selfie.photo.camera.prettymakeover",
       "icon": "https://play-lh.googleusercontent.com/iO6U9rlNQIsYCrRs9LeAG3S1m3L1CXmlricj2VFz70-I1K8gmiYSW4i_dVFqD_gCAHA",
       "developer": "AppLogic Solutions",
@@ -2621,7 +2621,7 @@
     },
     {
       "title": "Girls Hairstyles",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/best.photo.app.girlshairstyles",
+      "appId": "best.photo.app.girlshairstyles",
       "url": "https://play.google.com/store/apps/details?id=best.photo.app.girlshairstyles",
       "icon": "https://play-lh.googleusercontent.com/ns2IsAyn1mh20C32k7GvsNKSAD0AUKO962oL2SxO21wSkeHYpjo7-DxV1jbhTLnuE3w",
       "developer": "Best Photo Apps",
@@ -2635,7 +2635,7 @@
     },
     {
       "title": "PhiApp",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.microblading_academy.MeasuringTool",
+      "appId": "com.microblading_academy.MeasuringTool",
       "url": "https://play.google.com/store/apps/details?id=com.microblading_academy.MeasuringTool",
       "icon": "https://play-lh.googleusercontent.com/HAIy-54S33RUE9N1hkemxPgREoS8fuoJqGEw8YpYZZNNnlICmPCwwZYX9aZ07Ku48h4",
       "developer": "PhiAcademy GmbH",
@@ -2649,7 +2649,7 @@
     },
     {
       "title": "Piercing Salon Photo Montage: Virtual Studio",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.MWOA.Piercing.Salon.Photo.Montage.Virtual.Studio",
+      "appId": "com.MWOA.Piercing.Salon.Photo.Montage.Virtual.Studio",
       "url": "https://play.google.com/store/apps/details?id=com.MWOA.Piercing.Salon.Photo.Montage.Virtual.Studio",
       "icon": "https://play-lh.googleusercontent.com/LFRhhB7R7L6ZNkWzlT1caKue_wSgIZ-PikA5sjhUJ8cqUhqBSJMHQgQFYV5urJN8OPI",
       "developer": "Magic World Of Apps",
@@ -2663,7 +2663,7 @@
     },
     {
       "title": "StyleKorean",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.stylekorean.www",
+      "appId": "com.stylekorean.www",
       "url": "https://play.google.com/store/apps/details?id=com.stylekorean.www",
       "icon": "https://play-lh.googleusercontent.com/nyosPJ85w9EAA2AIP5PTb_P5Zk1xgjlFyO2r0EUHLMn_wHJVlZOSR-gt1DD8HKqIi6k",
       "developer": "stylekorean.com",
@@ -2677,7 +2677,7 @@
     },
     {
       "title": "Makeup Artist Logo Design Maker",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.Makeup.Artist.Logo.Design.Maker.OGG",
+      "appId": "com.Makeup.Artist.Logo.Design.Maker.OGG",
       "url": "https://play.google.com/store/apps/details?id=com.Makeup.Artist.Logo.Design.Maker.OGG",
       "icon": "https://play-lh.googleusercontent.com/-PoEHflGKrWHBwubUIxcbRrZpAygEPqEN77cYZyr8hn4SwZDugB5ZXNTd8rWf79fZpjT",
       "developer": "OMG Girls Games",
@@ -2691,7 +2691,7 @@
     },
     {
       "title": "Face Makeup Editor - Beauty Selfie Photo Camera",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/face.makeup.editor.prettymakeover.beauty.selfie.photo.camera",
+      "appId": "face.makeup.editor.prettymakeover.beauty.selfie.photo.camera",
       "url": "https://play.google.com/store/apps/details?id=face.makeup.editor.prettymakeover.beauty.selfie.photo.camera",
       "icon": "https://play-lh.googleusercontent.com/p7epaILR5me9sZSpJraPTKuyfOnKX5_c1H96YFbOyKDmybgYY89As7fUPO-6uvKQHqkP",
       "developer": "cRealSolutions",
@@ -2705,7 +2705,7 @@
     },
     {
       "title": "Camera filter for snap chet",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.livevideomaker.funnycameraapp",
+      "appId": "com.livevideomaker.funnycameraapp",
       "url": "https://play.google.com/store/apps/details?id=com.livevideomaker.funnycameraapp",
       "icon": "https://play-lh.googleusercontent.com/9qzovBcMJFK0LPh74D9_JL31LM4HVrFPbCG1jj4jhgP32FlvTBzRXFMDEHpMPKdld_8",
       "developer": "Effect Master",
@@ -2719,7 +2719,7 @@
     },
     {
       "title": "Filters for Snapchat 💗 cat face & dog face 😍",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.filters.forSnapchat.filters4Snapchat",
+      "appId": "com.filters.forSnapchat.filters4Snapchat",
       "url": "https://play.google.com/store/apps/details?id=com.filters.forSnapchat.filters4Snapchat",
       "icon": "https://play-lh.googleusercontent.com/7VbCBQSgcHQAKELtgwY2tdqFhve6ySoCgizqmVgM1Rgll5Tk6tcRMbIWQC4P6Sfvf8w",
       "developer": "PREMIUM PHOTO STUDIO",
@@ -2733,7 +2733,7 @@
     },
     {
       "title": "Angel Wings Photo Editor",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/cah.angelwings.photoeditor",
+      "appId": "cah.angelwings.photoeditor",
       "url": "https://play.google.com/store/apps/details?id=cah.angelwings.photoeditor",
       "icon": "https://play-lh.googleusercontent.com/pmlpgtCusnvbNsX76JnkpdCRQWFZzDRmPig3Rx1LAJ6F4eOgyFrawmaYQPwweHbzO_4",
       "developer": "Rj Apps",
@@ -2747,7 +2747,7 @@
     },
     {
       "title": "Camera for iphone 12 pro - snap filter effect",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.cameraforiphone11.suzu",
+      "appId": "com.cameraforiphone11.suzu",
       "url": "https://play.google.com/store/apps/details?id=com.cameraforiphone11.suzu",
       "icon": "https://play-lh.googleusercontent.com/6yo8O4XE6UFf2EhCLCVCd1nk4mNIDiUGs884NfZaIscQnTIBe4Jc7Y7Nc4sUeo7lk8v4",
       "developer": "Suzu Apps",
@@ -2761,7 +2761,7 @@
     },
     {
       "title": "3D Makeup Games For Girls",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.Makeup.Games.Girls",
+      "appId": "com.Makeup.Games.Girls",
       "url": "https://play.google.com/store/apps/details?id=com.Makeup.Games.Girls",
       "icon": "https://play-lh.googleusercontent.com/76qnk3LLON51NbWFtbERM7kLLwAK9y80BJLYdupSebdIc6_LbDKohpCp896sF8YUkXM",
       "developer": "Webelinx Love Story Games",
@@ -2775,7 +2775,7 @@
     },
     {
       "title": "Men Hairstyle set my face",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.Bling2Bling.MenHairstylesetmyface",
+      "appId": "com.Bling2Bling.MenHairstylesetmyface",
       "url": "https://play.google.com/store/apps/details?id=com.Bling2Bling.MenHairstylesetmyface",
       "icon": "https://play-lh.googleusercontent.com/0SlWAPnRo1XkZ8GLXCJHN5KsAMU5SVYY8G-XjfiLEOgmPzbaZQK6M5Kp7WpBE1enR58",
       "developer": "Bling2Bling",
@@ -2789,7 +2789,7 @@
     },
     {
       "title": "Nail Art Designs 💅 - Manicure ideas, Nail polish",
-      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.kdmedia.nailsdesigns",
+      "appId": "com.kdmedia.nailsdesigns",
       "url": "https://play.google.com/store/apps/details?id=com.kdmedia.nailsdesigns",
       "icon": "https://play-lh.googleusercontent.com/xOYyLZD8kcF7ADErkFM33lolLZTChTzYzOKAprHGNOvig6rkDZCw9FzBN5psHhGlkXYb",
       "developer": "KDMedia",
