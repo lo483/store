@@ -3,239 +3,239 @@
   "data": [
     {
       "cat_name": "Application",
-      "cat_uname": "https://raw.githubusercontent.com/lo483/store/main/store/category/paid.json"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=APPLICATION&country=IQ"
     },
     {
       "cat_name": "Art&Design",
-      "cat_uname": "https://raw.githubusercontent.com/lo483/store/main/store/category/cat2.json"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=ART_AND_DESIGN&country=IQ"
     },
     {
-      "cat_name": "Keyboard",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=Kurdish Keyboard"
+      "cat_name": "Auto&Vehicles",
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=AUTO_AND_VEHICLES&country=IQ"
     },
     {
-      "cat_name": "Dict",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=Kurdish Dict"
+      "cat_name": "Beauty",
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=BEAUTY&country=IQ"
     },
     {
-      "cat_name": "Media",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=Kurdish News"
+      "cat_name": "Books&Reference",
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=BOOKS_AND_REFERENCE&country=IQ"
     },
     {
-      "cat_name": "Tv",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=Kurdish Tv"
+      "cat_name": "Business",
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=BUSINESS&country=IQ"
     },
     {
-      "cat_name": "Weather",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=Kurdish Weather"
+      "cat_name": "Comics",
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=COMICS&country=IQ"
     },
     {
-      "cat_name": "Book",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=Kurdish Book"
+      "cat_name": "Communication",
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=COMMUNICATION&country=IQ"
     },
     {
-      "cat_name": "Quotes",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=Kurdish Quotes"
+      "cat_name": "Dating",
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=DATING&country=IQ"
     },
     {
       "cat_name": "Education",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=EDUCATION"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=EDUCATION&country=IQ"
     },
     {
       "cat_name": "Entertainment",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=ENTERTAINMENT"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=ENTERTAINMENT&country=IQ"
     },
     {
       "cat_name": "Events",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=EVENTS"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=EVENTS&country=IQ"
     },
     {
       "cat_name": "Finance",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=FINANCE"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=FINANCE&country=IQ"
     },
     {
       "cat_name": "Food&Drink",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=FOOD AND DRINK"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=FOOD_AND_DRINK&country=IQ"
     },
     {
       "cat_name": "Health&Fitness",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=HEALTH AND FITNESS"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=HEALTH_AND_FITNESS&country=IQ"
     },
     {
       "cat_name": "House&Home",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=HOUSE AND HOME"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=HOUSE_AND_HOME&country=IQ"
     },
     {
       "cat_name": "Libraries&Demo",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=LIBRARIES AND DEMO"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=LIBRARIES_AND_DEMO&country=IQ"
     },
     {
       "cat_name": "Lifestyle",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=LIFESTYLE"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=LIFESTYLE&country=IQ"
     },
     {
       "cat_name": "Maps&Navigation",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=MAPS AND NAVIGATION"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=MAPS_AND_NAVIGATION&country=IQ"
     },
     {
       "cat_name": "Medical",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=MEDICAL"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=MEDICAL&country=IQ"
     },
     {
       "cat_name": "Music&Audio",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=MUSIC AND AUDIO"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=MUSIC_AND_AUDIO&country=IQ"
     },
     {
       "cat_name": "News&Magazines",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=NEWS AND MAGAZINES"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=NEWS_AND_MAGAZINES&country=IQ"
     },
     {
       "cat_name": "Parenting",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=PARENTING"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=PARENTING&country=IQ"
     },
     {
       "cat_name": "Personalization",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=PERSONALIZATION"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=PERSONALIZATION&country=IQ"
     },
     {
       "cat_name": "Photography",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=PHOTOGRAPHY"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=PHOTOGRAPHY&country=IQ"
     },
     {
       "cat_name": "Productivity",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=PRODUCTIVITY"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=PRODUCTIVITY&country=IQ"
     },
     {
       "cat_name": "Shopping",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=SHOPPING"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=SHOPPING&country=IQ"
     },
     {
       "cat_name": "Social",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=SOCIAL"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=SOCIAL&country=IQ"
     },
     {
       "cat_name": "Sports",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=SPORTS"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=SPORTS&country=IQ"
     },
     {
       "cat_name": "Tools",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=TOOLS"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=TOOLS&country=IQ"
     },
     {
       "cat_name": "Travel&Local",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=TRAVEL AND LOCAL"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=TRAVEL_AND_LOCAL&country=IQ"
     },
     {
       "cat_name": "VideoPlayers&Editors",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=VIDEO PLAYERS"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=VIDEO_PLAYERS&country=IQ"
     },
     {
       "cat_name": "WearOSbyGoogle",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=ANDROID WEAR"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=ANDROID_WEAR&country=IQ"
     },
     {
       "cat_name": "Weather",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=WEATHER"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=WEATHER&country=IQ"
     },
     {
       "cat_name": "Games",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=GAME&country=IQ"
     },
     {
       "cat_name": "Action",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME ACTION"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=GAME_ACTION&country=IQ"
     },
     {
       "cat_name": "Adventure",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME ADVENTURE"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=GAME_ADVENTURE&country=IQ"
     },
     {
       "cat_name": "Arcade",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME ARCADE"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=GAME_ARCADE&country=IQ"
     },
     {
       "cat_name": "Board",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME BOARD"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=GAME_BOARD&country=IQ"
     },
     {
       "cat_name": "Card",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME CARD"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=GAME_CARD&country=IQ"
     },
     {
       "cat_name": "Casino",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME CASINO"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=GAME_CASINO&country=IQ"
     },
     {
       "cat_name": "Casual",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME CASUAL"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=GAME_CASUAL&country=IQ"
     },
     {
       "cat_name": "Educational",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME EDUCATIONAL"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=GAME_EDUCATIONAL&country=IQ"
     },
     {
       "cat_name": "Music",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME MUSIC"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=GAME_MUSIC&country=IQ"
     },
     {
       "cat_name": "Puzzle",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME PUZZLE"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=GAME_PUZZLE&country=IQ"
     },
     {
       "cat_name": "Racing",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME RACING"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=GAME_RACING&country=IQ"
     },
     {
       "cat_name": "RolePlaying",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME ROLE PLAYING"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=GAME_ROLE_PLAYING&country=IQ"
     },
     {
       "cat_name": "Simulation",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME SIMULATION"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=GAME_SIMULATION&country=IQ"
     },
     {
       "cat_name": "Sports",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME SPORTS"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=GAME_SPORTS&country=IQ"
     },
     {
       "cat_name": "Strategy",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME STRATEGY"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=GAME_STRATEGY&country=IQ"
     },
     {
       "cat_name": "Trivia",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME TRIVIA"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=GAME_TRIVIA&country=IQ"
     },
     {
       "cat_name": "Word",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME WORD"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=GAME_WORD&country=IQ"
     },
     {
       "cat_name": "Family",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=FAMILY"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=FAMILY&country=IQ"
     },
     {
       "cat_name": "Action&Adventure",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=FAMILY ACTION"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=FAMILY_ACTION&country=IQ"
     },
     {
       "cat_name": "BrainGames",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=FAMILY BRAIN GAMES"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=FAMILY_BRAINGAMES&country=IQ"
     },
     {
       "cat_name": "Creativity",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=FAMILY CREATE"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=FAMILY_CREATE&country=IQ"
     },
     {
       "cat_name": "Education",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=FAMILY EDUCATION"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=FAMILY_EDUCATION&country=IQ"
     },
     {
       "cat_name": "Music&Video",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=FAMILY MUSICVIDEO"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=FAMILY_MUSICVIDEO&country=IQ"
     },
     {
       "cat_name": "PretendPlay",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=FAMILY PRETEND"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topgrossing&category=FAMILY_PRETEND&country=IQ"
     }
   ]
 }
