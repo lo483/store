@@ -11,231 +11,231 @@
     },
     {
       "cat_name": "Auto&Vehicles",
-      "cat_uname": "AUTO_AND_VEHICLES"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=Auto&Vehicles?"
     },
     {
       "cat_name": "Beauty",
-      "cat_uname": "BEAUTY"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=BEAUTY?"
     },
     {
       "cat_name": "Books&Reference",
-      "cat_uname": "BOOKS_AND_REFERENCE"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=BOOKS AND REFERENCE?"
     },
     {
       "cat_name": "Business",
-      "cat_uname": "BUSINESS"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=BUSINESS?"
     },
     {
       "cat_name": "Comics",
-      "cat_uname": "COMICS"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=COMICS?"
     },
     {
       "cat_name": "Communication",
-      "cat_uname": "COMMUNICATION"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=COMMUNICATION?"
     },
     {
       "cat_name": "Dating",
-      "cat_uname": "DATING"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=DATING?"
     },
     {
       "cat_name": "Education",
-      "cat_uname": "EDUCATION"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=EDUCATION?"
     },
     {
       "cat_name": "Entertainment",
-      "cat_uname": "ENTERTAINMENT"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=ENTERTAINMENT?"
     },
     {
       "cat_name": "Events",
-      "cat_uname": "EVENTS"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=EVENTS?"
     },
     {
       "cat_name": "Finance",
-      "cat_uname": "FINANCE"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=FINANCE?"
     },
     {
       "cat_name": "Food&Drink",
-      "cat_uname": "FOOD_AND_DRINK"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=FOOD AND DRINK?"
     },
     {
       "cat_name": "Health&Fitness",
-      "cat_uname": "HEALTH_AND_FITNESS"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=HEALTH AND FITNESS?"
     },
     {
       "cat_name": "House&Home",
-      "cat_uname": "HOUSE_AND_HOME"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=HOUSE AND HOME?"
     },
     {
       "cat_name": "Libraries&Demo",
-      "cat_uname": "LIBRARIES_AND_DEMO"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=LIBRARIES AND DEMO?"
     },
     {
       "cat_name": "Lifestyle",
-      "cat_uname": "LIFESTYLE"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=LIFESTYLE?"
     },
     {
       "cat_name": "Maps&Navigation",
-      "cat_uname": "MAPS_AND_NAVIGATION"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=MAPS AND NAVIGATION?"
     },
     {
       "cat_name": "Medical",
-      "cat_uname": "MEDICAL"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=MEDICAL?"
     },
     {
       "cat_name": "Music&Audio",
-      "cat_uname": "MUSIC_AND_AUDIO"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=MUSIC AND AUDIO?"
     },
     {
       "cat_name": "News&Magazines",
-      "cat_uname": "NEWS_AND_MAGAZINES"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=NEWS AND MAGAZINES?"
     },
     {
       "cat_name": "Parenting",
-      "cat_uname": "PARENTING"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=PARENTING?"
     },
     {
       "cat_name": "Personalization",
-      "cat_uname": "PERSONALIZATION"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=PERSONALIZATION?"
     },
     {
       "cat_name": "Photography",
-      "cat_uname": "PHOTOGRAPHY"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=PHOTOGRAPHY?"
     },
     {
       "cat_name": "Productivity",
-      "cat_uname": "PRODUCTIVITY"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=PRODUCTIVITY?"
     },
     {
       "cat_name": "Shopping",
-      "cat_uname": "SHOPPING"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=SHOPPING?"
     },
     {
       "cat_name": "Social",
-      "cat_uname": "SOCIAL"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=SOCIAL?"
     },
     {
       "cat_name": "Sports",
-      "cat_uname": "SPORTS"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=SPORTS?"
     },
     {
       "cat_name": "Tools",
-      "cat_uname": "TOOLS"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=TOOLS?"
     },
     {
       "cat_name": "Travel&Local",
-      "cat_uname": "TRAVEL_AND_LOCAL"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=TRAVEL AND LOCAL?"
     },
     {
       "cat_name": "VideoPlayers&Editors",
-      "cat_uname": "VIDEO_PLAYERS"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=VIDEO PLAYERS?"
     },
     {
       "cat_name": "WearOSbyGoogle",
-      "cat_uname": "ANDROID_WEAR"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=ANDROID WEAR?"
     },
     {
       "cat_name": "Weather",
-      "cat_uname": "WEATHER"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=WEATHER?"
     },
     {
       "cat_name": "Games",
-      "cat_uname": "GAME"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME?"
     },
     {
       "cat_name": "Action",
-      "cat_uname": "GAME_ACTION"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME ACTION?"
     },
     {
       "cat_name": "Adventure",
-      "cat_uname": "GAME_ADVENTURE"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME ADVENTURE?"
     },
     {
       "cat_name": "Arcade",
-      "cat_uname": "GAME_ARCADE"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME ARCADE?"
     },
     {
       "cat_name": "Board",
-      "cat_uname": "GAME_BOARD"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME BOARD?"
     },
     {
       "cat_name": "Card",
-      "cat_uname": "GAME_CARD"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME CARD?"
     },
     {
       "cat_name": "Casino",
-      "cat_uname": "GAME_CASINO"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME CASINO?"
     },
     {
       "cat_name": "Casual",
-      "cat_uname": "GAME_CASUAL"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME CASUAL?"
     },
     {
       "cat_name": "Educational",
-      "cat_uname": "GAME_EDUCATIONAL"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME EDUCATIONAL?"
     },
     {
       "cat_name": "Music",
-      "cat_uname": "GAME_MUSIC"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME MUSIC?"
     },
     {
       "cat_name": "Puzzle",
-      "cat_uname": "GAME_PUZZLE"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME PUZZLE?"
     },
     {
       "cat_name": "Racing",
-      "cat_uname": "GAME_RACING"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME RACING?"
     },
     {
       "cat_name": "RolePlaying",
-      "cat_uname": "GAME_ROLE_PLAYING"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME ROLE PLAYING?"
     },
     {
       "cat_name": "Simulation",
-      "cat_uname": "GAME_SIMULATION"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME SIMULATION?"
     },
     {
       "cat_name": "Sports",
-      "cat_uname": "GAME_SPORTS"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME SPORTS?"
     },
     {
       "cat_name": "Strategy",
-      "cat_uname": "GAME_STRATEGY"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME STRATEGY?"
     },
     {
       "cat_name": "Trivia",
-      "cat_uname": "GAME_TRIVIA"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME TRIVIA?"
     },
     {
       "cat_name": "Word",
-      "cat_uname": "GAME_WORD"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=GAME WORD?"
     },
     {
       "cat_name": "Family",
-      "cat_uname": "FAMILY"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=FAMILY?"
     },
     {
       "cat_name": "Action&Adventure",
-      "cat_uname": "FAMILY_ACTION"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=FAMILY ACTION?"
     },
     {
       "cat_name": "BrainGames",
-      "cat_uname": "FAMILY_BRAINGAMES"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=FAMILY BRAIN GAMES?"
     },
     {
       "cat_name": "Creativity",
-      "cat_uname": "FAMILY_CREATE"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=FAMILY CREATE?"
     },
     {
       "cat_name": "Education",
-      "cat_uname": "FAMILY_EDUCATION"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=FAMILY EDUCATION?"
     },
     {
       "cat_name": "Music&Video",
-      "cat_uname": "FAMILY_MUSICVIDEO"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=FAMILY MUSICVIDEO?"
     },
     {
       "cat_name": "PretendPlay",
-      "cat_uname": "FAMILY_PRETEND"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=FAMILY PRETEND?"
     }
   ]
 }
