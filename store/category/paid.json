@@ -3,7 +3,7 @@
   "results": [
     {
       "title": "Skincare Routine",
-      "appId": "com.theordinaryguide.app",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.theordinaryguide.app",
       "url": "https://play.google.com/store/apps/details?id=com.theordinaryguide.app",
       "icon": "https://play-lh.googleusercontent.com/n8fPRXqNVNkrCGK4Mh4sFBTiNCVvD2CEvNRv1HTOR9FjbQWuROEUrq9xT_Pi2bxqm7c",
       "developer": "Mento Apps Ltd",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Tattoo Font Designer PRO - Tattoo Maker",
-      "appId": "com.inknangels.TatAngelPro",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.inknangels.TatAngelPro",
       "url": "https://play.google.com/store/apps/details?id=com.inknangels.TatAngelPro",
       "icon": "https://play-lh.googleusercontent.com/Gk3FYTbMBHidrRMbdHGo-HsgMGLFjPsGojhWjgQ2z09ydiHrTHzOnBJsGCWlgfsWLg",
       "developer": "Evil Ink-Tattoo Design Apps and Calligraphy fonts",

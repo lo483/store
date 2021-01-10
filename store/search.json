@@ -3,7 +3,7 @@
   "results": [
     {
       "title": "KurdLab - QUOTES & DESIGN TEXT",
-      "appId": "com.app.quotes.asemob",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.app.quotes.asemob",
       "url": "https://play.google.com/store/apps/details?id=com.app.quotes.asemob",
       "icon": "https://play-lh.googleusercontent.com/g5jorZGhG6k2xkhQHoFVKdgesXg1_BFSucYGgNrnI15aBJisn0oBifAe_zb-kd81Y-x6",
       "developer": "KurdLab Team",
@@ -17,7 +17,7 @@
     },
     {
       "title": "TEXTLAB - DESIGN TEXT",
-      "appId": "com.app.quotes.asemob.eng",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.app.quotes.asemob.eng",
       "url": "https://play.google.com/store/apps/details?id=com.app.quotes.asemob.eng",
       "icon": "https://play-lh.googleusercontent.com/mE0SjkeNTkSQL_SWVoBT3c21w5QeTesPwx-MBPGYPHSDT0b6PxcpBnEXE58dB0HLKJc",
       "developer": "KurdLab Team",
@@ -31,7 +31,7 @@
     },
     {
       "title": "PixelLab - Text on pictures",
-      "appId": "com.imaginstudio.imagetools.pixellab",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.imaginstudio.imagetools.pixellab",
       "url": "https://play.google.com/store/apps/details?id=com.imaginstudio.imagetools.pixellab",
       "icon": "https://play-lh.googleusercontent.com/TqRTx4hbmOEeHz2PrH0lcWNNt83S5S22Qm06Epw5Ja-_0rPYgNYNQkAQRLaBKr2l4ew",
       "developer": "App Holdings",
@@ -45,7 +45,7 @@
     },
     {
       "title": "Neon Text On Photo",
-      "appId": "com.ttnnapps.NeonTextOnPhoto",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.ttnnapps.NeonTextOnPhoto",
       "url": "https://play.google.com/store/apps/details?id=com.ttnnapps.NeonTextOnPhoto",
       "icon": "https://play-lh.googleusercontent.com/oGaWTOBu7yLGgGOXDWp0g3cG7BBoM38qomXpvY2KxxAl_bpFiqzgA17WYpbmWf1laMxm",
       "developer": "ttnnapps",
@@ -59,7 +59,7 @@
     },
     {
       "title": "Textoon - 3D Text on photo Text over photo",
-      "appId": "com.pixellab.textoon",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.pixellab.textoon",
       "url": "https://play.google.com/store/apps/details?id=com.pixellab.textoon",
       "icon": "https://play-lh.googleusercontent.com/dy27i5b1yG15EvOioUeEf7JJjzGDo6MhjYtM5ToGNUGZJFXT90nD53cGzOQfVqQU6DCB",
       "developer": "Photo Editor Developers",
@@ -73,7 +73,7 @@
     },
     {
       "title": "Urdu Stylish Name Maker-Urdu Name Art-Text Editor",
-      "appId": "com.emilymack.urdustylishname.art.maker",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.emilymack.urdustylishname.art.maker",
       "url": "https://play.google.com/store/apps/details?id=com.emilymack.urdustylishname.art.maker",
       "icon": "https://play-lh.googleusercontent.com/opy7tTqUszkWJdSwnQIixpG2Mma7CaBwrxQ7rzhNfbrtqE9iDahkJNAm-pKcpJMsPFAO",
       "developer": "Emily mack",
@@ -87,7 +87,7 @@
     },
     {
       "title": "Posteroid",
-      "appId": "is.zigzag.posteroid",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/is.zigzag.posteroid",
       "url": "https://play.google.com/store/apps/details?id=is.zigzag.posteroid",
       "icon": "https://play-lh.googleusercontent.com/auBdVmGTHcSzA9-3_kuwyeMRcwiMj0uHQ7dMtSJetmAJU5lLxoCqMCn6HNhDuksaRw",
       "developer": "zigzag GmbH",
@@ -101,7 +101,7 @@
     },
     {
       "title": "شێوەگر (Kurdish)",
-      "appId": "com.shewagrkurdi",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.shewagrkurdi",
       "url": "https://play.google.com/store/apps/details?id=com.shewagrkurdi",
       "icon": "https://play-lh.googleusercontent.com/tBRyoefYvN3OFs4hL1bI7FaNvL43KcDlzHHUw6kiG0LSF80pmpGuVIXioNaU-F-tRw",
       "developer": "Halgurd Hussen",
@@ -115,7 +115,7 @@
     },
     {
       "title": "Islamic Post Maker - Text on Photo - Quotes Maker",
-      "appId": "com.tiflaneislam.urdupost.islamicpostmaker",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.tiflaneislam.urdupost.islamicpostmaker",
       "url": "https://play.google.com/store/apps/details?id=com.tiflaneislam.urdupost.islamicpostmaker",
       "icon": "https://play-lh.googleusercontent.com/CF33Dw_Z587U6CHYUbaGSH_rRV06YehM4cEXwNA5eJblKiddfgnOAMtWBh5pfiozyMw",
       "developer": "Tiflan-e-Islam",
@@ -129,7 +129,7 @@
     },
     {
       "title": "PixelLab - Text on Image",
-      "appId": "com.pixellab.image.lab",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.pixellab.image.lab",
       "url": "https://play.google.com/store/apps/details?id=com.pixellab.image.lab",
       "icon": "https://play-lh.googleusercontent.com/Pzc4OM3_A8MRMNfx45rYp7jQun_v1RQz9APBaI-brbujsULSxbvYqjedfrRCSJxWbTg",
       "developer": "Morsol Studio",
@@ -143,7 +143,7 @@
     },
     {
       "title": "PopArt Style",
-      "appId": "style.popart",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/style.popart",
       "url": "https://play.google.com/store/apps/details?id=style.popart",
       "icon": "https://play-lh.googleusercontent.com/4D-wBPGP-5TV2gK74PCWPaRTl-ymV3VHD2w9rOJudEyT_ZedRhU10aHmE5ZGv56i8w",
       "developer": "PopArt Style World",
@@ -157,7 +157,7 @@
     },
     {
       "title": "Kurdish KeyBoard | تەختەکلیلی كوردی",
-      "appId": "com.gorankeyboard.language.kurdi",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.gorankeyboard.language.kurdi",
       "url": "https://play.google.com/store/apps/details?id=com.gorankeyboard.language.kurdi",
       "icon": "https://play-lh.googleusercontent.com/I5GyIU6LqpQUBehe1PTnEd87xNY_kQk0a1YH7KTSgDWUArTnAb8EXWrxntu4yp7EqOk",
       "developer": "KurdTeam | کـــوردتـــیـــم",
@@ -171,7 +171,7 @@
     },
     {
       "title": "Kurdish keyboard 2020 - تەختەکلیلی كوردی Emoji's",
-      "appId": "com.kurdish.keyboard.kurdishtyping",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.kurdish.keyboard.kurdishtyping",
       "url": "https://play.google.com/store/apps/details?id=com.kurdish.keyboard.kurdishtyping",
       "icon": "https://play-lh.googleusercontent.com/V6OI7drgjMgMCRpOl1qMTnKzmNzmTiL39vPZNmKfSsD2kW8rCjhhr3RmFa86IVSiY-U",
       "developer": "BrainApps Circle",
@@ -185,7 +185,7 @@
     },
     {
       "title": "Bashi",
-      "appId": "com.bashi",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.bashi",
       "url": "https://play.google.com/store/apps/details?id=com.bashi",
       "icon": "https://play-lh.googleusercontent.com/JJGbRqTZ1e0L3YFZCmYDDaaeLhvRHSoqMmpB_BmyYV2d7TfMvFWoZHBYq5ItOVAGbUk5",
       "developer": "Bashi Limited",
@@ -199,7 +199,7 @@
     },
     {
       "title": "Pixllab",
-      "appId": "com.videoproduct1.pixllab",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.videoproduct1.pixllab",
       "url": "https://play.google.com/store/apps/details?id=com.videoproduct1.pixllab",
       "icon": "https://play-lh.googleusercontent.com/Dd7pFladRKFWh3lseqsgtmtB6xi_BS10W75kzxV2eb6w8Z94eE3oRXA5Xl4abtAwcy8",
       "developer": "Klavdiia Guliaeva",
@@ -213,7 +213,7 @@
     },
     {
       "title": "PixelLab - Photo Editor",
-      "appId": "com.gocamera.photoeditor",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.gocamera.photoeditor",
       "url": "https://play.google.com/store/apps/details?id=com.gocamera.photoeditor",
       "icon": "https://play-lh.googleusercontent.com/cv16yrRtdV-6G1H_2TnodTcG3o2CnScxtaKLYbgOt8UUzRDc-oqyehQmXVQs5vA4OOw",
       "developer": "Royal User",
@@ -227,7 +227,7 @@
     },
     {
       "title": "Font Style Candy: Text on Photo",
-      "appId": "com.pavahainc.fontstyle",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.pavahainc.fontstyle",
       "url": "https://play.google.com/store/apps/details?id=com.pavahainc.fontstyle",
       "icon": "https://play-lh.googleusercontent.com/YE_Vdj92pfdOiWxz9b7wQMQBNjvlL5dQlMi0E7UAm_PRXB31MZX8PfRN3nXFjXREig",
       "developer": "Pavaha Lab",
@@ -241,7 +241,7 @@
     },
     {
       "title": "KurdBeat",
-      "appId": "org.kurdbeat.app",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/org.kurdbeat.app",
       "url": "https://play.google.com/store/apps/details?id=org.kurdbeat.app",
       "icon": "https://play-lh.googleusercontent.com/ji2TwLrgqWjfzHzJ0Mlpxas-sxZ0I_jG6N05GdwgBJEqkWMXlOmRqo-girVgwi8mhRZ3",
       "developer": "Shaho Qaderi",
@@ -255,7 +255,7 @@
     },
     {
       "title": "Pexels",
-      "appId": "com.pexels.app",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.pexels.app",
       "url": "https://play.google.com/store/apps/details?id=com.pexels.app",
       "icon": "https://play-lh.googleusercontent.com/KtFwMsqVzBBpTFc8vR5SZRCNBvqknlWurnzTRl4J-2kdZhoM04LjklX9Vh8pl-fYfpU",
       "developer": "Pexels",
@@ -269,7 +269,7 @@
     },
     {
       "title": "Kurd Shopping",
-      "appId": "com.opaxlabs.kurdshopping",
+      "appId": "https://appsmarket-server1.api-playstore.com/api/apps/com.opaxlabs.kurdshopping",
       "url": "https://play.google.com/store/apps/details?id=com.opaxlabs.kurdshopping",
       "icon": "https://play-lh.googleusercontent.com/3F5mJW0WdP1DFOLujXdowzdUdntJRSJ-hzfNKzbwtMvEGAzMzHp3SFZ7FJNgzciFsYrQ",
       "developer": "Dev Centre House Ltd",

@@ -10,32 +10,32 @@
       "cat_uname": "https://raw.githubusercontent.com/lo483/store/main/store/category/cat2.json"
     },
     {
-      "cat_name": "Auto&Vehicles",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=Auto&Vehicles"
+      "cat_name": "Keyboard",
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=Kurdish Keyboard"
     },
     {
-      "cat_name": "Beauty",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=BEAUTY"
+      "cat_name": "Dict",
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=Kurdish Dict"
     },
     {
-      "cat_name": "Books&Reference",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=BOOKS AND REFERENCE"
+      "cat_name": "Media",
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=Kurdish News"
     },
     {
-      "cat_name": "Business",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=BUSINESS"
+      "cat_name": "Tv",
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=Kurdish Tv"
     },
     {
-      "cat_name": "Comics",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=COMICS"
+      "cat_name": "Weather",
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=Kurdish Weather"
     },
     {
-      "cat_name": "Communication",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=COMMUNICATION"
+      "cat_name": "Book",
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=Kurdish Book"
     },
     {
-      "cat_name": "Dating",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=DATING"
+      "cat_name": "Quotes",
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/search?q=Kurdish Quotes"
     },
     {
       "cat_name": "Education",
