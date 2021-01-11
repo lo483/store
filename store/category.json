@@ -3,7 +3,7 @@
   "data": [
     {
       "cat_name": "Application",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topselling_free&category=APPLICATION&country=IQ?"
+      "cat_uname": "https://raw.githubusercontent.com/lo483/store/main/store/new.json&"
     },
     {
       "cat_name": "Art&Design",
