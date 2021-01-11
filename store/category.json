@@ -11,7 +11,7 @@
     },
     {
       "cat_name": "Auto&Vehicles",
-      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topselling_free&category=AUTO_AND_VEHICLES&country=IQ"
+      "cat_uname": "https://appsmarket-server1.api-playstore.com/api/apps/?collection=topselling_free&category=AUTO_AND_VEHICLES&country=IQ&"
     },
     {
       "cat_name": "Beauty",
